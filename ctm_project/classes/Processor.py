@@ -16,8 +16,7 @@ class Processor:
         # Ajuste de pesos baseado no feedback
         pass
 
-    def produce_chunk(self, time):
-        # Produzir um novo chunk baseado no estado atual
+    def produce_chunk(self, time, weight=None, intensity=None, mood=None, gist=None):
         gist = f"Gist at time {time}"
         weight = random.uniform(-1, 1)
         intensity = abs(weight)

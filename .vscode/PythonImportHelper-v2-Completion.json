@@ -1,0 +1,241 @@
+[
+    {
+        "label": "STM",
+        "importPath": "ctm_project.classes.STM",
+        "description": "ctm_project.classes.STM",
+        "isExtraImport": true,
+        "detail": "ctm_project.classes.STM",
+        "documentation": {}
+    },
+    {
+        "label": "LTM",
+        "importPath": "ctm_project.classes.LTM",
+        "description": "ctm_project.classes.LTM",
+        "isExtraImport": true,
+        "detail": "ctm_project.classes.LTM",
+        "documentation": {}
+    },
+    {
+        "label": "DownTree",
+        "importPath": "ctm_project.classes.DownTree",
+        "description": "ctm_project.classes.DownTree",
+        "isExtraImport": true,
+        "detail": "ctm_project.classes.DownTree",
+        "documentation": {}
+    },
+    {
+        "label": "UpTree",
+        "importPath": "ctm_project.classes.UpTree",
+        "description": "ctm_project.classes.UpTree",
+        "isExtraImport": true,
+        "detail": "ctm_project.classes.UpTree",
+        "documentation": {}
+    },
+    {
+        "label": "InputMap",
+        "importPath": "ctm_project.classes.InputMap",
+        "description": "ctm_project.classes.InputMap",
+        "isExtraImport": true,
+        "detail": "ctm_project.classes.InputMap",
+        "documentation": {}
+    },
+    {
+        "label": "OutputMap",
+        "importPath": "ctm_project.classes.OutputMap",
+        "description": "ctm_project.classes.OutputMap",
+        "isExtraImport": true,
+        "detail": "ctm_project.classes.OutputMap",
+        "documentation": {}
+    },
+    {
+        "label": "TreeNode",
+        "importPath": "ctm_project.classes.TreeNode",
+        "description": "ctm_project.classes.TreeNode",
+        "isExtraImport": true,
+        "detail": "ctm_project.classes.TreeNode",
+        "documentation": {}
+    },
+    {
+        "label": "TreeNode",
+        "importPath": "ctm_project.classes.TreeNode",
+        "description": "ctm_project.classes.TreeNode",
+        "isExtraImport": true,
+        "detail": "ctm_project.classes.TreeNode",
+        "documentation": {}
+    },
+    {
+        "label": "Processor",
+        "importPath": "ctm_project.classes.Processor",
+        "description": "ctm_project.classes.Processor",
+        "isExtraImport": true,
+        "detail": "ctm_project.classes.Processor",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "Chunk",
+        "importPath": "ctm_project.classes.Chunk",
+        "description": "ctm_project.classes.Chunk",
+        "isExtraImport": true,
+        "detail": "ctm_project.classes.Chunk",
+        "documentation": {}
+    },
+    {
+        "label": "Chunk",
+        "importPath": "ctm_project.classes.Chunk",
+        "description": "ctm_project.classes.Chunk",
+        "isExtraImport": true,
+        "detail": "ctm_project.classes.Chunk",
+        "documentation": {}
+    },
+    {
+        "label": "Chunk",
+        "importPath": "ctm_project.classes.Chunk",
+        "description": "ctm_project.classes.Chunk",
+        "isExtraImport": true,
+        "detail": "ctm_project.classes.Chunk",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "CTM",
+        "importPath": "ctm_project.classes.CTM",
+        "description": "ctm_project.classes.CTM",
+        "isExtraImport": true,
+        "detail": "ctm_project.classes.CTM",
+        "documentation": {}
+    },
+    {
+        "label": "CTM",
+        "kind": 6,
+        "importPath": "ctm_project.classes.CTM",
+        "description": "ctm_project.classes.CTM",
+        "peekOfCode": "class CTM:\n    def __init__(self, num_processors):\n        self.stm = STM()\n        self.ltm = LTM(num_processors)\n        self.down_tree = DownTree(num_processors)\n        self.up_tree = UpTree(num_processors)\n        self.input_map = InputMap()\n        self.output_map = OutputMap()\n        self.time = 0\n    def run(self, total_time):",
+        "detail": "ctm_project.classes.CTM",
+        "documentation": {}
+    },
+    {
+        "label": "Chunk",
+        "kind": 6,
+        "importPath": "ctm_project.classes.Chunk",
+        "description": "ctm_project.classes.Chunk",
+        "peekOfCode": "class Chunk:\n    def __init__(self, address, time, gist, weight, intensity, mood):\n        self.address = address\n        self.time = time\n        self.gist = gist\n        self.weight = weight\n        self.intensity = intensity\n        self.mood = mood\n    def __repr__(self):\n        return f\"Chunk(addr={self.address}, time={self.time}, gist={self.gist}, weight={self.weight}, intensity={self.intensity}, mood={self.mood})\"",
+        "detail": "ctm_project.classes.Chunk",
+        "documentation": {}
+    },
+    {
+        "label": "DownTree",
+        "kind": 6,
+        "importPath": "ctm_project.classes.DownTree",
+        "description": "ctm_project.classes.DownTree",
+        "peekOfCode": "class DownTree:\n    def __init__(self, num_processors):\n        self.root = TreeNode()\n        self.leaves = [TreeNode() for _ in range(num_processors)]\n        for leaf in self.leaves:\n            self.root.add_child(leaf)\n    def broadcast(self, chunk):\n        self.root.broadcast(chunk)",
+        "detail": "ctm_project.classes.DownTree",
+        "documentation": {}
+    },
+    {
+        "label": "InputMap",
+        "kind": 6,
+        "importPath": "ctm_project.classes.InputMap",
+        "description": "ctm_project.classes.InputMap",
+        "peekOfCode": "class InputMap:\n    def __init__(self):\n        self.inputs = []\n    def add_input(self, input_data):\n        self.inputs.append(input_data)\n    def get_input(self, time):\n        return self.inputs[time] if time < len(self.inputs) else None",
+        "detail": "ctm_project.classes.InputMap",
+        "documentation": {}
+    },
+    {
+        "label": "LTM",
+        "kind": 6,
+        "importPath": "ctm_project.classes.LTM",
+        "description": "ctm_project.classes.LTM",
+        "peekOfCode": "class LTM:\n    def __init__(self, num_processors):\n        self.processors = [Processor(i) for i in range(num_processors)]\n    def process(self, chunk):\n        for processor in self.processors:\n            processor.process(chunk)\n    def produce_chunks(self, time):\n        return [processor.produce_chunk(time) for processor in self.processors]",
+        "detail": "ctm_project.classes.LTM",
+        "documentation": {}
+    },
+    {
+        "label": "Link",
+        "kind": 6,
+        "importPath": "ctm_project.classes.Links",
+        "description": "ctm_project.classes.Links",
+        "peekOfCode": "class Link:\n    def __init__(self, processor1, processor2):\n        self.processor1 = processor1\n        self.processor2 = processor2\n        self.weight = 0\n    def strengthen(self):\n        self.weight += 1\n    def weaken(self):\n        self.weight -= 1",
+        "detail": "ctm_project.classes.Links",
+        "documentation": {}
+    },
+    {
+        "label": "OutputMap",
+        "kind": 6,
+        "importPath": "ctm_project.classes.OutputMap",
+        "description": "ctm_project.classes.OutputMap",
+        "peekOfCode": "class OutputMap:\n    def __init__(self):\n        self.outputs = []\n    def add_output(self, output_data):\n        self.outputs.append(output_data)\n    def get_output(self, time):\n        return self.outputs[time] if time < len(self.outputs) else None",
+        "detail": "ctm_project.classes.OutputMap",
+        "documentation": {}
+    },
+    {
+        "label": "Processor",
+        "kind": 6,
+        "importPath": "ctm_project.classes.Processor",
+        "description": "ctm_project.classes.Processor",
+        "peekOfCode": "class Processor:\n    def __init__(self, address):\n        self.address = address\n        self.memory = []\n        self.weights = []\n    def process(self, chunk):\n        # Processamento específico de cada processador\n        self.memory.append(chunk)\n        self.adjust_weights(chunk)\n    def adjust_weights(self, feedback):",
+        "detail": "ctm_project.classes.Processor",
+        "documentation": {}
+    },
+    {
+        "label": "STM",
+        "kind": 6,
+        "importPath": "ctm_project.classes.STM",
+        "description": "ctm_project.classes.STM",
+        "peekOfCode": "class STM:\n    def __init__(self):\n        self.chunk = None\n        self.history = []  # Keep tracking of chunk history\n    def set_chunk(self, chunk):\n        self.chunk = chunk\n        self.history.append(chunk)  \n    def get_chunk(self):\n        return self.chunk",
+        "detail": "ctm_project.classes.STM",
+        "documentation": {}
+    },
+    {
+        "label": "TreeNode",
+        "kind": 6,
+        "importPath": "ctm_project.classes.TreeNode",
+        "description": "ctm_project.classes.TreeNode",
+        "peekOfCode": "class TreeNode:\n    def __init__(self):\n        self.data = None\n        self.children = []\n    def add_child(self, child_node):\n        self.children.append(child_node)\n    def broadcast(self, chunk):\n        self.data = chunk\n        for child in self.children:\n            child.broadcast(chunk)",
+        "detail": "ctm_project.classes.TreeNode",
+        "documentation": {}
+    },
+    {
+        "label": "UpTree",
+        "kind": 6,
+        "importPath": "ctm_project.classes.UpTree",
+        "description": "ctm_project.classes.UpTree",
+        "peekOfCode": "class UpTree:\n    def __init__(self, num_processors):\n        self.root = TreeNode()\n        self.leaves = [TreeNode() for _ in range(num_processors)]\n        self.nodes = [self.leaves]\n        self._build_tree()\n    def _build_tree(self):\n        current_level = self.leaves\n        while len(current_level) > 1:\n            next_level = []",
+        "detail": "ctm_project.classes.UpTree",
+        "documentation": {}
+    },
+    {
+        "label": "test_coin_flip_neuron",
+        "kind": 2,
+        "importPath": "tests.test_uptree",
+        "description": "tests.test_uptree",
+        "peekOfCode": "def test_coin_flip_neuron():\n    from ctm_project.classes.UpTree import UpTree\n    a = random.randint(1, 100)\n    b = random.randint(1, 100)\n    result = UpTree.coin_flip_neuron(a, b)\n    assert result in [a, b]",
+        "detail": "tests.test_uptree",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def main():\n    num_processors = 10\n    total_time = 100\n    ctm = CTM(num_processors)\n    # Adicionando entradas de exemplo\n    for t in range(total_time):\n        input_chunk = Chunk(address=-1, time=t, gist=f\"Input at time {t}\", weight=1.0, intensity=1.0, mood=1.0)\n        ctm.add_input(input_chunk)\n    # Executando a CTM\n    ctm.run(total_time)",
+        "detail": "main",
+        "documentation": {}
+    }
+]

@@ -1,3 +1,11 @@
+"""""
+The input maps in the CTM are responsible for transforming external sensory information into internal representations that the machine can process.
+They convert the data captured by the sensors into an internal language called Brainish (which will not be used in this work),
+encapsulate this information into chunks and send it to the LTM processors.
+"""""
+
+# Processar o Text com análise de sentimentos e tals
+
 class InputMap:
     def __init__(self):
         self.inputs = []
