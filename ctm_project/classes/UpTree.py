@@ -13,30 +13,40 @@ LTM and InputMap chunks compete here in the Up-Tree
 import random
 
 from TreeNode import TreeNode
+from ProcessorNode import ProcessorNode
 from Chunk import Chunk
+from ctm_project.classes.Processor import Processor
 
 
 class UpTree:
-    def __init__(self, num_processors):
-        self.root = TreeNode()
-        self.leaves = [TreeNode() for _ in range(num_processors)]
-        self.nodes = [self.leaves]
+    def __init__(self, processors:list):
+        self.processors = processors
         self._build_tree()
+        self.root = None
+        self.leaves = None
+        self._build_tree()
+        self._print_tree()
 
     def _build_tree(self):
+        if len(self.processors) <= 0:
+            return None
+        
+        self.leaves = [ProcessorNode(i) for i in range(1, self.processors + 1)]
         current_level = self.leaves
+        
         while len(current_level) > 1:
             next_level = []
+            
             for i in range(0, len(current_level), 2):
                 parent = TreeNode()
-                parent.add_child(current_level[i])
+                parent.add_l(current_level[i])
                 if i + 1 < len(current_level):
-                    parent.add_child(current_level[i + 1])
+                    parent.add_r(current_level[i+1])
                 next_level.append(parent)
-            self.nodes.append(next_level)
             current_level = next_level
+            
         self.root = current_level[0]
-        
+
     def coin_flip_neuron(self, a, b):
         elements = [a, b]
         if a == 0 and b == 0:
@@ -47,6 +57,12 @@ class UpTree:
             probabilities = [prob_a, prob_b]
         return random.choices(elements, weights=probabilities, k=1)[0]
 
+    def _print_tree(self, node, level=0, side='root'):
+        if node:
+            print(" " * (level * 4) + f"{side}: {node.value}")
+            self._print_tree(node.left, level + 1, "left")
+            self._print_tree(node.right, level + 1, "right")
+    
     def compete(self, chunks):
         for level in reversed(self.nodes):
             for node in level:

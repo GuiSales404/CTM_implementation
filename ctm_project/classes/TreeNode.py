@@ -1,12 +1,11 @@
 class TreeNode:
     def __init__(self):
         self.data = None
-        self.children = []
+        self.child_left = None
+        self.child_right = None
 
-    def add_child(self, child_node):
-        self.children.append(child_node)
-
-    def broadcast(self, chunk):
-        self.data = chunk
-        for child in self.children:
-            child.broadcast(chunk)  
+    def add_l(self, child_left):
+        self.child_left = child_left
+        
+    def add_r(self, child_right):
+        self.child_right = child_right
