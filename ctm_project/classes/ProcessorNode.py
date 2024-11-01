@@ -2,7 +2,8 @@ import random
 
 class ProcessorNode():
     def __init__(self, processor) -> None:
-        self.processor = processor
+        self.name = processor
+        self.parent = None
         
         
     def generate_gist():
