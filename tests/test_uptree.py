@@ -1,9 +1,4 @@
-import pytest
-import random
+from UpTree import UpTree
 
-def test_coin_flip_neuron():
-    from ctm_project.classes.UpTree import UpTree
-    a = random.randint(1, 100)
-    b = random.randint(1, 100)
-    result = UpTree.coin_flip_neuron(a, b)
-    assert result in [a, b]
+uptree = UpTree([1, 2, 3, 4, 5, 6, 7, 8])
+uptree.compete([1, 2, 3, 4, 5, 6, 7, 8])

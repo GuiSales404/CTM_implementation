@@ -1,0 +1,4 @@
+ctm_project/classes/__pycache__
+logs
+.vscode
+.pytest_cache
