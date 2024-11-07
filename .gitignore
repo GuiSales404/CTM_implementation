@@ -2,3 +2,4 @@ ctm_project/classes/__pycache__
 logs
 .vscode
 .pytest_cache
+fine_tunning_processor/sentiment_analysis/data
