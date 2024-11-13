@@ -7,6 +7,8 @@ from Chunk import Chunk
 
 class UpTree:
     def __init__(self, processors:list):
+        if len(processors) > 0 and (len(processors) & (len(processors) - 1)) != 0:
+            raise ValueError("Number of processors must be a power of 2")
         self.processors = processors
         self._build_tree()
         self.root = None
@@ -19,7 +21,7 @@ class UpTree:
         if len(self.processors) <= 0:
             return None
         
-        self.leaves = [ProcessorNode(f'{i}_{random.choice(string.ascii_lowercase)}') for i in range(1, len(self.processors) + 1)]
+        self.leaves = [ProcessorNode(processor) for processor in self.processors]
         current_level = self.leaves
         
         count = 0
@@ -60,9 +62,14 @@ class UpTree:
             probabilities = [prob_a, prob_b]
         return random.choices(elements, weights=probabilities, k=1)[0]
     
-    def compete(self, level, run=1):
-        if len(level) == 1:
+    def compete(self, level=None, run=1, new_root_name=None):
+        if level != None and len(level) == 1:
+            self.root.name = new_root_name
             return
+        
+        if not level:
+            level = self.leaves
+        
         competitors = []
         winners = []
         for node in level:
@@ -79,8 +86,10 @@ class UpTree:
                 print(f'\nrun {run}')
                 print('\tcompetitors:', [comp.name for comp in competitors])
                 print('\twinners:', [win.name for win in winners])
+                competitor = competitors[0]
                 competitors = []
-        self.compete(winners, 1+run)
+        competitor.parent.name = winners[-1].name
+        self.compete(winners, 1+run, winners[-1].name)
 
     def _competition_function(self, left_chunk, right_chunk):
         # left_value = left_chunk.intensity + 0.5 * left_chunk.mood

@@ -7,7 +7,7 @@ They are responsible for much of the dynamics and functionality of the model,
 acting as the source of ideas, responses, and information processing that can eventually become conscious.
 """""
 
-from ctm_project.classes.Processor import Processor
+from Processors import Processor
 
 class LTM:
     def __init__(self, num_processors):

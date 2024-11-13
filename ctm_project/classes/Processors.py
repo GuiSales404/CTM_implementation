@@ -45,7 +45,7 @@ class summarization:
         outputs = self.model.generate(input_ids, max_new_tokens=250, min_length=25)
         return self.tokenizer.decode(outputs[0], skip_special_tokens=True)
     
-class qa:
+class question_answering:
     def __init__(self):
         self.qa = pipeline("question-answering", model="pierreguillou/bert-base-cased-squad-v1.1-portuguese", device=0)
     
@@ -53,6 +53,11 @@ class qa:
         return self.qa(question=question, context=context)
     
 class llm_processor:
+    # caminho_modelo = "zhengr/MixTAO-7Bx2-MoE-Instruct-v7.0"
+    # caminho_modelo = "mistralai/Mistral-7B-v0.1"
+    # caminho_modelo = "stabilityai/stablelm-zephyr-3b"
+    # caminho_modelo = "HuggingFaceH4/zephyr-7b-beta"
+    # caminho_modelo = "stabilityai/stablelm-2-zephyr-1_6b"
     def __init__(self, model_path="stabilityai/stablelm-2-zephyr-1_6b"):
         self.model_path = model_path
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -82,8 +87,21 @@ class llm_processor:
         return self.tokenizer.decode(resumos[0], skip_special_tokens=True)
 
 class llama_processor:
-    def __init__(self):
-        self.pipe = pipeline("text-generation", model="meta-llama/Llama-3.2-1B", torch_dtype=torch.bfloat16, device_map="auto", pad_token_id=50256)
+    def __init__(self): 
+        self.pipe = pipeline(
+            "text-generation",
+            model="meta-llama/Llama-3.2-3B-Instruct",
+            torch_dtype=torch.bfloat16,
+            device_map="auto",
+        )
     
     def process(self, input):
-        return self.pipe(input, max_new_tokens=50)
+        messages = [
+                    {"role": "system", "content": "Você deve responder perguntas de inferência lógica corretamente. Retorne apenas a resposta final."},
+                    {"role": "user", "content": "Maria foi ao banheiro. João foi para o corredor. Maria foi para o escritório. Onde está Maria?"},
+                    ]
+        outputs = self.pipe(
+            messages,
+            max_new_tokens=256,
+        )
+        print(outputs[0]["generated_text"][-1])
