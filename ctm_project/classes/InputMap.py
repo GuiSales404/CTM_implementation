@@ -4,14 +4,24 @@ They convert the data captured by the sensors into an internal language called B
 encapsulate this information into chunks and send it to the LTM processors.
 """""
 
-# Processar o Text com análise de sentimentos e tals
+import spacy
 
 class InputMap:
-    def __init__(self):
-        self.inputs = []
+    def __init__(self, content):
+        """
+        Inicializa o InputMap com o conteúdo fornecido.
+        
+        :param content: Texto a ser particionado.
+        """
+        self.content = content
+        self.nlp = spacy.load("pt_core_news_sm")  # Modelo de português
 
-    def add_input(self, input_data):
-        self.inputs.append(input_data)
-
-    def get_input(self, time):
-        return self.inputs[time] if time < len(self.inputs) else None
+    def partition(self):
+        """
+        Divide o conteúdo em sentenças respeitando regras gramaticais.
+        
+        :return: Lista de sentenças particionadas.
+        """
+        doc = self.nlp(self.content)
+        sentences = [sent.text.strip() for sent in doc.sents]
+        return sentences

@@ -12,12 +12,17 @@ class ProcessorNode():
             
         self.parent = None
         map_processor = {
-            'sa': lambda: sentiment_analysis(),
+            'sentiment': lambda: sentiment_analysis(),
             'ner': lambda: ner(),
-            'sum': lambda: summarization(),
+            'summarization': lambda: summarization(),
             'qa': lambda: question_answering(),
             'llm': lambda: llm_processor(self.model_path),
-            'llama': lambda: llama_processor()
+            'llama': lambda: llama_processor(),
+            'syntatic-stanza': lambda: syntatic_tree_stanza_processor(),
+            'syntatic-spacy': lambda: syntatic_tree_spacy_processor(),
+            'irony': lambda: irony_detection_processor(),
+            'hate-speech': hate_speech_detection_processor(),
+            'emotion': emotion_detection_processor()
             #llm para rag e llm para definir a instrução do llama
         }
         

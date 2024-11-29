@@ -1,4 +1,7 @@
 import torch
+import spacy
+import stanza
+from pysentimiento import create_analyzer
 from transformers import pipeline
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from transformers import T5Tokenizer, T5ForConditionalGeneration
@@ -105,3 +108,52 @@ class llama_processor:
             max_new_tokens=256,
         )
         print(outputs[0]["generated_text"][-1])
+        
+class syntatic_tree_stanza_processor:
+    def __init__(self) -> None:
+        stanza.download('pt')
+        self.nlp = stanza.Pipeline('pt')
+        
+    def process(self, input):
+        doc = self.nlp(input)
+        
+        result = []
+        for sentence in doc.sentences:
+            for word in sentence.words:
+                result.append(f"{word.text} -> {word.deprel} -> {sentence.words[word.head - 1].text if word.head > 0 else 'ROOT'}")
+                
+        return result
+    
+class syntatic_tree_spacy_processor:
+    def __init__(self) -> None:
+        self.nlp = spacy.load("pt_core_news_sm")
+        
+    def process(self, input):
+        doc = self.nlp(input)
+        
+        result = []
+        for token in doc:
+            result.append(f"{token.text} -> {token.dep_} -> {token.head.text}")
+            
+        return result
+    
+class irony_detection_processor:
+    def __init__(self):
+        self.analyzer = create_analyzer(task='irony', lang='pt')
+        
+    def process(self, input):
+        return self.analyzer.predict(input).output
+    
+class hate_speech_detection_processor:
+    def __init__(self):
+        self.analyzer = create_analyzer(task='hate_speech', lang='pt')
+        
+    def process(self, input):
+        return self.analyzer.predict(input).output
+    
+class emotion_detection_processor:
+    def __init__(self):
+        self.analyzer = create_analyzer(task='emotion', lang='pt')
+        
+    def process(self, input):
+        return self.analyzer.predict(input).output

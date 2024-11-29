@@ -22,6 +22,7 @@ class UpTree:
             return None
         
         self.leaves = [ProcessorNode(processor) for processor in self.processors]
+
         current_level = self.leaves
         
         count = 0
@@ -69,7 +70,7 @@ class UpTree:
         
         if not level:
             level = self.leaves
-        
+            
         competitors = []
         winners = []
         for node in level:
