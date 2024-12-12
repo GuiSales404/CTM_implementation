@@ -7,15 +7,19 @@ They are responsible for much of the dynamics and functionality of the model,
 acting as the source of ideas, responses, and information processing that can eventually become conscious.
 """""
 
-from Processors import Processor
+from ProcessorNode import ProcessorNode
 
 class LTM:
-    def __init__(self, num_processors):
-        self.processors = [Processor(i) for i in range(num_processors)]
+    def __init__(self, processors: list) -> None:
+        
+        if len(processors) > 0 and (len(processors) & (len(processors) - 1)) != 0:
+            raise ValueError("Number of processors must be a power of 2")
+        
+        self.processors = [ProcessorNode(processor) for processor in processors]
+
+    def get_processors(self) -> list:
+        return self.processors
 
     def process(self, chunk):
         for processor in self.processors:
             processor.process(chunk)
-
-    def produce_chunks(self, time):
-        return [processor.produce_chunk(time) for processor in self.processors]

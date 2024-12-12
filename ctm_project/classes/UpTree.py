@@ -3,25 +3,25 @@ import string
 
 from TreeNode import TreeNode
 from ProcessorNode import ProcessorNode
-from Chunk import Chunk
+from LTM import LTM
+from STM import STM
 
 class UpTree:
-    def __init__(self, processors:list):
-        if len(processors) > 0 and (len(processors) & (len(processors) - 1)) != 0:
-            raise ValueError("Number of processors must be a power of 2")
-        self.processors = processors
+    def __init__(self, stm: STM, ltm: LTM) -> None:
         self._build_tree()
         self.root = None
         self.leaves = None
         self.height = 0
         self._build_tree()
         self._print_tree(self.root)
+        self.stm = stm
+        self.ltm = ltm
 
     def _build_tree(self):
         if len(self.processors) <= 0:
             return None
         
-        self.leaves = [ProcessorNode(processor) for processor in self.processors]
+        self.leaves = self.ltm.get_processors()
 
         current_level = self.leaves
         
@@ -42,6 +42,7 @@ class UpTree:
             current_level = next_level
             
         self.root = current_level[0]
+        self.stm.set_chunk(current_level[0])
         self.height = count
         
     def _print_tree(self, node, level=0, side='root'):
@@ -93,10 +94,8 @@ class UpTree:
         self.compete(winners, 1+run, winners[-1].name)
 
     def _competition_function(self, left_chunk, right_chunk):
-        # left_value = left_chunk.intensity + 0.5 * left_chunk.mood
-        # right_value = right_chunk.intensity + 0.5 * right_chunk.mood
-        left_value = 1 + 0.5 * random.randint(0, 1)
-        right_value = 1 + 0.5 * random.randint(0, 1)
+        left_value = left_chunk.intensity + 0.5 * left_chunk.mood
+        right_value = right_chunk.intensity + 0.5 * right_chunk.mood
         if left_value == self.coin_flip_neuron(left_value, right_value):
             selected_chunk = left_chunk
         else:

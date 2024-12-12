@@ -1,4 +1,5 @@
 import random
+
 from Processors import *
 from Chunk import Chunk
 
@@ -6,6 +7,8 @@ class ProcessorNode():
     def __init__(self, name) -> None:
         self.name = name
         self.parent = None
+        self.memory = []
+        self.actual_chunk = None
         
         if len(self.name.split('_')) == 3:
             self.model_path = self.name.split('_')[-1]
@@ -31,6 +34,27 @@ class ProcessorNode():
         else:
             raise ValueError(f"Processor {self.name} not found")
         
+    def receive_stm_chunk(self, chunk: Chunk) -> None:
+        self.actual_chunk = chunk
+        self.memory.append(chunk)
         
-    def generate_gist():
-        return random.randint(1, 100)
+        
+    def process_chunk(self) -> Chunk:
+        chunk_process = self.processor.process(self.actual_chunk)
+        result_chunk = self.generate_chunk(chunk_process)
+        return result_chunk
+        
+    def generate_chunk(self, processor_content) -> Chunk:
+        
+        weight = random.uniform(-10, 10)
+        intensity = abs(weight)
+        mood = 'positive' if weight > 0 else 'negative' if weight < 0 else 'neutral'
+        
+        return Chunk(
+            address=self.name,
+            time=0,
+            gist=processor_content,
+            weight=weight,
+            intensity=intensity,
+            mood=mood
+        )

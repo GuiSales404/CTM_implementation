@@ -4,11 +4,10 @@ This single chunk becomes the entirety of CTMs
 
 The "chunk" winner of the competition in the Up-Tree competition is transmitted to all Long Term Memory (LTM) processors.
 """""
-
 class STM:
     def __init__(self):
         self.chunk = None
-        self.history = []  # Keep tracking of chunk history
+        self.history = []
         
     def set_chunk(self, chunk):
         self.chunk = chunk
