@@ -20,6 +20,6 @@ class LTM:
     def get_processors(self) -> list:
         return self.processors
 
-    def process(self, chunk):
+    def process(self, chunk, subject) -> None:
         for processor in self.processors:
-            processor.process(chunk)
+            processor.process_chunk(chunk, subject)

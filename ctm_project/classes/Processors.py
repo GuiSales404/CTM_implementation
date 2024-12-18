@@ -47,20 +47,12 @@ class summarization:
         input_ids = self.tokenizer(input_text, return_tensors="pt").input_ids
         outputs = self.model.generate(input_ids, max_new_tokens=250, min_length=25)
         return self.tokenizer.decode(outputs[0], skip_special_tokens=True)
-    
-class question_answering:
-    def __init__(self):
-        self.qa = pipeline("question-answering", model="pierreguillou/bert-base-cased-squad-v1.1-portuguese", device=0)
-    
-    def process(self, question, context):
-        return self.qa(question=question, context=context)
-    
 class llm_processor:
-    # caminho_modelo = "zhengr/MixTAO-7Bx2-MoE-Instruct-v7.0"
-    # caminho_modelo = "mistralai/Mistral-7B-v0.1"
-    # caminho_modelo = "stabilityai/stablelm-zephyr-3b"
-    # caminho_modelo = "HuggingFaceH4/zephyr-7b-beta"
-    # caminho_modelo = "stabilityai/stablelm-2-zephyr-1_6b"
+    #"zhengr/MixTAO-7Bx2-MoE-Instruct-v7.0"
+    #"mistralai/Mistral-7B-v0.1"
+    #"stabilityai/stablelm-zephyr-3b"
+    #"HuggingFaceH4/zephyr-7b-beta"
+    #"stabilityai/stablelm-2-zephyr-1_6b"
     def __init__(self, model_path="stabilityai/stablelm-2-zephyr-1_6b"):
         self.model_path = model_path
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")

@@ -1,12 +1,55 @@
 from UpTree import UpTree
+from Processors import *
+from STM import STM
+from LTM import LTM
 
-uptree = UpTree(['sentiment', 'ner', 'summarization', 'qa', 'llm', 'llama', 'syntatic-stanza', 'syntatic-spacy'])
-uptree.compete()
+stm = STM()
+ltm = LTM(['llm']*8)
 
-# from InputMap import InputMap
+upt = UpTree(stm=stm, ltm=ltm)
 
-# a = InputMap("""Fazem 128 anos desde a publicação dos estudos sobre histeria (1893), de Breuer e Freud, onde o caso de Anna O. foi apresentado. Esta foi atendida por Breuer quando tinha 21 anos, e por mais que Freud não a atendeu, acabou por tornar o caso crucial para invenção da psicanálise. Ela apresentava sintomas histéricos, dentre eles, tosse, paralisias diversas, analgesias, distúrbios e alucinações visuais, desorganização da linguagem, mistura das línguas que falava, por vezes mutismo. Havia dois estados de consciência inteiramente distintos, que se alternavam. Num desses estados ela reconhecia seu ambiente, ficava melancólica e angustiada, mas relativamente normal, no outro tinha “alucinações”, e ficava agressiva. Com a morte do pai, precisou mudar, ficou no campo, Breuer a visitava a tardezinha, quando ela se encontrava no estado hipnótico, e não conseguia ir todos os dias. Então, quando ia ela descarregava os produtos imaginativos que ela tinha acumulado desde a última visita. No dia seguinte da visita ela ficava calma, mas no segundo dia já ficava irritada e assim por diante. Anna mesmo descrevia o método como “talking cure”, ou seja, cura pela fala, e se referia a ele como “chimney-sweeping, que quer dizer limpeza de chaminé.""").partition()
+gist = {
+    'sentence': 'Eu não sou capaz de acreditar que a raíz quadrada de 2 é um número irracional.',
+	'syntatic_tree_stanza': ['Eu -> nsubj -> capaz',
+	'não -> advmod -> capaz',
+	'sou -> cop -> capaz',
+	'capaz -> root -> ROOT',
+	'de -> mark -> acreditar',
+	'acreditar -> xcomp -> capaz',
+	'que -> mark -> número',
+	'a -> det -> raíz',
+	'raíz -> nsubj -> número',
+	'quadrada -> amod -> raíz',
+	'de -> case -> 2',
+	'2 -> nmod -> raíz',
+	'é -> cop -> número',
+	'um -> det -> número',
+	'número -> ccomp -> acreditar',
+	'irracional -> amod -> número',
+	'. -> punct -> capaz'],
+	'syntatic_tree_spacy': ['Eu -> nsubj -> capaz',
+	'não -> advmod -> capaz',
+	'sou -> cop -> capaz',
+	'capaz -> ROOT -> capaz',
+	'de -> mark -> acreditar',
+	'acreditar -> xcomp -> capaz',
+	'que -> mark -> número',
+	'a -> det -> raíz',
+	'raíz -> nsubj -> número',
+	'quadrada -> advmod -> raíz',
+	'de -> case -> 2',
+	'2 -> nmod -> quadrada',
+	'é -> cop -> número',
+	'um -> det -> número',
+	'número -> ccomp -> acreditar',
+	'irracional -> amod -> número',
+	'. -> punct -> capaz'],
+	'irony': 'ironic',
+	'hate_speech': [],
+	'emotion_detection': ['surprise'],
+	'sentiment_analysis': [{'label': '1 star', 'score': 0.45975199341773987}],
+	'ner': [],
+	'summarization': 'I no sabe que a raz quadrada de 2 é um nmero irracional.'
+}
 
-# for sentence in a:
-#     print()
-#     print('-', sentence)
+ltm.process(gist, 'Input')

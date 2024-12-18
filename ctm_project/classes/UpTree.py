@@ -1,6 +1,7 @@
 import random
 import string
 
+from DiscreteClock import DiscreteClock
 from TreeNode import TreeNode
 from ProcessorNode import ProcessorNode
 from LTM import LTM
@@ -8,17 +9,16 @@ from STM import STM
 
 class UpTree:
     def __init__(self, stm: STM, ltm: LTM) -> None:
+        self.stm = stm
+        self.ltm = ltm
         self._build_tree()
         self.root = None
         self.leaves = None
         self.height = 0
-        self._build_tree()
         self._print_tree(self.root)
-        self.stm = stm
-        self.ltm = ltm
 
     def _build_tree(self):
-        if len(self.processors) <= 0:
+        if len(self.ltm.get_processors()) <= 0:
             return None
         
         self.leaves = self.ltm.get_processors()
@@ -65,6 +65,7 @@ class UpTree:
         return random.choices(elements, weights=probabilities, k=1)[0]
     
     def compete(self, level=None, run=1, new_root_name=None):
+        DiscreteClock().increment_time()
         if level != None and len(level) == 1:
             self.root.name = new_root_name
             return
