@@ -1,6 +1,8 @@
+import random
 import torch
 import spacy
 import stanza
+from openai import OpenAI
 from pysentimiento import create_analyzer
 from transformers import pipeline
 from transformers import AutoTokenizer, AutoModelForCausalLM
@@ -53,53 +55,78 @@ class llm_processor:
     #"stabilityai/stablelm-zephyr-3b"
     #"HuggingFaceH4/zephyr-7b-beta"
     #"stabilityai/stablelm-2-zephyr-1_6b"
-    def __init__(self, model_path="stabilityai/stablelm-2-zephyr-1_6b"):
+    def __init__(self, model_path="lm-studio", messages=None, temperature=None):
+        
         self.model_path = model_path
-        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-        self.tokenizer = AutoTokenizer.from_pretrained(self.model_path, trust_remote_code=True)
-        model = AutoModelForCausalLM.from_pretrained(self.model_path, trust_remote_code=True).to(self.device)
 
-        if self.device.type == 'cuda':
-            torch.set_default_tensor_type(torch.cuda.BFloat16Tensor)
+        if model_path == "lm-studio":
+            self.messages = messages if messages is not None else [{'role': 'system', 'content': 'Você deve responder perguntas de inferência lógica corretamente. Retorne apenas a resposta final.'}]
+            self.temperature = temperature if temperature is not None else round(random.uniform(0.1, 1), 1)
 
-        if self.tokenizer.pad_token_id is None:
-            self.tokenizer.pad_token_id = self.tokenizer.eos_token_id
-            
-    def process(self, input):
-        input_ids = self.tokenizer(input, return_tensors="pt", truncation=True, max_length=16).to(self.device)
-        max_length = input_ids.shape[1] + 10 
-        attention_mask = torch.ones(input_ids.shape, dtype=torch.long, device=self.device)
-        resumos = self.model.generate(
-                                input_ids=input_ids,
-                                attention_mask=attention_mask,
-                                max_length=max_length,
-                                do_sample=True,
-                                temperature=0.1,
-                                num_return_sequences=1,
-                                eos_token_id=self.tokenizer.eos_token_id,
-                                pad_token_id=self.tokenizer.pad_token_id
-                                )
-        return self.tokenizer.decode(resumos[0], skip_special_tokens=True)
+        else:
+            self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+            self.tokenizer = AutoTokenizer.from_pretrained(self.model_path, trust_remote_code=True)
+            model = AutoModelForCausalLM.from_pretrained(self.model_path, trust_remote_code=True).to(self.device)
 
-class llama_processor:
-    def __init__(self): 
-        self.pipe = pipeline(
-            "text-generation",
-            model="meta-llama/Llama-3.2-3B-Instruct",
-            torch_dtype=torch.bfloat16,
-            device_map="auto",
-        )
+            if self.device.type == 'cuda':
+                torch.set_default_tensor_type(torch.cuda.BFloat16Tensor)
+
+            if self.tokenizer.pad_token_id is None:
+                self.tokenizer.pad_token_id = self.tokenizer.eos_token_id
     
-    def process(self, input):
-        messages = [
-                    {"role": "system", "content": "Você deve responder perguntas de inferência lógica corretamente. Retorne apenas a resposta final."},
-                    {"role": "user", "content": "Maria foi ao banheiro. João foi para o corredor. Maria foi para o escritório. Onde está Maria?"},
-                    ]
-        outputs = self.pipe(
-            messages,
-            max_new_tokens=256,
+    def get_id(self):
+        return self.model_path, self.temperature
+    
+    def verify_input_type(self, input_message):
+        if isinstance(input_message, list) and all(isinstance(item, dict) for item in input_message):
+            return 'message'
+        elif isinstance(input_message, str):
+            return 'text_input'
+        else:
+            TypeError('Input must be a string or a list of dictionaries.')
+    
+    def process(self, input_message, role):
+        if self.model_path == "lm-studio":
+            self.add_to_messages(input_message, role)
+            client = OpenAI(
+                        # LM Studio API Key
+                        base_url='http://localhost:1234/v1'
+                        )
+            input_type = self.verify_input_type(input_message)
+            if input_type == 'text_input':
+                self.messages.append({'role': role, 'content': input_message})
+            elif input_type == 'message':
+                self.messages = input_message
+                
+            response = client.chat.completions.create(
+                                                        model='Mistral-Nemo',
+                                                        messages=self.messages,
+                                                        temperature=self.temperature
+                                                    )
+            return response.choices[0].message.content
+        else:
+            input_ids = self.tokenizer(input_message, return_tensors="pt", truncation=True, max_length=16).to(self.device)
+            max_length = input_ids.shape[1] + 10 
+            attention_mask = torch.ones(input_ids.shape, dtype=torch.long, device=self.device)
+            resumos = self.model.generate(
+                                    input_ids=input_ids,
+                                    attention_mask=attention_mask,
+                                    max_length=max_length,
+                                    do_sample=True,
+                                    temperature=0.1,
+                                    num_return_sequences=1,
+                                    eos_token_id=self.tokenizer.eos_token_id,
+                                    pad_token_id=self.tokenizer.pad_token_id
+                                    )
+            return self.tokenizer.decode(resumos[0], skip_special_tokens=True)
+        
+    def add_to_messages(self, message, role):
+        self.messages.append(
+            {
+                'role': role,
+                'content': message
+            }
         )
-        print(outputs[0]["generated_text"][-1])
         
 class syntatic_tree_stanza_processor:
     def __init__(self) -> None:

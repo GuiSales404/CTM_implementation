@@ -10,16 +10,20 @@ acting as the source of ideas, responses, and information processing that can ev
 from ProcessorNode import ProcessorNode
 
 class LTM:
-    def __init__(self, processors: list) -> None:
+    def __init__(self, processors: int) -> None:
         
-        if len(processors) > 0 and (len(processors) & (len(processors) - 1)) != 0:
+        if processors > 0 and (processors & processors - 1) != 0:
             raise ValueError("Number of processors must be a power of 2")
         
-        self.processors = [ProcessorNode(processor) for processor in processors]
+        self.processors = [ProcessorNode() for x in range(processors)]
 
     def get_processors(self) -> list:
         return self.processors
 
     def process(self, chunk, subject) -> None:
+        result = []
         for processor in self.processors:
-            processor.process_chunk(chunk, subject)
+            result.append((processor.name, processor.process_chunk_LTM(chunk, subject)))
+        for x, y in result:
+            print(x, ':', y)
+            print()

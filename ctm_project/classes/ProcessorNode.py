@@ -1,50 +1,39 @@
-from Processors import sentiment_analysis, llm_processor, llama_processor
+from Processors import sentiment_analysis, llm_processor
 from Chunk import Chunk
 
 class ProcessorNode():
-    def __init__(self, name) -> None:
-        self.name = name
+    def __init__(self) -> None:
+        self.processor = llm_processor()
+        model_name, temperature = llm_processor().get_id()
+        self.name = f'{model_name}_{temperature}'
         self.parent = None
         self.memory = []
         self.actual_stm_chunk = None
         self.actual_input_chunk = None
-        
-        if len(self.name.split('_')) == 3:
-            self.model_path = self.name.split('_')[-1]
-        if len(self.name.split('_')) == 1:
-            self.model_path = None
-            
         self.parent = None
-        map_processor = {
-            'llm': lambda: llm_processor(self.model_path),
-            'llama': lambda: llama_processor(),
-        }
-        
-        if self.name.split('_')[0] in map_processor:
-            self.processor = map_processor[self.name.split('_')[0]]
-        else:
-            raise ValueError(f"Processor {self.name} not found")
 
     def format_to_memory(self, subject, gist):
         return {
-            'subject': subject,
-            'gist': gist
+            'role': subject,
+            'content': gist
             }  
         
     def receive_stm_chunk(self, chunk: Chunk) -> None:
         self.actual_stm_chunk = chunk
-        self.memory.append(self.format_to_memory('CTM', chunk['gist']))
+        self.memory.append(self.format_to_memory('system', chunk['gist']))
         
     def receive_input_chunk(self, chunk: Chunk) -> None:
         self.actual_input_chunk = chunk
-        self.memory.append(self.format_to_memory('Input', chunk['gist']))
+        self.memory.append(self.format_to_memory('user', chunk['gist']))
         
-    def process_chunk(self, chunk, subject) -> Chunk:
+    def process_chunk_LTM(self, chunk, subject) -> Chunk:
         self.memory.append(self.format_to_memory(subject, chunk))
-        chunk_process = self.processor().process(self.memory)
+        chunk_process = self.processor.process(chunk, subject)
         result_chunk = self.generate_chunk(chunk_process)
-        print('Processor:', self.name, 'processed:', result_chunk)
         return result_chunk
+    
+    def process_chunk_Input(self, chunk, subject) -> Chunk:
+        return
         
     def generate_chunk(self, processor_content) -> Chunk:
         sa = sentiment_analysis()
@@ -60,3 +49,7 @@ class ProcessorNode():
             intensity=intensity,
             mood=mood
         )
+        
+    def show_memory(self):
+        for x in self.memory:
+            print(x)

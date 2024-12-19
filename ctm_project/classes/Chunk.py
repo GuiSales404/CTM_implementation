@@ -8,14 +8,10 @@ class Chunk:
         self.mood = mood
 
     def __repr__(self):
-        return {
-            'address': self.address,
-            'time': self.time,
-            'gist': self.gist,
-            'weight': self.weight,
-            'intensity': self.intensity,
-            'mood': self.mood
-        } 
+        return (f"Chunk(address={self.address}, time={self.time}, "
+                f"gist={self.gist}, weight={self.weight}, "
+                f"intensity={self.intensity}, mood={self.mood})")
+
 
 
 # Se for para QA o peso deve ser 1 para processadores LLM e 0.5 para outros

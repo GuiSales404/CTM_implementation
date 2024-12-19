@@ -1,10 +1,17 @@
+# from Processors import llm_processor
+
+# a = llm_processor()
+
+# answer = a.process('Maria foi ao banheiro. João foi para o corredor. Maria foi para o escritório. Onde está Maria?', 'user')
+# print('\nResposta:', answer)
+
 from UpTree import UpTree
 from Processors import *
 from STM import STM
 from LTM import LTM
 
 stm = STM()
-ltm = LTM(['llm']*8)
+ltm = LTM(8)
 
 upt = UpTree(stm=stm, ltm=ltm)
 
@@ -52,4 +59,4 @@ gist = {
 	'summarization': 'I no sabe que a raz quadrada de 2 é um nmero irracional.'
 }
 
-ltm.process(gist, 'Input')
+ltm.process(str(gist), 'user')
