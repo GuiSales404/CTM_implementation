@@ -14,8 +14,8 @@ class CTM:
         self.up_tree = UpTree(self.stm, self.ltm)
         self.down_tree = DownTree(self.stm, self.ltm)
         self.input_map = InputMap(content)
-        self.output_map = OutputMap()
         self.discrete_clock = DiscreteClock()
+        self.output_map = OutputMap()
 
     def run(self):
         interactions = self.input_map.input_gist
