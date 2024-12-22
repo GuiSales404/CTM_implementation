@@ -23,7 +23,9 @@ class LTM:
     def process(self, chunk, subject) -> None:
         result = []
         for processor in self.processors:
-            result.append((processor.name, processor.process_chunk_LTM(chunk, subject)))
-        for x, y in result:
-            print(x, ':', y)
-            print()
+            result.append(processor.process_chunk_LTM(chunk, subject))
+        
+        return result
+        # for x, y in result:
+        #     print(x, ':', y)
+        #     print()

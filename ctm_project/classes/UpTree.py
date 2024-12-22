@@ -68,6 +68,7 @@ class UpTree:
         DiscreteClock().increment_time()
         if level != None and len(level) == 1:
             self.root.name = new_root_name
+            print('Winner:', self.root.name)
             return
         
         if not level:

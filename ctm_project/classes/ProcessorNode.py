@@ -39,7 +39,8 @@ class ProcessorNode():
         sa = sentiment_analysis()
         weight = sa.process(processor_content)[0]['score']
         intensity = abs(weight)
-        mood = 'positive' if weight > 0 else 'negative' if weight < 0 else 'neutral'
+        # mood = 'positive' if weight > 0 else 'negative' if weight < 0 else 'neutral'
+        mood = weight.copy()
         
         return Chunk(
             address=self.name,

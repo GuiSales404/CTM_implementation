@@ -21,7 +21,8 @@ class ner:
         self.ner = pipeline("token-classification", model="pierreguillou/ner-bert-base-cased-pt-lenerbr", device=0)
     
     def process(self, text):
-        return self.ner(text)
+        tokens = self.ner(text)
+        return self.group_tokens(tokens)
     
     def group_tokens(self, tokens):
         for pos, item in enumerate(tokens):
@@ -60,7 +61,7 @@ class llm_processor:
         self.model_path = model_path
 
         if model_path == "lm-studio":
-            self.messages = messages if messages is not None else [{'role': 'system', 'content': 'Você deve responder perguntas de inferência lógica corretamente. Retorne apenas a resposta final.'}]
+            self.messages = messages if messages is not None else [{'role': 'system', 'content': 'Você deve ler um texto e expressar ideia(s) sobre ele. Retorne a ideia.'}]
             self.temperature = temperature if temperature is not None else round(random.uniform(0.1, 1), 1)
 
         else:
@@ -97,7 +98,6 @@ class llm_processor:
                 self.messages.append({'role': role, 'content': input_message})
             elif input_type == 'message':
                 self.messages = input_message
-                
             response = client.chat.completions.create(
                                                         model='Mistral-Nemo',
                                                         messages=self.messages,
