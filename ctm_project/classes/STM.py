@@ -15,3 +15,7 @@ class STM:
 
     def get_chunk(self):
         return self.chunk
+    
+    def evaluate_interaction(self, interaction):
+        self.set_chunk(interaction)
+        

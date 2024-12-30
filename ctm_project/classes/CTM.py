@@ -21,5 +21,5 @@ class CTM:
         interactions = self.input_map.input_gist
         for interaction in interactions:
             self.discrete_clock.increment_time()
-            processors_chunks = self.ltm.process(interaction, 'user')
+            processors_chunks = self.ltm.process_input(interaction, 'user')
             self.up_tree.compete(level=processors_chunks)

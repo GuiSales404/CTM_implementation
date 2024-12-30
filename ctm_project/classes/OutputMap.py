@@ -3,6 +3,7 @@ Is responsible for converting the machine's internal representations into signal
 allowing the CTM to interact with the environment.
 They translate CTM intentions, decisions, or responses into physical actions, verbal expressions, or other forms of output that impact the external world.
 """
+from classes.Chunk import Chunk
 
 class OutputMap:
     def __init__(self):
@@ -13,3 +14,7 @@ class OutputMap:
 
     def get_output(self, time):
         return self.outputs[time] if time < len(self.outputs) else None
+    
+    def output(self, Chunk):
+        self.add_output(Chunk)
+        print("\n\n OUTPUT: ", Chunk)

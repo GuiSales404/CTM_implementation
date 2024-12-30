@@ -10,6 +10,7 @@ class ProcessorNode():
         self.memory = []
         self.actual_stm_chunk = None
         self.actual_input_chunk = None
+        self.actual_result_chunk = None
         self.parent = None
 
     def format_to_memory(self, subject, gist):
@@ -30,10 +31,15 @@ class ProcessorNode():
         self.memory.append(self.format_to_memory(subject, chunk))
         chunk_process = self.processor.process(chunk, subject)
         result_chunk = self.generate_chunk(chunk_process)
+        self.actual_result_chunk = result_chunk
         return result_chunk
     
-    def process_chunk_Input(self, chunk, subject) -> Chunk:
-        return
+    def process_chunk_input(self, chunk, subject) -> Chunk:
+        self.memory.append(self.format_to_memory(subject, chunk))
+        chunk_process = self.processor.process(chunk, subject)
+        result_chunk = self.generate_chunk(chunk_process)
+        self.actual_result_chunk = result_chunk
+        return result_chunk
         
     def generate_chunk(self, processor_content) -> Chunk:
         sa = sentiment_analysis()
