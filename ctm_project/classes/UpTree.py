@@ -14,17 +14,23 @@ from Chunk import Chunk
 from DiscreteClock import DiscreteClock
 from TreeNode import TreeNode
 from ProcessorNode import ProcessorNode
-from LTM import LTM
-from STM import STM
 
 class UpTree:
-    def __init__(self, stm: STM, ltm: LTM) -> None:
-        self.stm = stm
-        self.ltm = ltm
-        self._build_tree()
-        self.root = Chunk('root', 0, '', 0, 0, 0)
-        self.leaves = None
-        self.height = 0
+    _instance = None  
+    def __new__(cls, *args, **kwargs):
+        if cls._instance is None:
+            cls._instance = super(UpTree, cls).__new__(cls)
+            cls._instance._initialized = False  
+        return cls._instance
+
+    def __init__(self):
+        if not self._initialized:
+            self.stm = None
+            self.ltm = None
+            self.root = Chunk('root', 0, '', 0, 0, 0)
+            self.leaves = None
+            self.height = 0
+            self._initialized = True 
 
     def _build_tree(self):
         if len(self.ltm.get_processors()) <= 0:
@@ -51,8 +57,13 @@ class UpTree:
             current_level = next_level
             
         self.root = current_level[0]
-        self.stm.set_chunk(current_level[0])
+        self.stm.set_chunk(current_level[0], first=True)
         self.height = count
+        
+    def configure(self, stm, ltm):
+        self.stm = stm
+        self.ltm = ltm
+        self._build_tree()
         
     def _print_tree(self, node, level=0, side='root'):
         """
@@ -84,10 +95,10 @@ class UpTree:
     
     def compete(self, level=None, run=1, new_root_name=None):
         DiscreteClock().increment_time()
-        
+
         if level != None and len(level) == 1:
-            self.root.address = new_root_name
-            print('Winner:', self.root.address)
+            self.root = level[0]
+            self.stm.set_chunk(self.root)
             return
         
         if not level:
@@ -103,6 +114,7 @@ class UpTree:
                 gist_b = competitors[1]
                 winner_gist = self._competition_function(gist_a, gist_b)
                 winners.append(winner_gist)
+                print('\n-=-=-=-= competition:', run, '=-=-=-=-')
                 print('\tcompetitors:', [comp.address for comp in competitors])
                 print('\twinners:', [win.address for win in winners])
                 competitors = []

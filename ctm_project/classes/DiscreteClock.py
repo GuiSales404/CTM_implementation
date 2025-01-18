@@ -13,3 +13,6 @@ class DiscreteClock:
 
     def increment_time(self):
         self._elapsed_time += 1
+    
+    def get_actual_time(self):
+        return self._elapsed_time

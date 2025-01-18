@@ -6,13 +6,29 @@ playing a crucial role in forming "conscious awareness" and creating the "stream
 Obs: As time progresses in clear steps (discrete), we consider that all processors receive the chunk in the same unit of time without needing real parallelism.
 """""
 
-from LTM import LTM
-from STM import STM
-
+from UpTree import UpTree
 class DownTree:
-    def __init__(self, stm: STM, ltm: LTM) -> None:
-        self.stm = stm
-        self.ltm = ltm
+    _instance = None
+
+    def __new__(cls, *args, **kwargs):
+        if cls._instance is None:
+            cls._instance = super(DownTree, cls).__new__(cls)
+            cls._instance._initialized = False
+        return cls._instance
+
+    def __init__(self):
+        if not self._initialized:
+            self.uptree = None 
+            self.ltm = None  
+            self._initialized = True
         
-    def broadcast(self) -> None:
-        self.ltm.process(self.stm.get_chunk())
+    def configure(self, uptree, ltm):
+        self.uptree = uptree
+        self.ltm = ltm
+
+    def broadcast(self, chunk) -> None:
+        chunks_2_compete = self.ltm.process_stm(chunk)
+        
+        self.ut = UpTree()
+        self.ut.compete(level=chunks_2_compete)
+        self.block = True

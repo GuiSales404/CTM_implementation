@@ -1,8 +1,11 @@
+import os
 import random
 import torch
 import spacy
 import stanza
-from openai import OpenAI
+# from openai import OpenAI
+from Chunk import Chunk
+from groq import Groq
 from pysentimiento import create_analyzer
 from transformers import pipeline
 from transformers import AutoTokenizer, AutoModelForCausalLM
@@ -89,17 +92,26 @@ class llm_processor:
     def process(self, input_message, role):
         if self.model_path == "lm-studio":
             self.add_to_messages(input_message, role)
-            client = OpenAI(
-                        # LM Studio API Key
-                        base_url='http://localhost:1234/v1'
+            client = Groq(
+                        # base_url="https://api.groq.com/openai/v1",
+                        api_key=os.getenv('GROQ_API_KEY')
                         )
             input_type = self.verify_input_type(input_message)
+                
             if input_type == 'text_input':
                 self.messages.append({'role': role, 'content': input_message})
             elif input_type == 'message':
                 self.messages = input_message
+
+            if not isinstance(self.messages[-1]['content'], str):
+                analysed = self.messages[-1]['content']
+                if isinstance(analysed, Chunk):
+                    replacer = f"{analysed.gist}"
+                replacer = f"{analysed}"
+                self.messages[-1]['content'] = replacer
+                
             response = client.chat.completions.create(
-                                                        model='Mistral-Nemo',
+                                                        model='llama3-8b-8192',
                                                         messages=self.messages,
                                                         temperature=self.temperature
                                                     )
