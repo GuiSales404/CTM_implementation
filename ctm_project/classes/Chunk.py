@@ -11,8 +11,3 @@ class Chunk:
         return (f"Chunk(address={self.address}, time={self.time}, "
                 f"gist={self.gist}, weight={self.weight}, "
                 f"intensity={self.intensity}, mood={self.mood})")
-
-
-
-# Se for para QA o peso deve ser 1 para processadores LLM e 0.5 para outros
-# Se for para leitura de história o peso deve ser o valor do sentiment_analysis

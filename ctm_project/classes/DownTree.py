@@ -7,6 +7,8 @@ Obs: As time progresses in clear steps (discrete), we consider that all processo
 """""
 
 from UpTree import UpTree
+from DiscreteClock import DiscreteClock
+
 class DownTree:
     _instance = None
 
@@ -27,6 +29,7 @@ class DownTree:
         self.ltm = ltm
 
     def broadcast(self, chunk) -> None:
+        DiscreteClock().increment_time()
         chunks_2_compete = self.ltm.process_stm(chunk)
         
         self.ut = UpTree()

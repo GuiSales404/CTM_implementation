@@ -28,18 +28,19 @@ class Link:
         return name_reference
 
     def strengthen(self, processor1, processor2):
-        print(f"Strengthening link between {processor1} and {processor2}")
         if processor1 == None or processor2 == None:
             return
-        i = self.name_reference[processor1]
-        j = self.name_reference[processor2]
-        print(f"i: {i}, j: {j}")
-        if i > j:
-            i, j = j, i
-        if self.links_matrix[i][j] == np.inf:
-            self.links_matrix[i][j] = 1
         else:
-            self.links_matrix[i][j] += 1
+            print(f"Strengthening link between {processor1} and {processor2}")
+            i = self.name_reference[processor1]
+            j = self.name_reference[processor2]
+            print(f"i: {i}, j: {j}")
+            if i > j:
+                i, j = j, i
+            if self.links_matrix[i][j] == np.inf:
+                self.links_matrix[i][j] = 1
+            else:
+                self.links_matrix[i][j] += 1
 
     def access_link(self, processor1, processor2):
         i = self.name_reference[processor1]
@@ -48,7 +49,14 @@ class Link:
             i, j = j, i
         return self.links_matrix[i][j]
     
-    def print_upper_diagonal(self):
+    def print_upper_diagonal(self, file_name="output_report.txt"):
+        """
+        Prints the upper diagonal of the links matrix and appends it to the report file.
+
+        Args:
+            file_name (str): Name of the file where the upper diagonal will be saved. Default: 'output_report.txt'.
+        """
+
         print()
         print("Diagonal Superior da Matriz de Links:")
         print("-" * 40)
@@ -60,3 +68,15 @@ class Link:
                     print(f"[{i}, {j}] = {formatted_value}", end="\t")
             print()
         print("-" * 40)
+
+        with open(file_name, "a", encoding="utf-8") as file:
+            file.write("\nDiagonal Superior da Matriz de Links:\n")
+            file.write("-" * 40 + "\n")
+            for i in range(self.size):
+                for j in range(self.size):
+                    if i <= j:
+                        value = self.links_matrix[i][j]
+                        formatted_value = "INF" if value == np.inf else f"{value:.2f}"
+                        file.write(f"[{i}, {j}] = {formatted_value}\t")
+                file.write("\n")  
+            file.write("-" * 40 + "\n")

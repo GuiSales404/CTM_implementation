@@ -5,7 +5,7 @@ encapsulate this information into chunks and send it to the LTM processors.
 """""
 
 import spacy
-from Processors import syntatic_tree_spacy_processor, syntatic_tree_stanza_processor, irony_detection_processor, hate_speech_detection_processor, emotion_detection_processor, sentiment_analysis, ner, summarization
+from Processors import *
 
 class InputMap:
     def __init__(self, content):

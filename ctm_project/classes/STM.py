@@ -7,6 +7,7 @@ The "chunk" winner of the competition in the Up-Tree competition is transmitted 
 from Chunk import Chunk
 from groq import Groq
 from DiscreteClock import DiscreteClock as clock
+from OutputMap import OutputMap
 import os
 
 import emoji
@@ -29,7 +30,7 @@ class STM:
         self.limit_maladaptive_daydreaming = 0
         self.past_address = None
         self.lc = None # LinkCentral
-        
+        self.om = OutputMap()
         
     def configure(self, down_tree, input_map, links):
         self.dt = down_tree
@@ -43,8 +44,8 @@ class STM:
         else:
             self.lc.strengthen(self.past_address, chunk.address)
             self.past_address = chunk.address
-                
-            print("\n💭Conteúdo Consciente:", chunk.gist)
+            
+            self.om.conscious_content(Chunk=chunk)
             result = self.evaluate_interaction(chunk.gist)
             if result == "0" and self.limit_maladaptive_daydreaming < 3:
                 self.limit_maladaptive_daydreaming += 1
@@ -53,17 +54,18 @@ class STM:
                 self.dt.broadcast(chunk)
             elif result == "1":
                 if len(self.im.input_gist) <= 0:
+                    self.om.output(self.actual_chunk)
+                    self.om.generate_report()
                     self.lc.print_upper_diagonal()
                     return
                 
                 if self.naive_tokenizer(chunk.gist) > 25:
                     summarized_story = self.summarize_history()
                     ambient_input = self.im.input_gist.pop(0)
-                    print("Informação do Ambiente: ", ambient_input)
                     new_gist = f"Histórico:{summarized_story} \n Informação Atual:{ambient_input}"
                     self.actual_chunk = Chunk(address='STM', time=f'{clock.get_actual_time}', gist=new_gist, weight=chunk.weight, intensity=chunk.intensity, mood=chunk.mood)
-                    print("\n💭Pensamento Gerado:", self.actual_chunk.gist)
                     self.dt.broadcast(self.actual_chunk)
+                    self.om.output(self.actual_chunk)
 
     def get_chunk(self):
         return self.actual_chunk

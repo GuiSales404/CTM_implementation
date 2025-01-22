@@ -9,11 +9,11 @@ if the result of the chunk can be used to generate new chunks in the LTM to comp
 
 import random
 import string
-
 from Chunk import Chunk
 from DiscreteClock import DiscreteClock
 from TreeNode import TreeNode
 from ProcessorNode import ProcessorNode
+from OutputMap import OutputMap as om
 
 class UpTree:
     _instance = None  
@@ -114,9 +114,7 @@ class UpTree:
                 gist_b = competitors[1]
                 winner_gist = self._competition_function(gist_a, gist_b)
                 winners.append(winner_gist)
-                print('\n-=-=-=-= competition:', run, '=-=-=-=-')
-                print('\tcompetitors:', [comp.address for comp in competitors])
-                print('\twinners:', [win.address for win in winners])
+                om.competition(run=run, competitors=competitors, winners=winners)
                 competitors = []
         self.compete(winners, 1+run, winners[-1].address)
 

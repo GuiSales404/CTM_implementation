@@ -37,6 +37,5 @@ class CTM:
         self.discrete_clock.increment_time()
         interactions = self.input_map.input_gist
         first_interaction = interactions.pop(0)
-        print('Input do Ambiente: ', first_interaction)
         processors_chunks = self.ltm.process_input(first_interaction)
         self.up_tree.compete(level=processors_chunks)
