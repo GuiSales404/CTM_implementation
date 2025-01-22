@@ -4,14 +4,20 @@ They form and strengthen based on useful interaction between processors, facilit
 Links play a crucial role in CTM efficiency and adaptability, allowing the machine to learn and adjust over time.
 """
 
+import numpy as np
+
 class Link:
-    def __init__(self, processor1, processor2):
-        self.processor1 = processor1
-        self.processor2 = processor2
-        self.weight = 0
+    def __init__(self, len_of_processors):
+        self.size = len_of_processors
+        
+    def _build_link_matrix(self):
+        superior_diagonal = np.zeros((self.size, self.size))
+        return superior_diagonal
 
     def strengthen(self):
         self.weight += 1
 
     def weaken(self):
         self.weight -= 1
+        
+    #nomear os processadores na matriz
