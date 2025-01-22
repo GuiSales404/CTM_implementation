@@ -5,6 +5,7 @@ from UpTree import UpTree
 from InputMap import InputMap
 from OutputMap import OutputMap
 from DiscreteClock import DiscreteClock
+from Links import Link
 
 
 class CTM:
@@ -14,17 +15,19 @@ class CTM:
         ltm = LTM()
         uptree = UpTree()
         downtree = DownTree()
+        links = Link()
         
         ltm.configure(num_processors)
-        stm.configure(downtree, input_map=im)  
+        stm.configure(downtree, input_map=im, links=links)  
         downtree.configure(uptree, ltm)
         uptree.configure(stm, ltm)
+        links.configure(num_processors, ltm.get_processors())
         
-        return stm, ltm, uptree, downtree
+        return stm, ltm, uptree, downtree, links
     
     def __init__(self, num_processors, content):
         self.input_map = InputMap(content)
-        self.stm, self.ltm, self.up_tree, self.down_tree = CTM.initialize_system(num_processors, self.input_map)
+        self.stm, self.ltm, self.up_tree, self.down_tree, self.links = CTM.initialize_system(num_processors, self.input_map)
         
         self.discrete_clock = DiscreteClock()
         self.output_map = OutputMap()

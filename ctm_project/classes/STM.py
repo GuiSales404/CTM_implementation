@@ -23,19 +23,27 @@ class STM:
         self.actual_chunk = None
         self.history = []
         self.client = Groq(api_key=os.getenv('GROQ_API_KEY'))
-        self.im = None
-        self.dt = None
+        self.im = None # InputMap
+        self.dt = None # DownTree
         self._initialized = True
         self.limit_maladaptive_daydreaming = 0
-    def configure(self, down_tree, input_map):
+        self.past_address = None
+        self.lc = None # LinkCentral
+        
+        
+    def configure(self, down_tree, input_map, links):
         self.dt = down_tree
         self.im = input_map
+        self.lc = links
         
     def set_chunk(self, chunk, first=False):
         if first:
             self.actual_chunk = chunk
             self.history.append(chunk)
         else:
+            self.lc.strengthen(self.past_address, chunk.address)
+            self.past_address = chunk.address
+                
             print("\n💭Conteúdo Consciente:", chunk.gist)
             result = self.evaluate_interaction(chunk.gist)
             if result == "0" and self.limit_maladaptive_daydreaming < 3:
@@ -45,6 +53,7 @@ class STM:
                 self.dt.broadcast(chunk)
             elif result == "1":
                 if len(self.im.input_gist) <= 0:
+                    self.lc.print_upper_diagonal()
                     return
                 
                 if self.naive_tokenizer(chunk.gist) > 25:
