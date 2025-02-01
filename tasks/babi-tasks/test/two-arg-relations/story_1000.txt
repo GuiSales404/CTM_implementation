@@ -1,0 +1,3 @@
+1 The garden is west of the hallway.
+2 The garden is east of the kitchen.
+3 What is the kitchen west of?	garden	2

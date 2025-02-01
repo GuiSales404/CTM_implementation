@@ -1,0 +1,59 @@
+1 Mary journeyed to the garden.
+2 John went to the hallway.
+3 Mary went to the hallway.
+4 Sandra went to the bedroom.
+5 Sandra went back to the garden.
+6 Mary journeyed to the garden.
+7 Sandra journeyed to the office.
+8 John journeyed to the office.
+9 Mary went to the kitchen.
+10 John moved to the kitchen.
+11 Sandra travelled to the bedroom.
+12 Mary went back to the office.
+13 Sandra got the football.
+14 John picked up the milk.
+15 Sandra dropped the football.
+16 Mary went to the hallway.
+17 Sandra got the football.
+18 Sandra moved to the office.
+19 Mary journeyed to the bathroom.
+20 John put down the milk.
+21 John got the milk there.
+22 Sandra discarded the football.
+23 Mary picked up the apple.
+24 Mary left the apple.
+25 Sandra went to the garden.
+26 John moved to the bathroom.
+27 Mary grabbed the apple.
+28 Sandra moved to the office.
+29 Mary put down the apple.
+30 John went to the kitchen.
+31 Sandra travelled to the bathroom.
+32 Sandra moved to the garden.
+33 Mary grabbed the apple.
+34 Mary discarded the apple there.
+35 John discarded the milk.
+36 Mary moved to the bedroom.
+37 Where was the milk before the kitchen? 	bathroom	35 30 26
+38 Daniel journeyed to the bedroom.
+39 John went to the hallway.
+40 Where was the milk before the kitchen? 	bathroom	35 30 26
+41 John journeyed to the bedroom.
+42 Mary moved to the hallway.
+43 Sandra travelled to the kitchen.
+44 John went back to the bathroom.
+45 Daniel moved to the office.
+46 Daniel went back to the bedroom.
+47 Mary went back to the garden.
+48 Sandra went to the office.
+49 John grabbed the apple.
+50 John went back to the kitchen.
+51 John travelled to the bedroom.
+52 John discarded the apple there.
+53 Where was the apple before the bedroom? 	kitchen	52 51 50
+54 Sandra took the football.
+55 John went to the bathroom.
+56 Where was the apple before the bedroom? 	kitchen	52 51 50
+57 Daniel went back to the hallway.
+58 Sandra left the football.
+59 Where was the apple before the bedroom? 	kitchen	52 51 50

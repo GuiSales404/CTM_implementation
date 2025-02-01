@@ -1,0 +1,19 @@
+1 Bill took the milk there.
+2 Jeff went to the garden.
+3 Bill travelled to the bedroom.
+4 Jeff went back to the bedroom.
+5 Bill gave the milk to Jeff.
+6 Jeff handed the milk to Bill.
+7 What did Jeff give to Bill? 	milk	6
+8 Bill passed the milk to Jeff.
+9 Jeff handed the milk to Bill.
+10 Who did Jeff give the milk to? 	Bill	9
+11 Bill handed the milk to Jeff.
+12 Jeff passed the milk to Bill.
+13 Who did Jeff give the milk to? 	Bill	12
+14 Jeff journeyed to the office.
+15 Fred journeyed to the garden.
+16 What did Jeff give to Bill? 	milk	12
+17 Jeff went to the bathroom.
+18 Bill left the milk.
+19 What did Jeff give to Bill? 	milk	12

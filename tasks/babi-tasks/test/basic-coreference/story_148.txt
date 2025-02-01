@@ -1,0 +1,15 @@
+1 Sandra moved to the hallway.
+2 Following that she went to the garden.
+3 Where is Sandra? 	garden	1 2
+4 Sandra went to the office.
+5 Then she travelled to the bathroom.
+6 Where is Sandra? 	bathroom	4 5
+7 Daniel moved to the hallway.
+8 Following that he journeyed to the garden.
+9 Where is Daniel? 	garden	7 8
+10 John moved to the office.
+11 After that he moved to the bathroom.
+12 Where is John? 	bathroom	10 11
+13 Sandra went to the kitchen.
+14 Then she moved to the bathroom.
+15 Where is Daniel? 	garden	7 8

@@ -1,0 +1,15 @@
+1 Mary got the apple there.
+2 Mary passed the apple to Bill.
+3 Who received the apple? 	Bill	2
+4 Bill gave the apple to Mary.
+5 Mary passed the apple to Bill.
+6 What did Mary give to Bill? 	apple	5
+7 Bill left the apple.
+8 Fred moved to the bedroom.
+9 What did Mary give to Bill? 	apple	5
+10 Jeff took the apple there.
+11 Jeff passed the apple to Mary.
+12 What did Jeff give to Mary? 	apple	11
+13 Mary passed the apple to Fred.
+14 Fred passed the apple to Mary.
+15 Who gave the apple? 	Fred	14

@@ -1,0 +1,15 @@
+1 Mary is in the office.
+2 John is in the bathroom.
+3 Is John in the bedroom? 	no	2
+4 Mary went back to the bedroom.
+5 John is no longer in the bathroom.
+6 Is Mary in the kitchen? 	no	4
+7 Mary went back to the hallway.
+8 Mary is not in the hallway.
+9 Is Mary in the hallway? 	no	8
+10 Daniel went to the bathroom.
+11 Sandra moved to the kitchen.
+12 Is John in the bathroom? 	no	5
+13 Mary is no longer in the bedroom.
+14 Sandra is in the office.
+15 Is Sandra in the hallway? 	no	14

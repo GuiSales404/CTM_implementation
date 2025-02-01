@@ -1,0 +1,15 @@
+1 Mary went to the office.
+2 John travelled to the bedroom.
+3 Is Mary in the hallway? 	no	1
+4 Mary went to the bedroom.
+5 Mary travelled to the bathroom.
+6 Is Mary in the bathroom? 	yes	5
+7 John moved to the hallway.
+8 Mary picked up the milk there.
+9 Is Mary in the kitchen? 	no	5
+10 John got the apple there.
+11 John journeyed to the bedroom.
+12 Is John in the office? 	no	11
+13 Mary dropped the milk.
+14 Mary went to the office.
+15 Is John in the garden? 	no	11

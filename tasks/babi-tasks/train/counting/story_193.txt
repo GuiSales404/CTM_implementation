@@ -1,0 +1,17 @@
+1 Sandra journeyed to the hallway.
+2 Daniel went to the bathroom.
+3 Sandra got the apple there.
+4 Sandra passed the apple to Mary.
+5 How many objects is Sandra carrying? 	none	3 4
+6 John got the football there.
+7 Daniel went to the kitchen.
+8 How many objects is Sandra carrying? 	none	3 4
+9 John went back to the bathroom.
+10 Mary discarded the apple.
+11 How many objects is Mary carrying? 	none	4 10
+12 Sandra journeyed to the bathroom.
+13 Sandra travelled to the hallway.
+14 How many objects is Mary carrying? 	none	4 10
+15 Daniel took the milk there.
+16 Mary went back to the office.
+17 How many objects is Daniel carrying? 	one	15

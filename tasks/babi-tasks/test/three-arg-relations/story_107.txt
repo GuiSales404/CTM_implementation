@@ -1,0 +1,21 @@
+1 Bill went to the bathroom.
+2 Bill journeyed to the hallway.
+3 Fred journeyed to the office.
+4 Mary got the football there.
+5 Mary got the apple there.
+6 Mary went back to the hallway.
+7 Mary handed the apple to Bill.
+8 Bill gave the apple to Mary.
+9 Who gave the apple to Mary? 	Bill	8
+10 Mary gave the apple to Bill.
+11 Bill gave the apple to Mary.
+12 What did Bill give to Mary? 	apple	11
+13 Mary passed the apple to Bill.
+14 Bill gave the apple to Mary.
+15 Who received the apple? 	Mary	14
+16 Fred went to the bedroom.
+17 Mary dropped the apple.
+18 What did Bill give to Mary? 	apple	14
+19 Mary moved to the bedroom.
+20 Mary gave the football to Fred.
+21 Who did Mary give the football to? 	Fred	20

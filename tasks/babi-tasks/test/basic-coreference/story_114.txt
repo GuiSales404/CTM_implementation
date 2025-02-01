@@ -1,0 +1,15 @@
+1 Sandra journeyed to the office.
+2 Then she journeyed to the bathroom.
+3 Where is Sandra? 	bathroom	1 2
+4 John moved to the bedroom.
+5 Following that he went to the garden.
+6 Where is Sandra? 	bathroom	1 2
+7 Mary went to the bathroom.
+8 Afterwards she moved to the kitchen.
+9 Where is Mary? 	kitchen	7 8
+10 Sandra went back to the hallway.
+11 Afterwards she moved to the office.
+12 Where is John? 	garden	4 5
+13 John journeyed to the kitchen.
+14 After that he went to the garden.
+15 Where is John? 	garden	13 14

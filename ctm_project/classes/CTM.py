@@ -26,7 +26,13 @@ class CTM:
         return stm, ltm, uptree, downtree, links
     
     def __init__(self, num_processors, content):
-        self.input_map = InputMap(content)
+        print(content)
+        if isinstance(content, str):
+            print('Entrou no errado')
+            self.input_map = InputMap(content)
+        elif isinstance(content, list):
+            print('Entrou no certo')
+            self.input_map = InputMap(content, False, True)
         self.stm, self.ltm, self.up_tree, self.down_tree, self.links = CTM.initialize_system(num_processors, self.input_map)
         
         self.discrete_clock = DiscreteClock()

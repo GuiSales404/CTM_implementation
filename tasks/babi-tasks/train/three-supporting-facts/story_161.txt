@@ -1,0 +1,59 @@
+1 Sandra journeyed to the office.
+2 Mary journeyed to the bathroom.
+3 Sandra got the football.
+4 John moved to the garden.
+5 Sandra dropped the football.
+6 Sandra went to the garden.
+7 Daniel grabbed the football.
+8 Daniel moved to the kitchen.
+9 Daniel went back to the bedroom.
+10 John journeyed to the hallway.
+11 Daniel put down the football.
+12 Daniel grabbed the football there.
+13 Daniel dropped the football.
+14 Sandra moved to the kitchen.
+15 Daniel moved to the office.
+16 John got the apple.
+17 Sandra moved to the hallway.
+18 Mary went to the garden.
+19 John dropped the apple there.
+20 John moved to the office.
+21 Mary journeyed to the hallway.
+22 Sandra travelled to the bedroom.
+23 Mary went to the bedroom.
+24 Sandra took the football.
+25 Sandra put down the football.
+26 Daniel moved to the hallway.
+27 Mary picked up the football.
+28 Mary journeyed to the kitchen.
+29 Daniel grabbed the apple.
+30 Mary got the milk there.
+31 Daniel moved to the bedroom.
+32 Daniel went to the office.
+33 Where was the apple before the office? 	bedroom	29 32 31
+34 John travelled to the kitchen.
+35 Daniel travelled to the kitchen.
+36 Mary went to the office.
+37 Mary discarded the milk.
+38 Mary travelled to the garden.
+39 Daniel journeyed to the hallway.
+40 Mary travelled to the bathroom.
+41 Daniel went back to the kitchen.
+42 Sandra went to the bathroom.
+43 Sandra moved to the garden.
+44 Daniel dropped the apple.
+45 Sandra went to the kitchen.
+46 Where was the apple before the kitchen? 	hallway	44 41 39
+47 Daniel journeyed to the bathroom.
+48 Daniel travelled to the garden.
+49 Where was the apple before the office? 	bedroom	44 32 31
+50 Sandra went back to the garden.
+51 John moved to the office.
+52 Mary went to the kitchen.
+53 Sandra travelled to the office.
+54 Mary left the football.
+55 Daniel moved to the office.
+56 Where was the football before the office? 	kitchen	54 36 28
+57 Sandra took the milk.
+58 Daniel moved to the kitchen.
+59 Where was the football before the bathroom? 	garden	54 40 38

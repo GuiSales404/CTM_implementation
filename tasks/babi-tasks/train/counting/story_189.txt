@@ -1,0 +1,19 @@
+1 Mary went back to the kitchen.
+2 Daniel went to the bedroom.
+3 John moved to the kitchen.
+4 John went to the bathroom.
+5 Sandra travelled to the hallway.
+6 Sandra got the milk there.
+7 How many objects is Sandra carrying? 	one	6
+8 Sandra dropped the milk.
+9 Sandra took the milk there.
+10 How many objects is Sandra carrying? 	one	6 8 9
+11 Sandra went back to the garden.
+12 Daniel went back to the kitchen.
+13 How many objects is Sandra carrying? 	one	6 8 9
+14 Mary travelled to the garden.
+15 Sandra moved to the kitchen.
+16 How many objects is Sandra carrying? 	one	6 8 9
+17 Sandra dropped the milk.
+18 Mary grabbed the football there.
+19 How many objects is Mary carrying? 	one	18

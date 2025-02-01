@@ -1,0 +1,17 @@
+1 Sandra went back to the bathroom.
+2 Sandra travelled to the hallway.
+3 Mary got the apple there.
+4 Mary put down the apple.
+5 What is Mary carrying? 	nothing	3 4
+6 Sandra travelled to the kitchen.
+7 Mary took the apple there.
+8 What is Mary carrying? 	apple	3 4 7
+9 Mary put down the apple.
+10 Mary took the apple there.
+11 What is Mary carrying? 	apple	3 4 7 9 10
+12 Mary put down the apple.
+13 Sandra journeyed to the bedroom.
+14 What is Mary carrying? 	nothing	3 4 7 9 10 12
+15 John travelled to the bedroom.
+16 Mary went to the kitchen.
+17 What is Mary carrying? 	nothing	3 4 7 9 10 12

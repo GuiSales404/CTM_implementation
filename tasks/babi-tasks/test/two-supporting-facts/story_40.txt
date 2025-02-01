@@ -1,0 +1,17 @@
+1 Sandra got the milk there.
+2 John grabbed the apple there.
+3 John journeyed to the bathroom.
+4 John discarded the apple.
+5 Where is the apple? 	bathroom	4 3
+6 John journeyed to the garden.
+7 Sandra travelled to the bedroom.
+8 Where is the apple? 	bathroom	4 3
+9 Sandra went back to the garden.
+10 Sandra left the milk there.
+11 Where is the milk? 	garden	10 9
+12 John grabbed the milk there.
+13 John went back to the kitchen.
+14 Where is the milk? 	kitchen	12 13
+15 Daniel went to the garden.
+16 Sandra journeyed to the kitchen.
+17 Where is the milk? 	kitchen	12 13

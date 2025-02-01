@@ -1,0 +1,15 @@
+1 Daniel grabbed the milk there.
+2 Daniel gave the milk to Mary.
+3 How many objects is Daniel carrying? 	none	1 2
+4 John went back to the hallway.
+5 Sandra travelled to the garden.
+6 How many objects is Daniel carrying? 	none	1 2
+7 Mary dropped the milk.
+8 Daniel got the milk there.
+9 How many objects is Mary carrying? 	none	2 7
+10 Daniel handed the milk to Mary.
+11 Mary handed the milk to Daniel.
+12 How many objects is Mary carrying? 	none	2 7 10 11
+13 Daniel gave the milk to Mary.
+14 Sandra went back to the office.
+15 How many objects is Daniel carrying? 	none	1 2 8 10 11 13

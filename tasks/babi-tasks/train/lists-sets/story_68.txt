@@ -1,0 +1,17 @@
+1 John travelled to the office.
+2 Daniel went back to the hallway.
+3 Daniel went to the bedroom.
+4 Daniel got the milk there.
+5 What is Daniel carrying? 	milk	4
+6 Daniel travelled to the kitchen.
+7 Daniel dropped the milk.
+8 What is Daniel carrying? 	nothing	4 7
+9 Sandra travelled to the office.
+10 John journeyed to the bathroom.
+11 What is Daniel carrying? 	nothing	4 7
+12 John travelled to the kitchen.
+13 John grabbed the milk there.
+14 What is John carrying? 	milk	13
+15 Daniel travelled to the office.
+16 Mary moved to the bathroom.
+17 What is John carrying? 	milk	13

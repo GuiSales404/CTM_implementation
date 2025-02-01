@@ -1,0 +1,17 @@
+1 Mary journeyed to the bedroom.
+2 Bill took the milk there.
+3 Bill gave the milk to Mary.
+4 Fred picked up the apple there.
+5 Who did Bill give the milk to? 	Mary	3
+6 Mary gave the milk to Bill.
+7 Fred dropped the apple.
+8 Who gave the milk? 	Mary	6
+9 Bill went to the hallway.
+10 Fred went back to the hallway.
+11 Who did Mary give the milk to? 	Bill	6
+12 Bill passed the milk to Fred.
+13 Mary went to the office.
+14 Who received the milk? 	Fred	12
+15 Fred passed the milk to Bill.
+16 Bill picked up the football there.
+17 Who received the milk? 	Bill	15

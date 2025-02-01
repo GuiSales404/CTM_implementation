@@ -1,0 +1,15 @@
+1 Bill picked up the milk there.
+2 Bill gave the milk to Fred.
+3 Who did Bill give the milk to? 	Fred	2
+4 Fred handed the milk to Bill.
+5 Bill gave the milk to Fred.
+6 What did Bill give to Fred? 	milk	5
+7 Fred travelled to the bathroom.
+8 Bill went to the bathroom.
+9 What did Bill give to Fred? 	milk	5
+10 Fred picked up the football there.
+11 Mary journeyed to the kitchen.
+12 Who received the milk? 	Fred	5
+13 Fred gave the football to Bill.
+14 Bill grabbed the apple there.
+15 Who received the football? 	Bill	13

@@ -1,0 +1,19 @@
+1 Mary journeyed to the office.
+2 Sandra picked up the milk there.
+3 John went back to the kitchen.
+4 Sandra got the apple there.
+5 Mary got the football there.
+6 Mary went back to the garden.
+7 Where is the football? 	garden	5 6
+8 Daniel went to the bathroom.
+9 John went to the bathroom.
+10 Where is the football? 	garden	5 6
+11 Sandra went back to the garden.
+12 Sandra discarded the apple.
+13 Where is the apple? 	garden	12 11
+14 Daniel went back to the bedroom.
+15 Sandra went back to the bathroom.
+16 Where is the apple? 	garden	12 11
+17 Mary went back to the bathroom.
+18 Mary left the football.
+19 Where is the apple? 	garden	12 11

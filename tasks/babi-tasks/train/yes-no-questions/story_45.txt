@@ -1,0 +1,15 @@
+1 John grabbed the milk there.
+2 Daniel went back to the kitchen.
+3 Is Daniel in the hallway? 	no	2
+4 Sandra grabbed the apple there.
+5 John dropped the milk.
+6 Is Daniel in the bathroom? 	no	2
+7 Sandra put down the apple.
+8 John grabbed the milk there.
+9 Is Daniel in the kitchen? 	yes	2
+10 Daniel went to the hallway.
+11 Sandra went back to the garden.
+12 Is Sandra in the hallway? 	no	11
+13 Sandra travelled to the bedroom.
+14 Mary went to the hallway.
+15 Is Mary in the hallway? 	yes	14

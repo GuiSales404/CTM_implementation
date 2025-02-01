@@ -1,0 +1,15 @@
+1 John travelled to the kitchen.
+2 Mary picked up the apple there.
+3 Is John in the kitchen? 	yes	1
+4 Sandra travelled to the bedroom.
+5 Mary moved to the bathroom.
+6 Is Sandra in the bedroom? 	yes	4
+7 John moved to the bedroom.
+8 Sandra went back to the garden.
+9 Is Mary in the bathroom? 	yes	5
+10 Mary travelled to the kitchen.
+11 Sandra went back to the kitchen.
+12 Is Sandra in the garden? 	no	11
+13 John went back to the garden.
+14 Sandra moved to the hallway.
+15 Is John in the kitchen? 	no	13

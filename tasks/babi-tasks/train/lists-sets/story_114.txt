@@ -1,0 +1,29 @@
+1 Daniel went back to the kitchen.
+2 Daniel moved to the office.
+3 Sandra travelled to the garden.
+4 Mary moved to the office.
+5 Sandra went back to the hallway.
+6 Mary moved to the hallway.
+7 John went to the garden.
+8 John travelled to the bedroom.
+9 John took the milk there.
+10 John left the milk.
+11 What is John carrying? 	nothing	9 10
+12 John got the milk there.
+13 John went back to the garden.
+14 What is John carrying? 	milk	9 10 12
+15 Daniel went back to the garden.
+16 Sandra moved to the bedroom.
+17 What is John carrying? 	milk	9 10 12
+18 Mary journeyed to the bathroom.
+19 Sandra journeyed to the kitchen.
+20 Daniel went back to the kitchen.
+21 Daniel went back to the bathroom.
+22 Sandra journeyed to the garden.
+23 Daniel went back to the kitchen.
+24 Mary moved to the office.
+25 John put down the milk.
+26 What is John carrying? 	nothing	9 10 12 25
+27 John grabbed the milk there.
+28 Mary travelled to the hallway.
+29 What is John carrying? 	milk	9 10 12 25 27

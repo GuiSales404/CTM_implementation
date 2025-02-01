@@ -1,0 +1,6 @@
+1 The bedroom is south of the office.
+2 The bedroom is east of the kitchen.
+3 The bathroom is south of the hallway.
+4 The hallway is east of the bedroom.
+5 The bedroom is north of the garden.
+6 How do you go from the bedroom to the bathroom?	e,s	4 3

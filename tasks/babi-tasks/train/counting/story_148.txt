@@ -1,0 +1,19 @@
+1 Mary travelled to the hallway.
+2 John travelled to the hallway.
+3 Mary journeyed to the garden.
+4 Sandra went back to the hallway.
+5 Sandra went to the kitchen.
+6 Sandra picked up the football there.
+7 How many objects is Sandra carrying? 	one	6
+8 John went back to the kitchen.
+9 Daniel moved to the office.
+10 How many objects is Sandra carrying? 	one	6
+11 Sandra went to the garden.
+12 Sandra handed the football to Mary.
+13 How many objects is Sandra carrying? 	none	6 12
+14 Daniel travelled to the bathroom.
+15 Mary gave the football to Sandra.
+16 How many objects is Sandra carrying? 	one	6 12 15
+17 Sandra journeyed to the kitchen.
+18 Sandra handed the football to John.
+19 How many objects is Mary carrying? 	none	12 15

@@ -1,0 +1,10 @@
+1 The red square is to the left of the triangle.
+2 The red square is above the yellow square.
+3 Is the yellow square to the left of the triangle?	yes	2 1
+4 Is the yellow square to the right of the triangle?	no	2 1
+5 Is the yellow square to the right of the triangle?	no	2 1
+6 Is the yellow square to the left of the triangle?	yes	2 1
+7 Is the triangle to the left of the yellow square?	no	1 2
+8 Is the yellow square above the triangle?	no	2 1
+9 Is the triangle above the yellow square?	yes	1 2
+10 Is the yellow square above the triangle?	no	2 1

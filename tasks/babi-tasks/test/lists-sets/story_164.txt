@@ -1,0 +1,15 @@
+1 Mary went back to the bathroom.
+2 Daniel got the apple there.
+3 What is Daniel carrying? 	apple	2
+4 Sandra picked up the milk there.
+5 Sandra dropped the milk.
+6 What is Sandra carrying? 	nothing	4 5
+7 John went to the kitchen.
+8 Mary went to the kitchen.
+9 What is Sandra carrying? 	nothing	4 5
+10 Mary went to the bedroom.
+11 Daniel left the apple.
+12 What is Daniel carrying? 	nothing	2 11
+13 Daniel got the apple there.
+14 Sandra got the milk there.
+15 What is Daniel carrying? 	apple	2 11 13

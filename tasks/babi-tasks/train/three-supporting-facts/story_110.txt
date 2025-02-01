@@ -1,0 +1,59 @@
+1 John travelled to the garden.
+2 Daniel went to the garden.
+3 John moved to the office.
+4 Mary journeyed to the bathroom.
+5 Mary went back to the hallway.
+6 Mary went back to the bedroom.
+7 Daniel travelled to the kitchen.
+8 Daniel went to the bedroom.
+9 Daniel went back to the office.
+10 Sandra journeyed to the hallway.
+11 Sandra took the milk.
+12 Sandra got the football.
+13 Sandra picked up the apple.
+14 Sandra discarded the football.
+15 John went to the bathroom.
+16 John journeyed to the bedroom.
+17 Daniel moved to the garden.
+18 Mary went back to the kitchen.
+19 Sandra got the football.
+20 Daniel travelled to the bedroom.
+21 Sandra journeyed to the bathroom.
+22 Sandra went back to the hallway.
+23 Where was the football before the hallway? 	bathroom	19 22 21
+24 Sandra went to the kitchen.
+25 Sandra discarded the milk.
+26 Where was the milk before the hallway? 	bathroom	25 22 21
+27 Sandra dropped the football there.
+28 Mary took the football.
+29 Where was the milk before the hallway? 	bathroom	25 22 21
+30 Mary put down the football.
+31 Daniel went back to the bathroom.
+32 Where was the milk before the hallway? 	bathroom	25 22 21
+33 Sandra got the football.
+34 Daniel journeyed to the office.
+35 John travelled to the garden.
+36 Sandra put down the football.
+37 Daniel moved to the bathroom.
+38 Mary journeyed to the hallway.
+39 John travelled to the bedroom.
+40 Daniel went back to the kitchen.
+41 John journeyed to the bathroom.
+42 John went to the office.
+43 Sandra went back to the bedroom.
+44 John went to the garden.
+45 Sandra moved to the hallway.
+46 Mary journeyed to the office.
+47 John went to the kitchen.
+48 Mary went to the bathroom.
+49 Mary travelled to the bedroom.
+50 Daniel picked up the milk.
+51 John picked up the football.
+52 Mary journeyed to the kitchen.
+53 Sandra went to the bathroom.
+54 Mary moved to the hallway.
+55 Sandra journeyed to the hallway.
+56 Daniel moved to the office.
+57 Sandra went to the kitchen.
+58 Sandra put down the apple.
+59 Where was the apple before the bathroom? 	hallway	58 53 45

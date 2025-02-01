@@ -1,0 +1,33 @@
+1 Daniel travelled to the bedroom.
+2 John journeyed to the office.
+3 John went back to the kitchen.
+4 Mary journeyed to the hallway.
+5 Mary moved to the bedroom.
+6 Mary went to the office.
+7 Mary went back to the hallway.
+8 Sandra moved to the office.
+9 John went back to the office.
+10 Mary moved to the office.
+11 Mary went to the hallway.
+12 Mary travelled to the garden.
+13 Daniel went back to the office.
+14 John went to the garden.
+15 Sandra went to the garden.
+16 Sandra went back to the kitchen.
+17 Daniel travelled to the kitchen.
+18 John moved to the bathroom.
+19 Daniel went to the bathroom.
+20 John grabbed the apple there.
+21 What is John carrying? 	apple	20
+22 Sandra moved to the garden.
+23 Daniel travelled to the bedroom.
+24 What is John carrying? 	apple	20
+25 Mary moved to the bedroom.
+26 John dropped the apple.
+27 What is John carrying? 	nothing	20 26
+28 John got the apple there.
+29 Mary went to the garden.
+30 What is John carrying? 	apple	20 26 28
+31 John journeyed to the office.
+32 Sandra travelled to the bedroom.
+33 What is John carrying? 	apple	20 26 28

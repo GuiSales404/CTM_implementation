@@ -1,0 +1,19 @@
+1 Sandra travelled to the hallway.
+2 Mary went to the office.
+3 John travelled to the hallway.
+4 Sandra journeyed to the garden.
+5 Mary picked up the football there.
+6 Mary put down the football there.
+7 What is Mary carrying? 	nothing	5 6
+8 Mary grabbed the football there.
+9 Mary travelled to the garden.
+10 What is Mary carrying? 	football	5 6 8
+11 Mary put down the football there.
+12 Mary picked up the apple there.
+13 What is Mary carrying? 	apple	5 6 8 11 12
+14 John travelled to the office.
+15 Sandra got the football there.
+16 What is Sandra carrying? 	football	15
+17 Sandra travelled to the office.
+18 John went back to the bedroom.
+19 What is Mary carrying? 	apple	5 6 8 11 12

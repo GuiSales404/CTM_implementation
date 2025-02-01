@@ -1,0 +1,19 @@
+1 Bill moved to the bathroom.
+2 Fred moved to the bedroom.
+3 Fred grabbed the milk there.
+4 Bill travelled to the bedroom.
+5 Fred handed the milk to Bill.
+6 Bill gave the milk to Fred.
+7 Who gave the milk? 	Bill	6
+8 Fred gave the milk to Bill.
+9 Bill put down the milk there.
+10 Who gave the milk? 	Fred	8
+11 Bill journeyed to the hallway.
+12 Jeff travelled to the hallway.
+13 Who gave the milk? 	Fred	8
+14 Jeff grabbed the apple there.
+15 Jeff handed the apple to Bill.
+16 Who did Jeff give the apple to? 	Bill	15
+17 Fred picked up the milk there.
+18 Bill passed the apple to Jeff.
+19 Who gave the apple to Jeff? 	Bill	18

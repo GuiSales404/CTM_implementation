@@ -1,0 +1,17 @@
+1 Mary grabbed the milk there.
+2 Mary grabbed the apple there.
+3 Jeff went back to the kitchen.
+4 Mary handed the apple to Fred.
+5 Who gave the apple? 	Mary	4
+6 Fred gave the apple to Mary.
+7 Mary gave the apple to Fred.
+8 What did Mary give to Fred? 	apple	7
+9 Jeff travelled to the office.
+10 Jeff travelled to the bedroom.
+11 Who did Mary give the apple to? 	Fred	7
+12 Fred passed the apple to Mary.
+13 Jeff went to the office.
+14 Who gave the apple? 	Fred	12
+15 Mary handed the apple to Fred.
+16 Mary journeyed to the hallway.
+17 Who gave the apple? 	Mary	15

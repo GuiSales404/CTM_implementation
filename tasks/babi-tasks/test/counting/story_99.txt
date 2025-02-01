@@ -1,0 +1,15 @@
+1 Daniel went to the bedroom.
+2 Daniel got the apple there.
+3 How many objects is Daniel carrying? 	one	2
+4 Daniel picked up the milk there.
+5 Daniel gave the apple to Sandra.
+6 How many objects is Daniel carrying? 	one	2 4 5
+7 Sandra gave the apple to Daniel.
+8 Sandra journeyed to the bathroom.
+9 How many objects is Daniel carrying? 	two	2 4 5 7
+10 Daniel went to the office.
+11 Daniel discarded the milk.
+12 How many objects is Daniel carrying? 	one	2 4 5 7 11
+13 Daniel picked up the milk there.
+14 John moved to the hallway.
+15 How many objects is Daniel carrying? 	two	2 4 5 7 11 13

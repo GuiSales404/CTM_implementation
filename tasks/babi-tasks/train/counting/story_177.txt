@@ -1,0 +1,17 @@
+1 John moved to the bathroom.
+2 Mary went back to the bathroom.
+3 John got the apple there.
+4 John dropped the apple.
+5 How many objects is John carrying? 	none	3 4
+6 Daniel journeyed to the bathroom.
+7 Mary grabbed the apple there.
+8 How many objects is John carrying? 	none	3 4
+9 Mary passed the apple to John.
+10 John passed the apple to Mary.
+11 How many objects is John carrying? 	none	3 4 9 10
+12 Mary passed the apple to John.
+13 Mary went back to the hallway.
+14 How many objects is John carrying? 	one	3 4 9 10 12
+15 John passed the apple to Daniel.
+16 Mary went to the garden.
+17 How many objects is Mary carrying? 	none	7 9 10 12

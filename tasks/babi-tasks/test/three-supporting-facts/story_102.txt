@@ -1,0 +1,63 @@
+1 Sandra moved to the bedroom.
+2 Daniel took the football.
+3 Mary journeyed to the garden.
+4 Mary travelled to the bedroom.
+5 Daniel grabbed the apple there.
+6 John moved to the hallway.
+7 Daniel moved to the office.
+8 John got the milk.
+9 Mary moved to the kitchen.
+10 Daniel moved to the garden.
+11 Daniel moved to the kitchen.
+12 John put down the milk.
+13 Sandra journeyed to the garden.
+14 Daniel discarded the apple.
+15 Where was the apple before the kitchen? 	garden	14 11 10
+16 Daniel got the apple.
+17 John took the milk.
+18 John moved to the bathroom.
+19 Daniel left the football there.
+20 Where was the football before the garden? 	office	19 10 7
+21 John left the milk there.
+22 John travelled to the office.
+23 Where was the football before the kitchen? 	garden	19 11 10
+24 Daniel journeyed to the bedroom.
+25 Mary moved to the bedroom.
+26 Where was the football before the kitchen? 	garden	19 11 10
+27 Mary travelled to the bathroom.
+28 Mary moved to the garden.
+29 Daniel discarded the apple there.
+30 Mary moved to the hallway.
+31 John went back to the hallway.
+32 Daniel grabbed the apple.
+33 Daniel travelled to the kitchen.
+34 Daniel dropped the apple.
+35 Daniel went back to the garden.
+36 Sandra went to the kitchen.
+37 Daniel travelled to the kitchen.
+38 Mary moved to the bathroom.
+39 Mary travelled to the hallway.
+40 Daniel journeyed to the bedroom.
+41 Mary journeyed to the garden.
+42 Daniel went to the hallway.
+43 Daniel went to the kitchen.
+44 Daniel got the apple.
+45 Sandra picked up the football.
+46 Sandra travelled to the bedroom.
+47 Sandra discarded the football.
+48 Sandra grabbed the football.
+49 Mary went to the bedroom.
+50 Daniel dropped the apple.
+51 John moved to the office.
+52 Sandra discarded the football there.
+53 John journeyed to the kitchen.
+54 Sandra picked up the football there.
+55 Sandra dropped the football.
+56 Sandra got the football.
+57 John took the apple.
+58 John discarded the apple.
+59 John went to the hallway.
+60 Daniel picked up the apple.
+61 Daniel went back to the garden.
+62 Daniel journeyed to the bathroom.
+63 Where was the apple before the bathroom? 	garden	60 62 61

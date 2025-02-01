@@ -1,0 +1,15 @@
+1 John is no longer in the kitchen.
+2 John went back to the garden.
+3 Is John in the kitchen? 	no	2
+4 Daniel is not in the bedroom.
+5 Mary travelled to the office.
+6 Is Daniel in the bedroom? 	no	4
+7 Daniel is no longer in the garden.
+8 Daniel is not in the office.
+9 Is Daniel in the office? 	no	8
+10 Mary is no longer in the office.
+11 Daniel went back to the office.
+12 Is Mary in the office? 	no	10
+13 Mary is not in the bedroom.
+14 John is no longer in the garden.
+15 Is Mary in the bedroom? 	no	13

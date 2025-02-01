@@ -1,0 +1,15 @@
+1 Julie is either in the bedroom or the kitchen.
+2 Mary journeyed to the school.
+3 Is Julie in the bedroom? 	maybe	1
+4 Julie is either in the bedroom or the kitchen.
+5 Fred is either in the park or the bedroom.
+6 Is Julie in the kitchen? 	maybe	4
+7 Julie went to the school.
+8 Bill is in the bedroom.
+9 Is Mary in the office? 	no	2
+10 Mary went back to the park.
+11 Julie journeyed to the bedroom.
+12 Is Bill in the bedroom? 	yes	8
+13 Fred is either in the park or the office.
+14 Bill journeyed to the park.
+15 Is Bill in the park? 	yes	14

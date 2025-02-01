@@ -1,0 +1,17 @@
+1 Bill grabbed the apple there.
+2 Bill got the football there.
+3 Jeff journeyed to the bathroom.
+4 Bill handed the apple to Jeff.
+5 What did Bill give to Jeff? 	apple	4
+6 Jeff handed the apple to Bill.
+7 Bill handed the apple to Jeff.
+8 What did Bill give to Jeff? 	apple	7
+9 Jeff handed the apple to Bill.
+10 Bill handed the apple to Jeff.
+11 What did Bill give to Jeff? 	apple	10
+12 Jeff put down the apple.
+13 Bill passed the football to Jeff.
+14 What did Bill give to Jeff? 	apple	10
+15 Jeff passed the football to Bill.
+16 Mary got the milk there.
+17 What did Bill give to Jeff? 	apple	10

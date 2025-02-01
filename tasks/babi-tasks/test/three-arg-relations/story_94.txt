@@ -1,0 +1,15 @@
+1 Fred grabbed the apple there.
+2 Fred handed the apple to Bill.
+3 Who did Fred give the apple to? 	Bill	2
+4 Bill gave the apple to Fred.
+5 Jeff moved to the bathroom.
+6 Who gave the apple to Fred? 	Bill	4
+7 Fred passed the apple to Bill.
+8 Bill handed the apple to Fred.
+9 What did Bill give to Fred? 	apple	8
+10 Fred travelled to the hallway.
+11 Fred travelled to the bathroom.
+12 Who gave the apple to Fred? 	Bill	8
+13 Fred handed the apple to Jeff.
+14 Jeff gave the apple to Fred.
+15 Who gave the apple to Fred? 	Jeff	14

@@ -1,0 +1,15 @@
+1 Sandra went to the bedroom.
+2 John picked up the football there.
+3 How many objects is John carrying? 	one	2
+4 John went back to the bathroom.
+5 John put down the football there.
+6 How many objects is John carrying? 	none	2 5
+7 John picked up the football there.
+8 John dropped the football.
+9 How many objects is John carrying? 	none	2 5 7 8
+10 Mary travelled to the garden.
+11 Daniel went to the office.
+12 How many objects is John carrying? 	none	2 5 7 8
+13 Daniel picked up the milk there.
+14 Mary went to the kitchen.
+15 How many objects is John carrying? 	none	2 5 7 8

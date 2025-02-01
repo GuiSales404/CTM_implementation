@@ -1,0 +1,19 @@
+1 Sandra picked up the milk there.
+2 John took the apple there.
+3 Sandra took the football there.
+4 John dropped the apple.
+5 Daniel travelled to the kitchen.
+6 Daniel picked up the apple there.
+7 Is Daniel in the kitchen? 	yes	5
+8 Sandra discarded the milk.
+9 John got the milk there.
+10 Is Daniel in the bedroom? 	no	5
+11 John went to the bathroom.
+12 Daniel put down the apple.
+13 Is John in the kitchen? 	no	11
+14 Daniel picked up the apple there.
+15 John journeyed to the office.
+16 Is John in the bedroom? 	no	15
+17 John left the milk.
+18 Sandra left the football.
+19 Is John in the garden? 	no	15

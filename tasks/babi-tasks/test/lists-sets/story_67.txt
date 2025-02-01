@@ -1,0 +1,19 @@
+1 Daniel moved to the bathroom.
+2 Mary went back to the bedroom.
+3 Daniel grabbed the apple there.
+4 Mary travelled to the office.
+5 What is Daniel carrying? 	apple	3
+6 Sandra moved to the bedroom.
+7 Sandra journeyed to the kitchen.
+8 What is Daniel carrying? 	apple	3
+9 John went to the bedroom.
+10 Daniel moved to the garden.
+11 Daniel grabbed the football there.
+12 Daniel left the apple.
+13 What is Daniel carrying? 	football	3 12 11
+14 Mary journeyed to the kitchen.
+15 Daniel put down the football there.
+16 What is Daniel carrying? 	nothing	3 12 11 15
+17 Sandra went back to the bedroom.
+18 John moved to the garden.
+19 What is Daniel carrying? 	nothing	3 12 11 15

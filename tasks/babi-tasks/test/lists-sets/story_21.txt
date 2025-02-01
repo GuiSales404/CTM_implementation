@@ -1,0 +1,21 @@
+1 Daniel journeyed to the hallway.
+2 Mary travelled to the office.
+3 John went back to the hallway.
+4 Sandra picked up the apple there.
+5 What is Sandra carrying? 	apple	4
+6 John journeyed to the garden.
+7 Sandra moved to the office.
+8 What is Sandra carrying? 	apple	4
+9 Sandra moved to the bathroom.
+10 Daniel went to the garden.
+11 What is Sandra carrying? 	apple	4
+12 Daniel journeyed to the bedroom.
+13 Mary travelled to the hallway.
+14 John travelled to the office.
+15 John moved to the bathroom.
+16 Mary journeyed to the office.
+17 John grabbed the milk there.
+18 What is John carrying? 	milk	17
+19 Sandra picked up the football there.
+20 Daniel travelled to the hallway.
+21 What is Sandra carrying? 	apple,football	4 19

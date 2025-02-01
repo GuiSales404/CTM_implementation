@@ -1,0 +1,17 @@
+1 John went to the kitchen.
+2 Sandra journeyed to the bedroom.
+3 Is John in the office? 	no	1
+4 Sandra journeyed to the kitchen.
+5 Daniel went back to the office.
+6 Is John in the kitchen? 	yes	1
+7 John picked up the football there.
+8 John discarded the football.
+9 Is Daniel in the office? 	yes	5
+10 Sandra got the football there.
+11 Sandra dropped the football.
+12 Is Daniel in the bedroom? 	no	5
+13 Mary grabbed the apple there.
+14 John got the football there.
+15 John travelled to the hallway.
+16 Sandra went back to the garden.
+17 Is Sandra in the garden? 	yes	16

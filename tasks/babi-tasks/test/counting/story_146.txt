@@ -1,0 +1,15 @@
+1 Sandra moved to the garden.
+2 Daniel grabbed the football there.
+3 How many objects is Daniel carrying? 	one	2
+4 Daniel journeyed to the garden.
+5 Daniel handed the football to Sandra.
+6 How many objects is Daniel carrying? 	none	2 5
+7 Sandra passed the football to Daniel.
+8 Daniel gave the football to Sandra.
+9 How many objects is Sandra carrying? 	one	5 7 8
+10 John went to the garden.
+11 Sandra passed the football to John.
+12 How many objects is Sandra carrying? 	none	5 7 8 11
+13 Sandra journeyed to the kitchen.
+14 John handed the football to Daniel.
+15 How many objects is Daniel carrying? 	one	2 5 7 8 14

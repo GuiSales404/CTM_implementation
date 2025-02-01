@@ -1,0 +1,27 @@
+1 Daniel travelled to the bathroom.
+2 Daniel moved to the kitchen.
+3 Daniel moved to the office.
+4 Mary went to the office.
+5 Mary went back to the bedroom.
+6 Daniel journeyed to the bathroom.
+7 Daniel travelled to the kitchen.
+8 Mary moved to the kitchen.
+9 John moved to the bathroom.
+10 Daniel moved to the bedroom.
+11 Mary went back to the bedroom.
+12 Mary moved to the office.
+13 Sandra moved to the garden.
+14 Sandra got the football there.
+15 What is Sandra carrying? 	football	14
+16 Sandra moved to the bathroom.
+17 Sandra put down the football there.
+18 What is Sandra carrying? 	nothing	14 17
+19 Sandra picked up the football there.
+20 John moved to the kitchen.
+21 What is Sandra carrying? 	football	14 17 19
+22 Sandra travelled to the kitchen.
+23 John went back to the office.
+24 What is Sandra carrying? 	football	14 17 19
+25 Sandra left the football.
+26 Sandra went back to the office.
+27 What is Sandra carrying? 	nothing	14 17 19 25

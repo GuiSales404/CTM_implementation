@@ -1,0 +1,15 @@
+1 Sandra picked up the milk there.
+2 John took the football there.
+3 What is John carrying? 	football	2
+4 John travelled to the bathroom.
+5 John got the apple there.
+6 What is John carrying? 	football,apple	2 5
+7 John dropped the football.
+8 Sandra went back to the bedroom.
+9 What is John carrying? 	apple	2 7 5
+10 Daniel travelled to the kitchen.
+11 John picked up the football there.
+12 What is John carrying? 	football,apple	2 7 11 5
+13 Daniel went back to the bathroom.
+14 Daniel went back to the kitchen.
+15 What is John carrying? 	football,apple	2 7 11 5

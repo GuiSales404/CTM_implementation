@@ -1,0 +1,19 @@
+1 Bill travelled to the kitchen.
+2 Fred journeyed to the bedroom.
+3 Jeff got the milk there.
+4 Jeff travelled to the bedroom.
+5 Jeff passed the milk to Fred.
+6 Fred gave the milk to Jeff.
+7 What did Fred give to Jeff? 	milk	6
+8 Jeff handed the milk to Fred.
+9 Fred left the milk.
+10 Who gave the milk to Fred? 	Jeff	8
+11 Jeff took the milk there.
+12 Jeff passed the milk to Fred.
+13 Who gave the milk to Fred? 	Jeff	12
+14 Fred passed the milk to Jeff.
+15 Jeff handed the milk to Fred.
+16 Who received the milk? 	Fred	15
+17 Fred gave the milk to Jeff.
+18 Jeff passed the milk to Fred.
+19 Who gave the milk to Fred? 	Jeff	18

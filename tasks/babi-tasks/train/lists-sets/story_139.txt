@@ -1,0 +1,15 @@
+1 Mary moved to the hallway.
+2 Sandra grabbed the milk there.
+3 What is Sandra carrying? 	milk	2
+4 Sandra went back to the bathroom.
+5 Daniel took the apple there.
+6 What is Sandra carrying? 	milk	2
+7 John journeyed to the bathroom.
+8 Sandra discarded the milk.
+9 What is Sandra carrying? 	nothing	2 8
+10 Sandra travelled to the office.
+11 Daniel got the milk there.
+12 What is Daniel carrying? 	apple,milk	5 11
+13 Sandra went back to the hallway.
+14 Sandra went to the bathroom.
+15 What is Daniel carrying? 	apple,milk	5 11

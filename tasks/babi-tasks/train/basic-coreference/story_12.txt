@@ -1,0 +1,15 @@
+1 Mary went back to the hallway.
+2 Afterwards she moved to the bathroom.
+3 Where is Mary? 	bathroom	1 2
+4 Mary journeyed to the garden.
+5 Afterwards she went back to the bedroom.
+6 Where is Mary? 	bedroom	4 5
+7 Sandra moved to the bedroom.
+8 Following that she travelled to the kitchen.
+9 Where is Sandra? 	kitchen	7 8
+10 Sandra travelled to the garden.
+11 Then she went to the kitchen.
+12 Where is Sandra? 	kitchen	10 11
+13 Mary went back to the kitchen.
+14 Afterwards she went to the bathroom.
+15 Where is Mary? 	bathroom	13 14

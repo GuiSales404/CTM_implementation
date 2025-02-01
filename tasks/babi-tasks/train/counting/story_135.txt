@@ -1,0 +1,15 @@
+1 John grabbed the football there.
+2 Sandra moved to the garden.
+3 How many objects is John carrying? 	one	1
+4 Daniel travelled to the kitchen.
+5 Daniel journeyed to the office.
+6 How many objects is John carrying? 	one	1
+7 Daniel grabbed the milk there.
+8 Daniel left the milk.
+9 How many objects is Daniel carrying? 	none	7 8
+10 Daniel moved to the bathroom.
+11 Daniel travelled to the garden.
+12 How many objects is Daniel carrying? 	none	7 8
+13 John discarded the football there.
+14 John travelled to the bathroom.
+15 How many objects is John carrying? 	none	1 13

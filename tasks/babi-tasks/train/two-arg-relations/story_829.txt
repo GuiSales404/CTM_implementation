@@ -1,0 +1,3 @@
+1 The garden is south of the bathroom.
+2 The hallway is north of the bathroom.
+3 What is the bathroom south of?	hallway	2

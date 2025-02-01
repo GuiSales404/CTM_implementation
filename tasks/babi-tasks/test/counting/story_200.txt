@@ -1,0 +1,21 @@
+1 Daniel went to the kitchen.
+2 Mary travelled to the hallway.
+3 Mary went back to the bedroom.
+4 John journeyed to the garden.
+5 Daniel picked up the apple there.
+6 Mary travelled to the garden.
+7 How many objects is Daniel carrying? 	one	5
+8 Mary moved to the bedroom.
+9 John journeyed to the kitchen.
+10 How many objects is Daniel carrying? 	one	5
+11 Daniel went to the bedroom.
+12 Daniel travelled to the office.
+13 Daniel put down the apple.
+14 John travelled to the garden.
+15 How many objects is Daniel carrying? 	none	5 13
+16 Daniel journeyed to the bathroom.
+17 Mary grabbed the football there.
+18 How many objects is Mary carrying? 	one	17
+19 Mary discarded the football.
+20 Daniel travelled to the hallway.
+21 How many objects is Mary carrying? 	none	17 19

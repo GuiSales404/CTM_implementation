@@ -1,0 +1,17 @@
+1 Mary travelled to the office.
+2 John went to the bedroom.
+3 Sandra grabbed the milk there.
+4 Sandra took the football there.
+5 What is Sandra carrying? 	milk,football	3 4
+6 Sandra left the milk.
+7 Sandra journeyed to the office.
+8 What is Sandra carrying? 	football	3 6 4
+9 Sandra put down the football.
+10 Mary went back to the bathroom.
+11 What is Sandra carrying? 	nothing	3 6 4 9
+12 Mary journeyed to the bedroom.
+13 Sandra got the football there.
+14 What is Sandra carrying? 	football	3 6 4 9 13
+15 John journeyed to the bathroom.
+16 Sandra journeyed to the bedroom.
+17 What is Sandra carrying? 	football	3 6 4 9 13

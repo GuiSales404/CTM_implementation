@@ -1,0 +1,3 @@
+1 The kitchen is north of the office.
+2 The garden is south of the office.
+3 What is the office north of?	garden	2

@@ -1,0 +1,15 @@
+1 John got the milk there.
+2 John travelled to the hallway.
+3 Is John in the hallway? 	yes	2
+4 John put down the milk.
+5 Daniel went to the bedroom.
+6 Is John in the office? 	no	2
+7 Daniel got the apple there.
+8 Sandra got the milk there.
+9 Is John in the hallway? 	yes	2
+10 Daniel went to the kitchen.
+11 Daniel went back to the bathroom.
+12 Is Daniel in the kitchen? 	no	11
+13 Daniel dropped the apple there.
+14 Daniel got the apple there.
+15 Is Daniel in the kitchen? 	no	11

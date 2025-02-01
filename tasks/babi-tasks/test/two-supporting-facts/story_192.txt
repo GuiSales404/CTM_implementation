@@ -1,0 +1,15 @@
+1 John took the football there.
+2 John moved to the bedroom.
+3 Where is the football? 	bedroom	1 2
+4 John discarded the football.
+5 Sandra went to the bedroom.
+6 Where is the football? 	bedroom	4 2
+7 John took the football there.
+8 John dropped the football.
+9 Where is the football? 	bedroom	8 2
+10 Sandra took the football there.
+11 Sandra left the football.
+12 Where is the football? 	bedroom	11 5
+13 Sandra journeyed to the kitchen.
+14 Mary went back to the office.
+15 Where is the football? 	bedroom	11 5

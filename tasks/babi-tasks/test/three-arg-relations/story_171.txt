@@ -1,0 +1,19 @@
+1 Mary went to the garden.
+2 Jeff went back to the garden.
+3 Jeff grabbed the apple there.
+4 Fred moved to the office.
+5 Fred moved to the garden.
+6 Jeff passed the apple to Mary.
+7 What did Jeff give to Mary? 	apple	6
+8 Mary travelled to the hallway.
+9 Jeff went to the bedroom.
+10 What did Jeff give to Mary? 	apple	6
+11 Mary put down the apple.
+12 Jeff picked up the football there.
+13 Who did Jeff give the apple to? 	Mary	6
+14 Mary went to the bedroom.
+15 Jeff gave the football to Mary.
+16 What did Jeff give to Mary? 	football	15
+17 Mary travelled to the garden.
+18 Mary left the football.
+19 Who did Jeff give the football to? 	Mary	15

@@ -1,0 +1,37 @@
+1 Daniel went back to the hallway.
+2 Mary went back to the garden.
+3 Sandra went to the kitchen.
+4 Mary moved to the bedroom.
+5 Sandra travelled to the bathroom.
+6 Mary journeyed to the garden.
+7 Daniel went back to the office.
+8 John went back to the garden.
+9 John travelled to the office.
+10 Sandra got the milk there.
+11 John went back to the kitchen.
+12 Sandra left the milk.
+13 Where is the milk? 	bathroom	12 5
+14 Sandra took the milk there.
+15 Mary travelled to the bedroom.
+16 Sandra left the milk there.
+17 John moved to the garden.
+18 Where is the milk? 	bathroom	16 5
+19 Sandra grabbed the milk there.
+20 Sandra went back to the kitchen.
+21 Where is the milk? 	kitchen	19 20
+22 Daniel journeyed to the hallway.
+23 Mary moved to the kitchen.
+24 Where is the milk? 	kitchen	19 20
+25 Daniel travelled to the bedroom.
+26 Daniel went to the office.
+27 John journeyed to the kitchen.
+28 John went to the bathroom.
+29 Sandra travelled to the hallway.
+30 Mary journeyed to the office.
+31 John travelled to the kitchen.
+32 Sandra went to the garden.
+33 John went to the garden.
+34 Sandra moved to the kitchen.
+35 Daniel journeyed to the hallway.
+36 Sandra left the milk.
+37 Where is the milk? 	kitchen	36 34

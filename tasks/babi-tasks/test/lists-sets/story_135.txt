@@ -1,0 +1,15 @@
+1 Daniel journeyed to the hallway.
+2 Daniel got the football there.
+3 What is Daniel carrying? 	football	2
+4 Mary travelled to the kitchen.
+5 John travelled to the bathroom.
+6 What is Daniel carrying? 	football	2
+7 Mary went back to the bathroom.
+8 Daniel went back to the office.
+9 What is Daniel carrying? 	football	2
+10 Daniel grabbed the apple there.
+11 Daniel travelled to the hallway.
+12 What is Daniel carrying? 	football,apple	2 10
+13 Daniel went back to the bedroom.
+14 John went back to the bedroom.
+15 What is Daniel carrying? 	football,apple	2 10

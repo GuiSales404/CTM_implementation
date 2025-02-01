@@ -1,0 +1,15 @@
+1 Jeff got the apple there.
+2 Jeff passed the apple to Bill.
+3 Who gave the apple? 	Jeff	2
+4 Bill handed the apple to Jeff.
+5 Jeff passed the apple to Bill.
+6 Who did Jeff give the apple to? 	Bill	5
+7 Bill gave the apple to Jeff.
+8 Fred went to the office.
+9 What did Bill give to Jeff? 	apple	7
+10 Mary journeyed to the kitchen.
+11 Jeff gave the apple to Mary.
+12 Who gave the apple? 	Jeff	11
+13 Fred grabbed the football there.
+14 Jeff went to the hallway.
+15 Who did Jeff give the apple to? 	Mary	11

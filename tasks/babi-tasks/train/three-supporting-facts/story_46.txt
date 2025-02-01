@@ -1,0 +1,121 @@
+1 Daniel went back to the hallway.
+2 Mary went to the garden.
+3 Daniel went back to the bedroom.
+4 Sandra went back to the kitchen.
+5 Sandra moved to the bedroom.
+6 John travelled to the hallway.
+7 Sandra journeyed to the hallway.
+8 Sandra went to the kitchen.
+9 Daniel went to the kitchen.
+10 Mary moved to the bedroom.
+11 Mary moved to the bathroom.
+12 Daniel grabbed the apple.
+13 John travelled to the bathroom.
+14 Mary moved to the hallway.
+15 Mary went back to the garden.
+16 Daniel dropped the apple.
+17 Sandra moved to the garden.
+18 John went to the garden.
+19 Sandra journeyed to the kitchen.
+20 John got the football there.
+21 Mary travelled to the hallway.
+22 John travelled to the bathroom.
+23 Daniel picked up the apple there.
+24 Daniel discarded the apple there.
+25 John went back to the garden.
+26 Daniel moved to the bedroom.
+27 Sandra went to the garden.
+28 John dropped the football.
+29 Where was the football before the garden? 	bathroom	28 25 22
+30 Daniel moved to the kitchen.
+31 Sandra went back to the bathroom.
+32 Where was the football before the garden? 	bathroom	28 25 22
+33 Daniel travelled to the bedroom.
+34 Daniel went back to the kitchen.
+35 Where was the football before the garden? 	bathroom	28 25 22
+36 Daniel picked up the apple there.
+37 Sandra moved to the bedroom.
+38 Daniel put down the apple.
+39 John got the football.
+40 Daniel grabbed the apple.
+41 Daniel dropped the apple.
+42 Mary went to the bathroom.
+43 John discarded the football there.
+44 John grabbed the football.
+45 Daniel grabbed the apple.
+46 Sandra journeyed to the hallway.
+47 Mary went to the bedroom.
+48 John put down the football.
+49 Sandra moved to the garden.
+50 Daniel moved to the bedroom.
+51 John picked up the football.
+52 Daniel left the apple.
+53 Mary took the apple there.
+54 John put down the football.
+55 Mary travelled to the kitchen.
+56 Daniel travelled to the office.
+57 Mary put down the apple.
+58 Sandra picked up the football.
+59 John went to the bathroom.
+60 Sandra moved to the kitchen.
+61 Sandra put down the football.
+62 Sandra journeyed to the bedroom.
+63 Daniel moved to the garden.
+64 Mary got the football.
+65 John went back to the bedroom.
+66 John went back to the office.
+67 John went to the hallway.
+68 Mary picked up the apple.
+69 Mary discarded the football.
+70 Mary dropped the apple.
+71 John went to the office.
+72 Mary grabbed the apple there.
+73 John travelled to the hallway.
+74 Mary grabbed the football.
+75 Mary discarded the football there.
+76 Mary went to the bedroom.
+77 Mary put down the apple there.
+78 John went to the garden.
+79 Mary went to the garden.
+80 Daniel moved to the office.
+81 John went back to the office.
+82 Sandra travelled to the office.
+83 Mary went to the bathroom.
+84 John picked up the milk.
+85 John left the milk there.
+86 John went back to the bedroom.
+87 Daniel picked up the milk.
+88 Daniel travelled to the kitchen.
+89 Sandra went to the bedroom.
+90 Daniel put down the milk.
+91 Mary travelled to the kitchen.
+92 John moved to the kitchen.
+93 Mary travelled to the bedroom.
+94 Daniel went back to the bedroom.
+95 Sandra took the apple.
+96 Sandra left the apple.
+97 Daniel took the apple.
+98 Daniel left the apple.
+99 Mary picked up the apple.
+100 Mary discarded the apple.
+101 Mary moved to the kitchen.
+102 Sandra took the apple.
+103 Mary got the football.
+104 Mary discarded the football.
+105 John went back to the bathroom.
+106 Sandra moved to the kitchen.
+107 Sandra went back to the bedroom.
+108 Sandra went back to the hallway.
+109 Mary picked up the milk.
+110 Sandra moved to the kitchen.
+111 Daniel went back to the hallway.
+112 Mary got the football there.
+113 Mary travelled to the bedroom.
+114 John moved to the kitchen.
+115 Mary discarded the milk.
+116 Mary travelled to the bathroom.
+117 Mary left the football.
+118 Where was the football before the bathroom? 	bedroom	117 116 113
+119 Sandra went to the garden.
+120 John went back to the office.
+121 Where was the football before the bathroom? 	bedroom	117 116 113

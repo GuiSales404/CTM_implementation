@@ -1,0 +1,69 @@
+1 Fred moved to the office.
+2 Jeff went to the bathroom.
+3 Jeff went to the hallway.
+4 Bill moved to the bedroom.
+5 Fred went back to the bathroom.
+6 Fred got the milk there.
+7 Jeff travelled to the bathroom.
+8 Fred went back to the kitchen.
+9 Fred left the milk.
+10 Mary went to the hallway.
+11 Mary journeyed to the office.
+12 Fred took the milk there.
+13 Fred dropped the milk.
+14 Bill went back to the kitchen.
+15 Mary went to the bathroom.
+16 Fred took the milk there.
+17 Bill travelled to the hallway.
+18 Mary went back to the garden.
+19 Fred put down the milk.
+20 Fred picked up the milk there.
+21 Bill went back to the bedroom.
+22 Mary picked up the apple there.
+23 Mary moved to the kitchen.
+24 Fred discarded the milk there.
+25 Mary left the apple there.
+26 Fred got the milk there.
+27 Fred journeyed to the hallway.
+28 Mary moved to the bedroom.
+29 Fred put down the milk.
+30 Mary moved to the office.
+31 Fred went back to the bathroom.
+32 Mary travelled to the bedroom.
+33 Mary went to the kitchen.
+34 Fred went back to the garden.
+35 Bill travelled to the bathroom.
+36 Fred journeyed to the office.
+37 Mary took the apple there.
+38 Mary left the apple there.
+39 Fred journeyed to the bathroom.
+40 Fred went back to the bedroom.
+41 Fred went to the office.
+42 Mary got the apple there.
+43 Mary went to the hallway.
+44 Mary discarded the apple.
+45 Mary picked up the apple there.
+46 Mary took the milk there.
+47 Fred journeyed to the kitchen.
+48 Jeff went to the kitchen.
+49 Jeff went to the hallway.
+50 Mary went to the office.
+51 Fred travelled to the bedroom.
+52 Jeff went to the garden.
+53 Mary moved to the kitchen.
+54 Mary moved to the bathroom.
+55 Jeff picked up the football there.
+56 Mary handed the apple to Bill.
+57 Who gave the apple? 	Mary	56
+58 Bill gave the apple to Mary.
+59 Fred went to the bathroom.
+60 Who gave the apple? 	Bill	58
+61 Mary passed the apple to Fred.
+62 Fred handed the apple to Mary.
+63 Who gave the apple to Mary? 	Fred	62
+64 Mary went to the kitchen.
+65 Mary put down the milk.
+66 Who gave the apple? 	Fred	62
+67 Bill went back to the office.
+68 Mary grabbed the milk there.
+69 What did Fred give to Mary? 	apple	62

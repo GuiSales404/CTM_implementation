@@ -1,0 +1,65 @@
+1 Mary went to the garden.
+2 Fred moved to the kitchen.
+3 Fred took the apple there.
+4 Fred travelled to the bedroom.
+5 Bill travelled to the bathroom.
+6 Mary went back to the office.
+7 Fred put down the apple.
+8 Mary went back to the kitchen.
+9 Fred moved to the hallway.
+10 Jeff journeyed to the kitchen.
+11 Bill went to the hallway.
+12 Jeff went to the bathroom.
+13 Fred travelled to the bathroom.
+14 Mary moved to the bathroom.
+15 Bill moved to the bedroom.
+16 Fred journeyed to the office.
+17 Bill journeyed to the office.
+18 Fred travelled to the kitchen.
+19 Mary went to the garden.
+20 Mary got the football there.
+21 Mary put down the football.
+22 Fred journeyed to the hallway.
+23 Bill took the milk there.
+24 Mary grabbed the football there.
+25 Mary travelled to the kitchen.
+26 Mary journeyed to the office.
+27 Fred moved to the garden.
+28 Mary passed the football to Bill.
+29 What did Mary give to Bill? 	football	28
+30 Bill gave the football to Mary.
+31 Mary gave the football to Bill.
+32 Who gave the football? 	Mary	31
+33 Jeff went back to the bedroom.
+34 Bill travelled to the bathroom.
+35 What did Mary give to Bill? 	football	31
+36 Mary journeyed to the garden.
+37 Bill dropped the milk there.
+38 Who gave the football to Bill? 	Mary	31
+39 Jeff grabbed the apple there.
+40 Bill left the football.
+41 Jeff discarded the apple.
+42 Bill went back to the kitchen.
+43 Jeff went to the office.
+44 Bill journeyed to the garden.
+45 Fred went back to the kitchen.
+46 Fred went to the hallway.
+47 Fred moved to the office.
+48 Mary travelled to the bedroom.
+49 Bill went to the bedroom.
+50 Mary moved to the garden.
+51 Jeff went back to the bathroom.
+52 Mary moved to the office.
+53 Bill travelled to the hallway.
+54 Fred journeyed to the hallway.
+55 Bill journeyed to the bedroom.
+56 Jeff got the football there.
+57 Mary moved to the bedroom.
+58 Mary moved to the kitchen.
+59 Jeff grabbed the milk there.
+60 Fred travelled to the office.
+61 Fred went back to the kitchen.
+62 Bill moved to the bathroom.
+63 Jeff put down the milk.
+64 Jeff gave the football to Bill.
+65 What did Jeff give to Bill? 	football	64

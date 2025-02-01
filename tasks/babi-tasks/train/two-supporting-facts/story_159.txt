@@ -1,0 +1,17 @@
+1 Sandra went to the garden.
+2 Sandra moved to the kitchen.
+3 John grabbed the milk there.
+4 John went back to the hallway.
+5 Where is the milk? 	hallway	3 4
+6 John moved to the garden.
+7 John got the apple there.
+8 Where is the milk? 	garden	3 6
+9 Sandra picked up the football there.
+10 Sandra went to the garden.
+11 Where is the football? 	garden	9 10
+12 Daniel travelled to the kitchen.
+13 John dropped the milk.
+14 Where is the milk? 	garden	13 6
+15 Sandra left the football.
+16 John grabbed the milk there.
+17 Where is the football? 	garden	15 10

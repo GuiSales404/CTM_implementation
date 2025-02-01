@@ -1,0 +1,10 @@
+1 The red sphere is to the right of the blue square.
+2 The blue square is below the yellow square.
+3 Is the red sphere above the yellow square?	no	1 2
+4 Is the red sphere above the yellow square?	no	1 2
+5 Is the yellow square below the red sphere?	no	2 1
+6 Is the yellow square to the left of the red sphere?	yes	2 1
+7 Is the red sphere to the right of the yellow square?	yes	1 2
+8 Is the red sphere below the yellow square?	yes	1 2
+9 Is the red sphere above the yellow square?	no	1 2
+10 Is the red sphere below the yellow square?	yes	1 2

@@ -1,0 +1,15 @@
+1 Sandra travelled to the office.
+2 Daniel is not in the kitchen.
+3 Is Daniel in the kitchen? 	no	2
+4 Daniel is not in the bedroom.
+5 Mary went back to the kitchen.
+6 Is Daniel in the bedroom? 	no	4
+7 John moved to the kitchen.
+8 Daniel moved to the garden.
+9 Is Daniel in the bedroom? 	no	8
+10 Sandra is in the bathroom.
+11 Daniel journeyed to the office.
+12 Is John in the kitchen? 	yes	7
+13 John is not in the kitchen.
+14 Daniel is in the bedroom.
+15 Is Daniel in the office? 	no	14

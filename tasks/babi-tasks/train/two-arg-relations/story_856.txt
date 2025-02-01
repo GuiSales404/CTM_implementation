@@ -1,0 +1,3 @@
+1 The garden is east of the kitchen.
+2 The office is west of the kitchen.
+3 What is west of the kitchen?	office	2

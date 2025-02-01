@@ -1,0 +1,17 @@
+1 John moved to the bedroom.
+2 Sandra travelled to the office.
+3 Mary got the apple there.
+4 Mary went back to the hallway.
+5 What is Mary carrying? 	apple	3
+6 Mary went back to the bathroom.
+7 John took the football there.
+8 What is Mary carrying? 	apple	3
+9 John left the football.
+10 John grabbed the football there.
+11 What is John carrying? 	football	7 9 10
+12 Mary went to the bedroom.
+13 John moved to the bathroom.
+14 What is John carrying? 	football	7 9 10
+15 Daniel moved to the hallway.
+16 John dropped the football.
+17 What is John carrying? 	nothing	7 9 10 16

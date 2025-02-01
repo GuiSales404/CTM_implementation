@@ -1,0 +1,15 @@
+1 John travelled to the hallway.
+2 After that he journeyed to the garden.
+3 Where is John? 	garden	1 2
+4 Mary travelled to the hallway.
+5 Afterwards she went to the office.
+6 Where is John? 	garden	1 2
+7 Sandra went to the kitchen.
+8 Following that she moved to the garden.
+9 Where is Sandra? 	garden	7 8
+10 Daniel moved to the office.
+11 Afterwards he moved to the garden.
+12 Where is Mary? 	office	4 5
+13 Daniel went to the bathroom.
+14 Following that he travelled to the office.
+15 Where is Daniel? 	office	13 14

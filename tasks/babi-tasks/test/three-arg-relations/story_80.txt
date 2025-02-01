@@ -1,0 +1,21 @@
+1 Mary grabbed the apple there.
+2 Jeff went back to the bedroom.
+3 Bill went to the office.
+4 Mary moved to the office.
+5 Mary gave the apple to Bill.
+6 Mary journeyed to the hallway.
+7 Who gave the apple? 	Mary	5
+8 Fred moved to the kitchen.
+9 Jeff journeyed to the hallway.
+10 Who did Mary give the apple to? 	Bill	5
+11 Bill went to the garden.
+12 Bill travelled to the kitchen.
+13 Bill passed the apple to Fred.
+14 Fred gave the apple to Bill.
+15 Who gave the apple to Bill? 	Fred	14
+16 Mary went back to the office.
+17 Bill handed the apple to Fred.
+18 Who did Bill give the apple to? 	Fred	17
+19 Fred put down the apple there.
+20 Mary went back to the garden.
+21 Who received the apple? 	Fred	17

@@ -1,0 +1,65 @@
+1 Sandra moved to the hallway.
+2 Daniel moved to the bathroom.
+3 Sandra went to the garden.
+4 John journeyed to the bathroom.
+5 John travelled to the kitchen.
+6 Daniel moved to the garden.
+7 Mary travelled to the garden.
+8 Sandra went to the bathroom.
+9 Sandra journeyed to the garden.
+10 Daniel journeyed to the hallway.
+11 Daniel went back to the bedroom.
+12 Daniel went to the bathroom.
+13 Sandra went to the hallway.
+14 Sandra moved to the garden.
+15 Sandra went back to the hallway.
+16 Sandra went back to the garden.
+17 Mary travelled to the hallway.
+18 Daniel went to the garden.
+19 John went back to the garden.
+20 Sandra travelled to the office.
+21 Mary went to the garden.
+22 Sandra travelled to the bedroom.
+23 Daniel journeyed to the kitchen.
+24 Mary went to the office.
+25 Sandra moved to the garden.
+26 Mary got the football.
+27 John went to the bathroom.
+28 Sandra went back to the office.
+29 Mary put down the football.
+30 Sandra got the football.
+31 Sandra went back to the bedroom.
+32 Mary went to the kitchen.
+33 John travelled to the kitchen.
+34 Sandra grabbed the milk.
+35 Sandra journeyed to the kitchen.
+36 Sandra left the milk.
+37 Daniel moved to the garden.
+38 Mary got the milk.
+39 Sandra journeyed to the hallway.
+40 Mary discarded the milk there.
+41 Sandra put down the football.
+42 Daniel went back to the hallway.
+43 Where was the football before the hallway? 	kitchen	41 39 35
+44 Mary grabbed the milk.
+45 Mary travelled to the bathroom.
+46 Where was the football before the hallway? 	kitchen	41 39 35
+47 Daniel picked up the football.
+48 Mary journeyed to the kitchen.
+49 Where was the milk before the kitchen? 	bathroom	44 48 45
+50 John travelled to the office.
+51 Daniel went back to the office.
+52 John went to the kitchen.
+53 John moved to the bathroom.
+54 Sandra moved to the bedroom.
+55 Mary went back to the office.
+56 Daniel discarded the football.
+57 Sandra travelled to the kitchen.
+58 John went to the kitchen.
+59 Daniel went to the hallway.
+60 Mary discarded the milk.
+61 Daniel went back to the garden.
+62 Where was the milk before the office? 	kitchen	60 55 48
+63 Sandra went to the bathroom.
+64 John moved to the bedroom.
+65 Where was the milk before the kitchen? 	bathroom	60 48 45

@@ -1,0 +1,15 @@
+1 Sandra moved to the garden.
+2 Sandra took the football there.
+3 How many objects is Sandra carrying? 	one	2
+4 Mary grabbed the milk there.
+5 Mary left the milk.
+6 How many objects is Mary carrying? 	none	4 5
+7 Daniel got the milk there.
+8 Daniel journeyed to the kitchen.
+9 How many objects is Daniel carrying? 	one	7
+10 Sandra handed the football to John.
+11 John passed the football to Sandra.
+12 How many objects is Mary carrying? 	none	4 5
+13 Sandra passed the football to John.
+14 Mary journeyed to the garden.
+15 How many objects is Sandra carrying? 	none	2 10 11 13

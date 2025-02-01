@@ -1,0 +1,21 @@
+1 Mary moved to the kitchen.
+2 Sandra moved to the kitchen.
+3 Sandra travelled to the bedroom.
+4 Mary grabbed the apple there.
+5 What is Mary carrying? 	apple	4
+6 Sandra picked up the milk there.
+7 Mary dropped the apple there.
+8 What is Mary carrying? 	nothing	4 7
+9 Sandra moved to the garden.
+10 Mary travelled to the office.
+11 What is Mary carrying? 	nothing	4 7
+12 John went back to the garden.
+13 Sandra moved to the hallway.
+14 What is Mary carrying? 	nothing	4 7
+15 Mary journeyed to the bedroom.
+16 Sandra went back to the garden.
+17 John moved to the bedroom.
+18 Sandra travelled to the kitchen.
+19 Sandra dropped the milk.
+20 Sandra moved to the hallway.
+21 What is Sandra carrying? 	nothing	6 19

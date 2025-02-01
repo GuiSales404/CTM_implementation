@@ -1,0 +1,121 @@
+1 Sandra went to the bathroom.
+2 John moved to the kitchen.
+3 Daniel moved to the bedroom.
+4 John grabbed the apple.
+5 Sandra went back to the garden.
+6 John left the apple.
+7 Sandra got the milk.
+8 John grabbed the apple.
+9 Sandra discarded the milk there.
+10 John dropped the apple.
+11 Sandra moved to the hallway.
+12 John moved to the garden.
+13 John travelled to the kitchen.
+14 John journeyed to the garden.
+15 John got the football.
+16 John journeyed to the kitchen.
+17 John travelled to the office.
+18 John journeyed to the bedroom.
+19 Where was the football before the bedroom? 	office	15 18 17
+20 Mary journeyed to the kitchen.
+21 Mary picked up the apple.
+22 John put down the football there.
+23 John went back to the garden.
+24 Where was the football before the bedroom? 	office	22 18 17
+25 Mary went back to the garden.
+26 John went to the office.
+27 Where was the football before the office? 	kitchen	22 17 16
+28 Mary journeyed to the bathroom.
+29 Daniel picked up the football.
+30 Daniel travelled to the garden.
+31 Mary dropped the apple.
+32 Where was the apple before the bathroom? 	garden	31 28 25
+33 Daniel left the football.
+34 Mary took the apple.
+35 Mary put down the apple.
+36 Sandra journeyed to the kitchen.
+37 Mary moved to the office.
+38 Sandra moved to the bedroom.
+39 Daniel went back to the bedroom.
+40 Daniel journeyed to the office.
+41 Sandra travelled to the bathroom.
+42 John journeyed to the bathroom.
+43 Mary went to the garden.
+44 Mary travelled to the kitchen.
+45 Daniel journeyed to the garden.
+46 John went back to the kitchen.
+47 Daniel moved to the bedroom.
+48 John journeyed to the bedroom.
+49 John moved to the garden.
+50 Daniel went to the office.
+51 John moved to the kitchen.
+52 Sandra picked up the apple.
+53 Mary journeyed to the hallway.
+54 Daniel travelled to the kitchen.
+55 Daniel went back to the hallway.
+56 Sandra dropped the apple.
+57 Daniel travelled to the kitchen.
+58 John moved to the hallway.
+59 Daniel travelled to the garden.
+60 Daniel picked up the milk.
+61 Daniel picked up the football.
+62 Daniel travelled to the hallway.
+63 Sandra grabbed the apple.
+64 John moved to the bedroom.
+65 Sandra journeyed to the bedroom.
+66 Daniel left the milk.
+67 Mary went back to the bedroom.
+68 Daniel dropped the football.
+69 Mary went to the garden.
+70 Daniel moved to the garden.
+71 John went to the garden.
+72 John went to the bedroom.
+73 Daniel moved to the office.
+74 Mary went back to the bedroom.
+75 Sandra discarded the apple.
+76 John journeyed to the hallway.
+77 Sandra went back to the hallway.
+78 Mary grabbed the apple.
+79 Mary left the apple.
+80 Sandra travelled to the garden.
+81 Mary journeyed to the bathroom.
+82 Sandra travelled to the office.
+83 Daniel went to the kitchen.
+84 Daniel travelled to the bathroom.
+85 Daniel went to the kitchen.
+86 John moved to the kitchen.
+87 John went to the bedroom.
+88 Sandra went back to the bedroom.
+89 Mary travelled to the office.
+90 John picked up the apple.
+91 Mary moved to the hallway.
+92 Daniel moved to the office.
+93 John left the apple.
+94 John picked up the apple.
+95 Mary got the football.
+96 John went to the garden.
+97 Daniel journeyed to the bedroom.
+98 Mary travelled to the bathroom.
+99 Daniel moved to the garden.
+100 Sandra moved to the bathroom.
+101 Sandra went to the kitchen.
+102 Mary discarded the football.
+103 John dropped the apple.
+104 Mary got the football.
+105 Daniel went back to the office.
+106 Mary dropped the football.
+107 John went to the office.
+108 Mary went back to the kitchen.
+109 John travelled to the hallway.
+110 John went back to the garden.
+111 Daniel moved to the garden.
+112 Daniel picked up the apple.
+113 Daniel moved to the bathroom.
+114 John travelled to the kitchen.
+115 Daniel grabbed the football.
+116 Daniel left the apple there.
+117 Daniel picked up the apple.
+118 Mary went to the bedroom.
+119 Daniel travelled to the bedroom.
+120 Daniel travelled to the hallway.
+121 Where was the apple before the hallway? 	bedroom	117 120 119

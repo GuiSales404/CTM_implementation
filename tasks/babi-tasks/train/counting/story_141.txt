@@ -1,0 +1,15 @@
+1 John went to the kitchen.
+2 Mary got the football there.
+3 How many objects is Mary carrying? 	one	2
+4 Mary gave the football to John.
+5 John passed the football to Mary.
+6 How many objects is John carrying? 	none	4 5
+7 Mary passed the football to John.
+8 John passed the football to Mary.
+9 How many objects is Mary carrying? 	one	2 4 5 7 8
+10 Sandra took the milk there.
+11 Daniel travelled to the kitchen.
+12 How many objects is John carrying? 	none	4 5 7 8
+13 John moved to the hallway.
+14 John moved to the bathroom.
+15 How many objects is John carrying? 	none	4 5 7 8

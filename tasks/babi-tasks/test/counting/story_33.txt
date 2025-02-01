@@ -1,0 +1,17 @@
+1 Sandra moved to the kitchen.
+2 John travelled to the bedroom.
+3 Sandra moved to the garden.
+4 Sandra picked up the football there.
+5 How many objects is Sandra carrying? 	one	4
+6 Sandra went to the bedroom.
+7 Sandra passed the football to John.
+8 How many objects is Sandra carrying? 	none	4 7
+9 John passed the football to Sandra.
+10 Sandra handed the football to John.
+11 How many objects is John carrying? 	one	7 9 10
+12 John discarded the football there.
+13 John picked up the football there.
+14 How many objects is John carrying? 	one	7 9 10 12 13
+15 John gave the football to Sandra.
+16 John journeyed to the hallway.
+17 How many objects is Sandra carrying? 	one	4 7 9 10 15

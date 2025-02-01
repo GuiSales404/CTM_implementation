@@ -1,0 +1,61 @@
+1 John went back to the garden.
+2 Mary journeyed to the bedroom.
+3 John went back to the kitchen.
+4 John went to the garden.
+5 Sandra got the apple there.
+6 John journeyed to the hallway.
+7 Daniel travelled to the bedroom.
+8 Sandra went back to the garden.
+9 Sandra moved to the office.
+10 Daniel travelled to the kitchen.
+11 Sandra dropped the apple.
+12 Daniel got the football.
+13 Where was the apple before the office? 	garden	11 9 8
+14 Mary moved to the garden.
+15 Sandra took the apple.
+16 Sandra travelled to the bathroom.
+17 Sandra dropped the apple.
+18 John went to the kitchen.
+19 Sandra took the apple.
+20 Daniel discarded the football there.
+21 Daniel went to the garden.
+22 Sandra went back to the kitchen.
+23 Mary moved to the office.
+24 Daniel moved to the bedroom.
+25 Sandra grabbed the football.
+26 John moved to the garden.
+27 Daniel moved to the garden.
+28 Mary moved to the garden.
+29 Daniel travelled to the office.
+30 Daniel moved to the garden.
+31 Sandra dropped the apple.
+32 Sandra got the apple.
+33 John went back to the bedroom.
+34 John went to the office.
+35 Sandra travelled to the bedroom.
+36 Daniel moved to the bathroom.
+37 Daniel grabbed the milk.
+38 Daniel moved to the hallway.
+39 John went back to the bathroom.
+40 John moved to the hallway.
+41 Daniel travelled to the bathroom.
+42 Where was the milk before the bathroom? 	hallway	37 41 38
+43 Sandra put down the football.
+44 Mary moved to the bathroom.
+45 Sandra moved to the office.
+46 Mary travelled to the bedroom.
+47 Daniel dropped the milk.
+48 Mary grabbed the football.
+49 Where was the milk before the bathroom? 	hallway	47 41 38
+50 Mary dropped the football.
+51 Mary moved to the hallway.
+52 Where was the milk before the bathroom? 	hallway	47 41 38
+53 John travelled to the garden.
+54 Daniel grabbed the milk there.
+55 Sandra went to the bedroom.
+56 Daniel left the milk.
+57 Mary moved to the office.
+58 Daniel took the milk there.
+59 Mary journeyed to the bedroom.
+60 Sandra dropped the apple.
+61 Where was the apple before the bedroom? 	office	60 55 45

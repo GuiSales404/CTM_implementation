@@ -1,0 +1,15 @@
+1 Daniel went back to the bathroom.
+2 John travelled to the hallway.
+3 Is John in the hallway? 	yes	2
+4 Sandra went back to the bathroom.
+5 John took the apple there.
+6 Is Daniel in the bedroom? 	no	1
+7 Mary picked up the milk there.
+8 Sandra picked up the football there.
+9 Is Sandra in the bathroom? 	yes	4
+10 Sandra travelled to the office.
+11 Daniel went to the kitchen.
+12 Is Daniel in the bathroom? 	no	11
+13 Mary moved to the kitchen.
+14 John discarded the apple.
+15 Is Daniel in the kitchen? 	yes	11

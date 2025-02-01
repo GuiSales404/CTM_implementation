@@ -1,0 +1,19 @@
+1 Mary travelled to the hallway.
+2 Fred went back to the bathroom.
+3 Mary got the football there.
+4 Mary passed the football to Jeff.
+5 Who did Mary give the football to? 	Jeff	4
+6 Jeff handed the football to Mary.
+7 Mary passed the football to Jeff.
+8 Who gave the football? 	Mary	7
+9 Jeff handed the football to Mary.
+10 Mary dropped the football.
+11 Who gave the football? 	Jeff	9
+12 Fred went to the garden.
+13 Mary picked up the football there.
+14 Who did Jeff give the football to? 	Mary	9
+15 Bill went to the bathroom.
+16 Fred journeyed to the office.
+17 Bill moved to the garden.
+18 Mary handed the football to Jeff.
+19 Who received the football? 	Jeff	18

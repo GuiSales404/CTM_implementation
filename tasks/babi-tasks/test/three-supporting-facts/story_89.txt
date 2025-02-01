@@ -1,0 +1,59 @@
+1 John picked up the football.
+2 John travelled to the hallway.
+3 John discarded the football.
+4 John travelled to the bedroom.
+5 Daniel got the football.
+6 Daniel went to the bedroom.
+7 Mary moved to the garden.
+8 Mary moved to the office.
+9 John journeyed to the bathroom.
+10 John went back to the kitchen.
+11 Mary took the milk there.
+12 Daniel put down the football.
+13 Mary discarded the milk.
+14 Daniel picked up the football.
+15 Daniel dropped the football.
+16 Mary picked up the milk.
+17 Mary moved to the garden.
+18 Daniel travelled to the kitchen.
+19 Sandra grabbed the football.
+20 Mary went back to the office.
+21 Where was the milk before the office? 	garden	16 20 17
+22 Daniel moved to the bathroom.
+23 Mary discarded the milk.
+24 Where was the milk before the office? 	garden	23 20 17
+25 Daniel got the apple there.
+26 Daniel dropped the apple there.
+27 Where was the milk before the office? 	garden	23 20 17
+28 Sandra dropped the football.
+29 Mary moved to the garden.
+30 Where was the milk before the office? 	garden	23 20 17
+31 Daniel grabbed the apple.
+32 John journeyed to the bathroom.
+33 Mary journeyed to the kitchen.
+34 Daniel discarded the apple.
+35 Daniel went back to the office.
+36 Sandra journeyed to the hallway.
+37 John got the apple there.
+38 Sandra journeyed to the office.
+39 John went to the office.
+40 John put down the apple there.
+41 Daniel travelled to the bedroom.
+42 John picked up the apple.
+43 Daniel grabbed the football.
+44 John put down the apple.
+45 John took the apple there.
+46 John went to the bedroom.
+47 Daniel went back to the garden.
+48 Sandra picked up the milk.
+49 Daniel went back to the office.
+50 Mary went to the office.
+51 Sandra moved to the bathroom.
+52 John moved to the garden.
+53 John travelled to the bedroom.
+54 Sandra moved to the bedroom.
+55 Daniel moved to the hallway.
+56 Daniel travelled to the office.
+57 Daniel discarded the football.
+58 Mary moved to the garden.
+59 Where was the football before the office? 	hallway	57 56 55

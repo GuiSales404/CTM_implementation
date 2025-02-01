@@ -1,0 +1,15 @@
+1 John travelled to the bathroom.
+2 John moved to the kitchen.
+3 Is John in the kitchen? 	yes	2
+4 John grabbed the apple there.
+5 John went back to the hallway.
+6 Is John in the office? 	no	5
+7 Mary went back to the hallway.
+8 John travelled to the bathroom.
+9 Is John in the bathroom? 	yes	8
+10 Daniel moved to the office.
+11 Mary went to the office.
+12 Is Mary in the office? 	yes	11
+13 Sandra moved to the kitchen.
+14 Sandra went back to the bedroom.
+15 Is Daniel in the office? 	yes	10

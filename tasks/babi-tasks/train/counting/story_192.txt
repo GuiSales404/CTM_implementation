@@ -1,0 +1,17 @@
+1 John moved to the bedroom.
+2 Daniel picked up the football there.
+3 How many objects is Daniel carrying? 	one	2
+4 Daniel moved to the hallway.
+5 Daniel put down the football.
+6 How many objects is Daniel carrying? 	none	2 5
+7 Daniel went back to the bedroom.
+8 John journeyed to the hallway.
+9 How many objects is Daniel carrying? 	none	2 5
+10 Mary went to the hallway.
+11 John went back to the bedroom.
+12 How many objects is Daniel carrying? 	none	2 5
+13 Mary moved to the garden.
+14 Daniel moved to the hallway.
+15 John got the milk there.
+16 John travelled to the garden.
+17 How many objects is John carrying? 	one	15

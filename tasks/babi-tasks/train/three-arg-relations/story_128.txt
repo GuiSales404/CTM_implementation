@@ -1,0 +1,19 @@
+1 Bill got the football there.
+2 Mary went back to the garden.
+3 Jeff journeyed to the garden.
+4 Bill travelled to the hallway.
+5 Jeff went to the hallway.
+6 Bill handed the football to Jeff.
+7 Who did Bill give the football to? 	Jeff	6
+8 Fred got the milk there.
+9 Jeff passed the football to Bill.
+10 What did Jeff give to Bill? 	football	9
+11 Fred put down the milk.
+12 Fred travelled to the kitchen.
+13 Who gave the football? 	Jeff	9
+14 Fred journeyed to the bedroom.
+15 Bill passed the football to Jeff.
+16 Who received the football? 	Jeff	15
+17 Mary moved to the hallway.
+18 Fred picked up the milk there.
+19 What did Bill give to Jeff? 	football	15

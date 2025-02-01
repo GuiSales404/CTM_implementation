@@ -1,0 +1,15 @@
+1 Mary is no longer in the bedroom.
+2 Sandra travelled to the hallway.
+3 Is Mary in the bedroom? 	no	1
+4 Mary went to the kitchen.
+5 Mary journeyed to the office.
+6 Is Mary in the office? 	yes	5
+7 John travelled to the bedroom.
+8 Sandra is in the office.
+9 Is Sandra in the office? 	yes	8
+10 Mary moved to the bathroom.
+11 John is not in the bedroom.
+12 Is Mary in the kitchen? 	no	10
+13 Sandra moved to the garden.
+14 Mary is in the kitchen.
+15 Is Mary in the bedroom? 	no	14

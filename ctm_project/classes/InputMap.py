@@ -8,16 +8,13 @@ import spacy
 from Processors import *
 
 class InputMap:
-    def __init__(self, content):
+    def __init__(self, content, process=True, test_content=False):
         """
         Inicializa o InputMap com o conteúdo fornecido.
         
         :param content: Texto a ser particionado.
         """
         self.nlp = spacy.load("pt_core_news_sm")
-        
-        self.content = content
-        self.partitioned = self.partition()
         
         # self.stanza_tree = syntatic_tree_stanza_processor()
         # self.spacy_tree = syntatic_tree_spacy_processor()
@@ -27,6 +24,14 @@ class InputMap:
         self.sentiment_anaysis = sentiment_analysis()
         # self.ner = ner()
         # self.summarization = summarization()
+        
+        if process == True:
+            self.content = content
+            self.partitioned = self.partition()
+        
+        if test_content == True:
+            self.partitioned = content
+            
         self.input_gist = []
         self.generate_input_content()
 

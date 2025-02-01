@@ -1,0 +1,15 @@
+1 Daniel went to the kitchen.
+2 Mary grabbed the football there.
+3 Is Daniel in the bedroom? 	no	1
+4 Mary took the milk there.
+5 John journeyed to the kitchen.
+6 Is John in the kitchen? 	yes	5
+7 Daniel journeyed to the garden.
+8 Mary discarded the football.
+9 Is Daniel in the garden? 	yes	7
+10 Daniel grabbed the football there.
+11 Daniel left the football there.
+12 Is John in the garden? 	no	5
+13 Mary took the football there.
+14 John went back to the hallway.
+15 Is John in the hallway? 	yes	14

@@ -1,0 +1,15 @@
+1 Daniel travelled to the hallway.
+2 Mary got the football there.
+3 Is Daniel in the office? 	no	1
+4 Mary dropped the football.
+5 Mary grabbed the football there.
+6 Is Daniel in the hallway? 	yes	1
+7 Sandra journeyed to the bedroom.
+8 Mary left the football there.
+9 Is Sandra in the bedroom? 	yes	7
+10 Sandra got the apple there.
+11 Sandra grabbed the milk there.
+12 Is Sandra in the bedroom? 	yes	7
+13 Mary travelled to the bathroom.
+14 Daniel travelled to the kitchen.
+15 Is Daniel in the bathroom? 	no	14

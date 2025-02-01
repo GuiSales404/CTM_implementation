@@ -1,0 +1,15 @@
+1 Sandra journeyed to the office.
+2 Sandra is no longer in the office.
+3 Is Sandra in the office? 	no	2
+4 Sandra moved to the garden.
+5 Sandra is not in the garden.
+6 Is Sandra in the garden? 	no	5
+7 Mary is in the office.
+8 Mary travelled to the hallway.
+9 Is Sandra in the garden? 	no	5
+10 Mary went to the garden.
+11 Mary is in the office.
+12 Is Mary in the garden? 	no	11
+13 Daniel is not in the hallway.
+14 Mary is no longer in the office.
+15 Is Daniel in the hallway? 	no	13

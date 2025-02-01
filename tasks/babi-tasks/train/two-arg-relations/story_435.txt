@@ -1,0 +1,3 @@
+1 The kitchen is north of the garden.
+2 The bathroom is north of the kitchen.
+3 What is north of the kitchen?	bathroom	2

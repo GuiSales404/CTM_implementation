@@ -1,0 +1,25 @@
+1 John went to the garden.
+2 Mary journeyed to the bedroom.
+3 Daniel journeyed to the bedroom.
+4 Mary journeyed to the bathroom.
+5 Daniel went back to the hallway.
+6 Daniel picked up the football there.
+7 Daniel journeyed to the bathroom.
+8 Daniel travelled to the kitchen.
+9 Where is the football? 	kitchen	6 8
+10 Daniel journeyed to the office.
+11 Daniel grabbed the milk there.
+12 Where is the football? 	office	6 10
+13 John moved to the hallway.
+14 Mary grabbed the apple there.
+15 Daniel discarded the milk.
+16 Daniel took the milk there.
+17 Mary discarded the apple.
+18 John went to the office.
+19 Where is the apple? 	bathroom	17 4
+20 Mary grabbed the apple there.
+21 Daniel left the football.
+22 Where is the football? 	office	21 10
+23 Mary went to the garden.
+24 Mary travelled to the office.
+25 Where is the apple? 	office	20 24

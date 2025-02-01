@@ -1,0 +1,15 @@
+1 Mary journeyed to the kitchen.
+2 Daniel picked up the football there.
+3 Is Mary in the kitchen? 	yes	1
+4 John picked up the apple there.
+5 John discarded the apple there.
+6 Is Mary in the kitchen? 	yes	1
+7 John picked up the apple there.
+8 Daniel journeyed to the kitchen.
+9 Is Daniel in the kitchen? 	yes	8
+10 Daniel put down the football.
+11 Mary moved to the garden.
+12 Is Mary in the garden? 	yes	11
+13 Sandra went back to the kitchen.
+14 Daniel moved to the office.
+15 Is Sandra in the kitchen? 	yes	13

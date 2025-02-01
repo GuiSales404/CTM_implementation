@@ -1,0 +1,3 @@
+1 The office is south of the hallway.
+2 The hallway is south of the bathroom.
+3 What is south of the hallway?	office	1

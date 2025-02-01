@@ -1,0 +1,17 @@
+1 Bill picked up the football there.
+2 Fred went back to the bathroom.
+3 Bill gave the football to Fred.
+4 Fred handed the football to Bill.
+5 Who gave the football to Bill? 	Fred	4
+6 Bill passed the football to Fred.
+7 Fred passed the football to Bill.
+8 What did Fred give to Bill? 	football	7
+9 Bill left the football there.
+10 Bill took the football there.
+11 Who received the football? 	Bill	7
+12 Bill gave the football to Fred.
+13 Fred passed the football to Bill.
+14 Who received the football? 	Bill	13
+15 Jeff went back to the garden.
+16 Bill handed the football to Fred.
+17 What did Bill give to Fred? 	football	16

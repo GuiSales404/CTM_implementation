@@ -17,7 +17,6 @@ def main():
 		caso = f.read()
 
 	ctm = CTM(2, str(caso))
-	print('\nCTM created')
 	ctm.run()
 
 if __name__ == "__main__":

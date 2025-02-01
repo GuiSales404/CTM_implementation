@@ -1,0 +1,23 @@
+1 John got the milk there.
+2 Sandra journeyed to the hallway.
+3 Daniel went back to the bedroom.
+4 John left the milk.
+5 Daniel got the apple there.
+6 Sandra picked up the milk there.
+7 Sandra went to the bathroom.
+8 John went to the bathroom.
+9 Where is the milk? 	bathroom	6 7
+10 Sandra journeyed to the bedroom.
+11 John travelled to the office.
+12 Where is the milk? 	bedroom	6 10
+13 Mary travelled to the kitchen.
+14 Sandra moved to the bathroom.
+15 Mary went back to the hallway.
+16 Sandra dropped the milk.
+17 Where is the milk? 	bathroom	16 14
+18 Sandra journeyed to the garden.
+19 John went to the garden.
+20 Where is the milk? 	bathroom	16 14
+21 Mary journeyed to the bedroom.
+22 John moved to the kitchen.
+23 Where is the milk? 	bathroom	16 14

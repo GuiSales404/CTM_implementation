@@ -1,0 +1,17 @@
+1 Mary moved to the garden.
+2 Daniel journeyed to the hallway.
+3 John picked up the football there.
+4 John journeyed to the garden.
+5 How many objects is John carrying? 	one	3
+6 John handed the football to Mary.
+7 Mary handed the football to John.
+8 How many objects is John carrying? 	one	3 6 7
+9 John moved to the hallway.
+10 John gave the football to Daniel.
+11 How many objects is John carrying? 	none	3 6 7 10
+12 Sandra went back to the kitchen.
+13 Daniel passed the football to John.
+14 How many objects is Mary carrying? 	none	6 7
+15 John passed the football to Daniel.
+16 Mary went back to the hallway.
+17 How many objects is Daniel carrying? 	one	10 13 15

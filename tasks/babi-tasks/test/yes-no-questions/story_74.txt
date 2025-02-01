@@ -1,0 +1,15 @@
+1 Mary went to the bedroom.
+2 Sandra grabbed the milk there.
+3 Is Mary in the bathroom? 	no	1
+4 Sandra journeyed to the bedroom.
+5 Sandra dropped the milk.
+6 Is Sandra in the hallway? 	no	4
+7 Daniel went back to the office.
+8 John went to the kitchen.
+9 Is Daniel in the office? 	yes	7
+10 Daniel journeyed to the kitchen.
+11 Mary went back to the bathroom.
+12 Is John in the hallway? 	no	8
+13 Sandra picked up the milk there.
+14 Sandra left the milk.
+15 Is Mary in the bedroom? 	no	11

@@ -1,0 +1,63 @@
+1 Daniel went back to the bedroom.
+2 John went to the bedroom.
+3 Daniel got the apple.
+4 Daniel went to the bathroom.
+5 Daniel journeyed to the kitchen.
+6 Daniel left the apple.
+7 Where was the apple before the kitchen? 	bathroom	6 5 4
+8 John moved to the bathroom.
+9 John went to the kitchen.
+10 Where was the apple before the kitchen? 	bathroom	6 5 4
+11 John picked up the apple.
+12 John travelled to the hallway.
+13 Sandra journeyed to the hallway.
+14 John discarded the apple.
+15 Sandra picked up the apple.
+16 Daniel went to the bedroom.
+17 Mary went back to the bedroom.
+18 Sandra discarded the apple there.
+19 Daniel moved to the kitchen.
+20 John got the apple.
+21 John moved to the bedroom.
+22 John put down the apple.
+23 Mary picked up the apple.
+24 Mary discarded the apple.
+25 Daniel moved to the hallway.
+26 Daniel went back to the office.
+27 Daniel got the football.
+28 Sandra went back to the bathroom.
+29 Daniel discarded the football.
+30 Daniel journeyed to the bedroom.
+31 Sandra journeyed to the bedroom.
+32 Mary took the apple.
+33 Daniel went to the office.
+34 Sandra went to the office.
+35 Mary left the apple there.
+36 Daniel picked up the milk there.
+37 Daniel journeyed to the kitchen.
+38 Mary got the apple.
+39 Sandra took the football.
+40 Mary discarded the apple.
+41 John took the apple.
+42 John discarded the apple.
+43 Daniel discarded the milk.
+44 Daniel took the milk.
+45 Mary moved to the office.
+46 Sandra discarded the football.
+47 Mary took the football.
+48 Daniel travelled to the hallway.
+49 Mary journeyed to the bathroom.
+50 Daniel left the milk.
+51 Daniel went back to the garden.
+52 John took the apple.
+53 Mary journeyed to the kitchen.
+54 John put down the apple.
+55 John travelled to the office.
+56 Mary put down the football.
+57 Where was the football before the kitchen? 	bathroom	56 53 49
+58 Mary went to the bathroom.
+59 Sandra travelled to the garden.
+60 Where was the football before the kitchen? 	bathroom	56 53 49
+61 Mary journeyed to the garden.
+62 Daniel journeyed to the office.
+63 Where was the football before the kitchen? 	bathroom	56 53 49

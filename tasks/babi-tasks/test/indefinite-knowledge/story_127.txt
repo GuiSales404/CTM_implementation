@@ -1,0 +1,15 @@
+1 Mary is in the park.
+2 Julie travelled to the kitchen.
+3 Is Mary in the office? 	no	1
+4 Julie is either in the bedroom or the bedroom.
+5 Bill travelled to the cinema.
+6 Is Julie in the park? 	no	4
+7 Julie journeyed to the park.
+8 Julie journeyed to the school.
+9 Is Julie in the school? 	yes	8
+10 Julie journeyed to the kitchen.
+11 Bill is in the school.
+12 Is Bill in the school? 	yes	11
+13 Bill is in the kitchen.
+14 Julie is in the office.
+15 Is Bill in the school? 	no	13

@@ -1,0 +1,15 @@
+1 Mary travelled to the kitchen.
+2 John grabbed the milk there.
+3 What is John carrying? 	milk	2
+4 John discarded the milk.
+5 John grabbed the football there.
+6 What is John carrying? 	football	2 4 5
+7 John went to the kitchen.
+8 John travelled to the garden.
+9 What is John carrying? 	football	2 4 5
+10 John left the football there.
+11 Daniel grabbed the football there.
+12 What is John carrying? 	nothing	2 4 5 10
+13 Sandra went to the bathroom.
+14 John travelled to the office.
+15 What is John carrying? 	nothing	2 4 5 10

@@ -1,0 +1,10 @@
+1 The pink rectangle is to the left of the red square.
+2 The red sphere is above the red square.
+3 Is the pink rectangle to the left of the red sphere?	yes	1 2
+4 Is the pink rectangle to the left of the red sphere?	yes	1 2
+5 Is the red sphere to the left of the pink rectangle?	no	2 1
+6 Is the pink rectangle to the left of the red sphere?	yes	1 2
+7 Is the pink rectangle to the right of the red sphere?	no	1 2
+8 Is the pink rectangle above the red sphere?	no	1 2
+9 Is the pink rectangle to the right of the red sphere?	no	1 2
+10 Is the red sphere above the pink rectangle?	yes	2 1

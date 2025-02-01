@@ -1,0 +1,17 @@
+1 Daniel journeyed to the bathroom.
+2 Daniel went back to the bedroom.
+3 Mary journeyed to the bedroom.
+4 Mary picked up the milk there.
+5 What is Mary carrying? 	milk	4
+6 Mary dropped the milk.
+7 Daniel grabbed the football there.
+8 What is Mary carrying? 	nothing	4 6
+9 Mary took the milk there.
+10 Mary left the milk.
+11 What is Daniel carrying? 	football	7
+12 Daniel discarded the football.
+13 Daniel picked up the football there.
+14 What is Daniel carrying? 	football	7 12 13
+15 Mary grabbed the milk there.
+16 Mary left the milk.
+17 What is Daniel carrying? 	football	7 12 13

@@ -1,0 +1,51 @@
+1 Daniel went to the bedroom.
+2 Sandra went back to the kitchen.
+3 John travelled to the bathroom.
+4 Mary got the milk.
+5 Mary moved to the bathroom.
+6 Mary went back to the garden.
+7 Where was the milk before the garden? 	bathroom	4 6 5
+8 Sandra moved to the bathroom.
+9 John went to the kitchen.
+10 Where was the milk before the garden? 	bathroom	4 6 5
+11 Mary put down the milk.
+12 Mary went back to the office.
+13 Where was the milk before the garden? 	bathroom	11 6 5
+14 Mary journeyed to the bathroom.
+15 John went back to the garden.
+16 Where was the milk before the garden? 	bathroom	11 6 5
+17 Mary travelled to the garden.
+18 Daniel travelled to the office.
+19 Daniel picked up the football.
+20 John got the milk there.
+21 Sandra travelled to the kitchen.
+22 John put down the milk.
+23 Mary got the milk there.
+24 Mary discarded the milk.
+25 Daniel dropped the football.
+26 Mary grabbed the milk.
+27 Sandra went back to the office.
+28 Daniel moved to the bedroom.
+29 Mary dropped the milk there.
+30 Mary took the milk there.
+31 Sandra grabbed the football.
+32 Sandra dropped the football.
+33 Daniel took the apple.
+34 John travelled to the bathroom.
+35 Mary travelled to the hallway.
+36 Mary put down the milk.
+37 Daniel left the apple.
+38 John went to the office.
+39 Sandra picked up the football.
+40 Daniel got the apple.
+41 Mary grabbed the milk.
+42 Mary left the milk there.
+43 Mary got the milk there.
+44 Mary journeyed to the bathroom.
+45 Sandra dropped the football.
+46 Daniel went back to the office.
+47 Daniel took the football.
+48 Mary went to the kitchen.
+49 John moved to the bedroom.
+50 Mary left the milk there.
+51 Where was the milk before the kitchen? 	bathroom	50 48 44

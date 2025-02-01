@@ -1,0 +1,17 @@
+1 Sandra went back to the office.
+2 John went to the bedroom.
+3 Sandra got the football there.
+4 John grabbed the milk there.
+5 How many objects is John carrying? 	one	4
+6 Sandra journeyed to the garden.
+7 Sandra went to the hallway.
+8 How many objects is John carrying? 	one	4
+9 Sandra handed the football to Daniel.
+10 Daniel passed the football to Sandra.
+11 How many objects is Daniel carrying? 	none	9 10
+12 Sandra passed the football to Daniel.
+13 Daniel gave the football to Sandra.
+14 How many objects is Sandra carrying? 	one	3 9 10 12 13
+15 Daniel went back to the office.
+16 Sandra moved to the kitchen.
+17 How many objects is Sandra carrying? 	one	3 9 10 12 13

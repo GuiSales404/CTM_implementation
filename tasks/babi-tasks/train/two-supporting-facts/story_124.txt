@@ -1,0 +1,25 @@
+1 Mary got the football there.
+2 Sandra grabbed the milk there.
+3 Mary left the football.
+4 John moved to the bedroom.
+5 Sandra journeyed to the garden.
+6 Mary grabbed the football there.
+7 Where is the milk? 	garden	2 5
+8 Sandra discarded the milk.
+9 Mary left the football.
+10 Where is the milk? 	garden	8 5
+11 Mary took the football there.
+12 Sandra went to the kitchen.
+13 Where is the milk? 	garden	8 5
+14 John travelled to the hallway.
+15 Mary left the football.
+16 Daniel picked up the apple there.
+17 Sandra moved to the hallway.
+18 Mary grabbed the football there.
+19 Sandra journeyed to the garden.
+20 Mary went to the office.
+21 Sandra grabbed the milk there.
+22 Where is the football? 	office	18 20
+23 Daniel discarded the apple there.
+24 Sandra moved to the hallway.
+25 Where is the milk? 	hallway	21 24

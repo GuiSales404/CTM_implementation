@@ -1,0 +1,15 @@
+1 Fred travelled to the park.
+2 Bill travelled to the bedroom.
+3 Is Fred in the office? 	no	1
+4 Julie is either in the office or the bedroom.
+5 Fred is either in the school or the cinema.
+6 Is Julie in the park? 	no	4
+7 Julie went back to the cinema.
+8 Julie is in the office.
+9 Is Fred in the cinema? 	maybe	5
+10 Bill moved to the park.
+11 Julie went to the bedroom.
+12 Is Julie in the park? 	no	11
+13 Fred journeyed to the park.
+14 Fred travelled to the school.
+15 Is Julie in the bedroom? 	yes	11

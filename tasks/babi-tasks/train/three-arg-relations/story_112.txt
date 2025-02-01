@@ -1,0 +1,23 @@
+1 Mary got the milk there.
+2 Fred took the apple there.
+3 Fred put down the apple.
+4 Fred went to the bathroom.
+5 Fred moved to the kitchen.
+6 Mary went back to the bedroom.
+7 Mary took the apple there.
+8 Bill went back to the office.
+9 Bill moved to the bedroom.
+10 Mary gave the apple to Bill.
+11 Who received the apple? 	Bill	10
+12 Bill gave the apple to Mary.
+13 Jeff journeyed to the bathroom.
+14 Who received the apple? 	Mary	12
+15 Mary gave the apple to Bill.
+16 Bill passed the apple to Mary.
+17 Who received the apple? 	Mary	16
+18 Mary handed the apple to Bill.
+19 Jeff went to the kitchen.
+20 What did Mary give to Bill? 	apple	18
+21 Bill handed the apple to Mary.
+22 Mary passed the apple to Bill.
+23 Who received the apple? 	Bill	22

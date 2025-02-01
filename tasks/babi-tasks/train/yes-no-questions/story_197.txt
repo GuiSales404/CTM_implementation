@@ -1,0 +1,15 @@
+1 Daniel journeyed to the office.
+2 Daniel picked up the football there.
+3 Is Daniel in the kitchen? 	no	1
+4 Daniel put down the football.
+5 Daniel travelled to the bathroom.
+6 Is Daniel in the garden? 	no	5
+7 John took the milk there.
+8 John went to the office.
+9 Is John in the hallway? 	no	8
+10 Daniel went to the kitchen.
+11 John discarded the milk.
+12 Is John in the garden? 	no	8
+13 Daniel journeyed to the bedroom.
+14 Mary went back to the bathroom.
+15 Is Daniel in the hallway? 	no	13

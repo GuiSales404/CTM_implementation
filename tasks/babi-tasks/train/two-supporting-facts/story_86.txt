@@ -1,0 +1,21 @@
+1 John journeyed to the bedroom.
+2 John got the apple there.
+3 Daniel went to the hallway.
+4 John went back to the garden.
+5 Where is the apple? 	garden	2 4
+6 John travelled to the bathroom.
+7 John dropped the apple there.
+8 Where is the apple? 	bathroom	7 6
+9 Sandra went back to the bathroom.
+10 Daniel went to the office.
+11 Where is the apple? 	bathroom	7 6
+12 Mary journeyed to the bathroom.
+13 John picked up the apple there.
+14 Daniel travelled to the hallway.
+15 Mary moved to the kitchen.
+16 John travelled to the hallway.
+17 John discarded the apple.
+18 Where is the apple? 	hallway	17 16
+19 John moved to the kitchen.
+20 John travelled to the office.
+21 Where is the apple? 	hallway	17 16

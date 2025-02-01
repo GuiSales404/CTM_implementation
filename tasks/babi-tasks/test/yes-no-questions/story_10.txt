@@ -1,0 +1,15 @@
+1 Daniel went back to the bathroom.
+2 Daniel journeyed to the office.
+3 Is Daniel in the office? 	yes	2
+4 Daniel journeyed to the hallway.
+5 Mary took the milk there.
+6 Is Daniel in the hallway? 	yes	4
+7 Mary went to the kitchen.
+8 Mary discarded the milk.
+9 Is Mary in the bathroom? 	no	7
+10 Mary picked up the football there.
+11 Mary took the milk there.
+12 Is Mary in the kitchen? 	yes	7
+13 Daniel went to the kitchen.
+14 John travelled to the kitchen.
+15 Is John in the kitchen? 	yes	14

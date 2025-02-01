@@ -1,0 +1,69 @@
+1 John went to the garden.
+2 Mary got the milk.
+3 Mary moved to the office.
+4 Daniel travelled to the bathroom.
+5 Mary dropped the milk.
+6 Mary picked up the milk there.
+7 Mary moved to the kitchen.
+8 Sandra moved to the bathroom.
+9 Mary travelled to the office.
+10 Mary dropped the milk.
+11 Where was the milk before the office? 	kitchen	10 9 7
+12 John travelled to the kitchen.
+13 John travelled to the garden.
+14 Where was the milk before the office? 	kitchen	10 9 7
+15 John travelled to the bedroom.
+16 John travelled to the kitchen.
+17 Where was the milk before the office? 	kitchen	10 9 7
+18 John grabbed the football.
+19 Mary got the milk.
+20 John took the apple.
+21 Sandra went to the garden.
+22 Mary moved to the garden.
+23 Mary left the milk.
+24 Mary picked up the milk.
+25 John travelled to the hallway.
+26 Mary left the milk.
+27 John put down the football.
+28 Mary picked up the milk.
+29 John grabbed the football.
+30 John dropped the apple.
+31 John left the football there.
+32 Mary left the milk there.
+33 John grabbed the apple.
+34 Sandra journeyed to the hallway.
+35 Sandra went back to the office.
+36 John went to the garden.
+37 Mary went back to the office.
+38 John left the apple.
+39 Mary moved to the kitchen.
+40 John took the milk.
+41 Mary moved to the garden.
+42 John went to the bathroom.
+43 John dropped the milk.
+44 Mary took the apple.
+45 Daniel went to the bedroom.
+46 John went back to the bedroom.
+47 Daniel moved to the kitchen.
+48 Sandra journeyed to the kitchen.
+49 Daniel moved to the bathroom.
+50 Mary put down the apple.
+51 Mary picked up the apple there.
+52 Mary went to the bathroom.
+53 John went to the office.
+54 Daniel got the milk.
+55 John travelled to the bedroom.
+56 Mary went back to the hallway.
+57 Daniel journeyed to the hallway.
+58 Daniel grabbed the football.
+59 Daniel dropped the football there.
+60 Daniel moved to the bathroom.
+61 Mary took the football.
+62 Mary put down the football.
+63 Sandra travelled to the bathroom.
+64 Mary put down the apple.
+65 Daniel travelled to the bedroom.
+66 Where was the apple before the hallway? 	bathroom	64 56 52
+67 Mary grabbed the football.
+68 Daniel put down the milk.
+69 Where was the milk before the bedroom? 	bathroom	68 65 60

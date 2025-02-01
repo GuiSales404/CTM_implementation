@@ -1,0 +1,27 @@
+1 Daniel moved to the hallway.
+2 Mary went back to the kitchen.
+3 John got the milk there.
+4 John put down the milk.
+5 John got the milk there.
+6 Mary went back to the garden.
+7 John went back to the bedroom.
+8 Mary picked up the football there.
+9 Where is the milk? 	bedroom	5 7
+10 John went to the office.
+11 John left the milk.
+12 Where is the milk? 	office	11 10
+13 Mary went to the bedroom.
+14 John went to the bedroom.
+15 Where is the milk? 	office	11 10
+16 John went to the bathroom.
+17 Mary moved to the bathroom.
+18 Where is the milk? 	office	11 10
+19 Mary went to the kitchen.
+20 Mary travelled to the office.
+21 Sandra moved to the kitchen.
+22 Daniel picked up the apple there.
+23 Sandra travelled to the garden.
+24 Mary travelled to the bedroom.
+25 Daniel went to the kitchen.
+26 Mary put down the football.
+27 Where is the apple? 	kitchen	22 25

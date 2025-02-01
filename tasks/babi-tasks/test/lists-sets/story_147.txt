@@ -1,0 +1,23 @@
+1 John travelled to the bathroom.
+2 Mary went to the office.
+3 Daniel journeyed to the bedroom.
+4 Sandra travelled to the bathroom.
+5 Daniel travelled to the kitchen.
+6 Daniel moved to the garden.
+7 Daniel moved to the kitchen.
+8 Sandra moved to the hallway.
+9 Sandra picked up the apple there.
+10 John travelled to the kitchen.
+11 What is Sandra carrying? 	apple	9
+12 Daniel moved to the bathroom.
+13 Mary picked up the milk there.
+14 What is Mary carrying? 	milk	13
+15 Mary dropped the milk.
+16 Mary got the football there.
+17 What is Mary carrying? 	football	13 15 16
+18 Sandra journeyed to the bedroom.
+19 Mary went back to the bathroom.
+20 What is Mary carrying? 	football	13 15 16
+21 Mary discarded the football.
+22 Sandra discarded the apple.
+23 What is Sandra carrying? 	nothing	9 22

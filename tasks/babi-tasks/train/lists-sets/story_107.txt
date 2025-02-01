@@ -1,0 +1,15 @@
+1 Mary got the apple there.
+2 Daniel got the milk there.
+3 What is Mary carrying? 	apple	1
+4 Daniel put down the milk.
+5 Mary discarded the apple.
+6 What is Daniel carrying? 	nothing	2 4
+7 Mary took the apple there.
+8 Daniel went back to the kitchen.
+9 What is Daniel carrying? 	nothing	2 4
+10 Mary dropped the apple.
+11 Daniel journeyed to the garden.
+12 What is Mary carrying? 	nothing	1 5 7 10
+13 John journeyed to the hallway.
+14 Mary got the apple there.
+15 What is Mary carrying? 	apple	1 5 7 10 14

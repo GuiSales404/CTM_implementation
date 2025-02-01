@@ -1,0 +1,10 @@
+1 The triangle is to the left of the red square.
+2 The triangle is below the blue square.
+3 Is the blue square below the red square?	no	2 1
+4 Is the blue square to the right of the red square?	no	2 1
+5 Is the red square below the blue square?	yes	1 2
+6 Is the blue square to the right of the red square?	no	2 1
+7 Is the red square below the blue square?	yes	1 2
+8 Is the red square to the right of the blue square?	yes	1 2
+9 Is the blue square to the right of the red square?	no	2 1
+10 Is the red square to the right of the blue square?	yes	1 2

@@ -1,0 +1,39 @@
+1 Fred moved to the bathroom.
+2 Fred travelled to the garden.
+3 Fred grabbed the milk there.
+4 Fred dropped the milk.
+5 Fred grabbed the milk there.
+6 Fred put down the milk.
+7 Fred got the milk there.
+8 Jeff journeyed to the bathroom.
+9 Mary moved to the office.
+10 Bill moved to the bathroom.
+11 Mary journeyed to the hallway.
+12 Mary went to the garden.
+13 Bill went to the hallway.
+14 Mary moved to the kitchen.
+15 Fred dropped the milk.
+16 Fred moved to the office.
+17 Fred journeyed to the bedroom.
+18 Mary travelled to the hallway.
+19 Mary went to the garden.
+20 Fred journeyed to the garden.
+21 Jeff journeyed to the garden.
+22 Mary travelled to the kitchen.
+23 Bill went to the garden.
+24 Fred took the milk there.
+25 Fred passed the milk to Bill.
+26 Bill handed the milk to Fred.
+27 What did Bill give to Fred? 	milk	26
+28 Fred discarded the milk there.
+29 Mary journeyed to the hallway.
+30 Who received the milk? 	Fred	26
+31 Fred got the milk there.
+32 Fred gave the milk to Bill.
+33 What did Fred give to Bill? 	milk	32
+34 Fred journeyed to the hallway.
+35 Bill went back to the kitchen.
+36 What did Fred give to Bill? 	milk	32
+37 Fred travelled to the garden.
+38 Bill dropped the milk.
+39 Who did Fred give the milk to? 	Bill	32

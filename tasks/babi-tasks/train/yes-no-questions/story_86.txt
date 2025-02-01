@@ -1,0 +1,15 @@
+1 Daniel went to the office.
+2 Mary took the apple there.
+3 Is Daniel in the office? 	yes	1
+4 Mary journeyed to the kitchen.
+5 John got the football there.
+6 Is Mary in the garden? 	no	4
+7 Mary put down the apple.
+8 Mary grabbed the apple there.
+9 Is Mary in the garden? 	no	4
+10 Mary dropped the apple.
+11 Mary went back to the office.
+12 Is Mary in the garden? 	no	11
+13 Daniel moved to the hallway.
+14 John went to the bathroom.
+15 Is Daniel in the hallway? 	yes	13

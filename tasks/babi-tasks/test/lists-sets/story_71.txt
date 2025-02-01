@@ -1,0 +1,15 @@
+1 Sandra got the apple there.
+2 John went back to the bedroom.
+3 What is Sandra carrying? 	apple	1
+4 Mary travelled to the bathroom.
+5 Sandra journeyed to the hallway.
+6 What is Sandra carrying? 	apple	1
+7 Sandra dropped the apple there.
+8 Daniel travelled to the hallway.
+9 What is Sandra carrying? 	nothing	1 7
+10 Daniel got the apple there.
+11 John travelled to the office.
+12 What is Daniel carrying? 	apple	10
+13 Daniel left the apple.
+14 Mary journeyed to the hallway.
+15 What is Daniel carrying? 	nothing	10 13

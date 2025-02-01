@@ -1,0 +1,19 @@
+1 Mary went back to the garden.
+2 Sandra went back to the hallway.
+3 Sandra journeyed to the garden.
+4 John moved to the kitchen.
+5 Sandra moved to the office.
+6 John picked up the apple there.
+7 What is John carrying? 	apple	6
+8 Daniel journeyed to the bathroom.
+9 John put down the apple.
+10 What is John carrying? 	nothing	6 9
+11 Mary went back to the hallway.
+12 John took the apple there.
+13 What is John carrying? 	apple	6 9 12
+14 John put down the apple.
+15 Sandra went back to the hallway.
+16 What is John carrying? 	nothing	6 9 12 14
+17 Sandra went back to the bedroom.
+18 John went back to the garden.
+19 What is John carrying? 	nothing	6 9 12 14

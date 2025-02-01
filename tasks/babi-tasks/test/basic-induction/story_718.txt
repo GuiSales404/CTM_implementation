@@ -1,0 +1,10 @@
+1 Bernhard is a lion.
+2 Bernhard is yellow.
+3 Brian is a lion.
+4 Lily is a frog.
+5 Brian is yellow.
+6 Greg is a rhino.
+7 Julius is a rhino.
+8 Lily is white.
+9 Greg is green.
+10 What color is Julius?	green	7 6 9

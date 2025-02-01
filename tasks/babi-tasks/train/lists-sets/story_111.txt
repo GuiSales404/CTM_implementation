@@ -1,0 +1,17 @@
+1 Sandra journeyed to the hallway.
+2 Sandra travelled to the kitchen.
+3 John took the apple there.
+4 Sandra grabbed the football there.
+5 What is John carrying? 	apple	3
+6 Daniel moved to the kitchen.
+7 John discarded the apple.
+8 What is John carrying? 	nothing	3 7
+9 John went back to the kitchen.
+10 John went back to the garden.
+11 What is Sandra carrying? 	football	4
+12 John got the milk there.
+13 Sandra journeyed to the hallway.
+14 What is John carrying? 	milk	3 7 12
+15 Sandra went to the garden.
+16 John dropped the milk.
+17 What is John carrying? 	nothing	3 7 12 16

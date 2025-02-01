@@ -1,0 +1,15 @@
+1 Julie is in the cinema.
+2 Fred is in the bedroom.
+3 Is Julie in the cinema? 	yes	1
+4 Julie is in the park.
+5 Mary is in the school.
+6 Is Mary in the cinema? 	no	5
+7 Mary is either in the school or the park.
+8 Mary is in the school.
+9 Is Mary in the school? 	yes	8
+10 Mary travelled to the bedroom.
+11 Fred is either in the cinema or the office.
+12 Is Mary in the school? 	no	10
+13 Bill is in the cinema.
+14 Bill is either in the school or the bedroom.
+15 Is Mary in the bedroom? 	yes	10

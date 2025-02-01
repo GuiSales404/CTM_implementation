@@ -1,0 +1,15 @@
+1 Mary went to the office.
+2 Daniel journeyed to the hallway.
+3 Is Daniel in the bedroom? 	no	2
+4 Mary went to the bedroom.
+5 Sandra went to the garden.
+6 Is Mary in the office? 	no	4
+7 Sandra took the football there.
+8 Mary journeyed to the bathroom.
+9 Is Mary in the office? 	no	8
+10 Mary went to the bedroom.
+11 John moved to the hallway.
+12 Is Sandra in the garden? 	yes	5
+13 Sandra put down the football there.
+14 Sandra picked up the football there.
+15 Is John in the office? 	no	11

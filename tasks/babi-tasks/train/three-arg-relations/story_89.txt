@@ -1,0 +1,21 @@
+1 Jeff journeyed to the garden.
+2 Mary went back to the bedroom.
+3 Jeff picked up the milk there.
+4 Mary journeyed to the office.
+5 Jeff moved to the hallway.
+6 Jeff journeyed to the office.
+7 Fred journeyed to the garden.
+8 Jeff gave the milk to Mary.
+9 Who did Jeff give the milk to? 	Mary	8
+10 Mary handed the milk to Bill.
+11 Jeff moved to the hallway.
+12 Who did Mary give the milk to? 	Bill	10
+13 Jeff grabbed the apple there.
+14 Jeff discarded the apple.
+15 Who gave the milk? 	Mary	10
+16 Bill passed the milk to Mary.
+17 Mary passed the milk to Bill.
+18 Who gave the milk? 	Mary	17
+19 Fred went to the bedroom.
+20 Bill handed the milk to Mary.
+21 What did Bill give to Mary? 	milk	20

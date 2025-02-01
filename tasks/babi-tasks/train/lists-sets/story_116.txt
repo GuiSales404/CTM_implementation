@@ -1,0 +1,15 @@
+1 Sandra travelled to the garden.
+2 Sandra took the apple there.
+3 What is Sandra carrying? 	apple	2
+4 Mary journeyed to the office.
+5 Sandra discarded the apple.
+6 What is Sandra carrying? 	nothing	2 5
+7 Sandra got the apple there.
+8 Mary went back to the garden.
+9 What is Sandra carrying? 	apple	2 5 7
+10 Sandra put down the apple.
+11 Sandra took the apple there.
+12 What is Sandra carrying? 	apple	2 5 7 10 11
+13 Sandra went back to the office.
+14 John journeyed to the bathroom.
+15 What is Sandra carrying? 	apple	2 5 7 10 11

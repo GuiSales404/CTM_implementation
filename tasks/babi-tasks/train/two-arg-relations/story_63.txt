@@ -1,0 +1,3 @@
+1 The office is north of the hallway.
+2 The hallway is north of the bathroom.
+3 What is the bathroom south of?	hallway	2

@@ -1,0 +1,15 @@
+1 Daniel took the milk there.
+2 Sandra journeyed to the bedroom.
+3 Is Sandra in the bedroom? 	yes	2
+4 Daniel discarded the milk.
+5 Mary went to the bathroom.
+6 Is Mary in the bathroom? 	yes	5
+7 Mary travelled to the office.
+8 Sandra journeyed to the office.
+9 Is Sandra in the office? 	yes	8
+10 Daniel journeyed to the bedroom.
+11 Mary took the milk there.
+12 Is Sandra in the kitchen? 	no	8
+13 Mary travelled to the hallway.
+14 Daniel moved to the bathroom.
+15 Is Sandra in the kitchen? 	no	8

@@ -1,0 +1,15 @@
+1 Bill is either in the school or the park.
+2 Julie is either in the bedroom or the bedroom.
+3 Is Julie in the cinema? 	no	2
+4 Julie went to the school.
+5 Mary travelled to the office.
+6 Is Mary in the cinema? 	no	5
+7 Julie is either in the cinema or the park.
+8 Mary travelled to the school.
+9 Is Mary in the school? 	yes	8
+10 Bill is in the office.
+11 Julie is either in the school or the school.
+12 Is Mary in the school? 	yes	8
+13 Bill travelled to the park.
+14 Bill is in the office.
+15 Is Bill in the office? 	yes	14

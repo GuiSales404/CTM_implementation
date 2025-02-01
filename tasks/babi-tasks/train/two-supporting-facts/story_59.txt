@@ -1,0 +1,17 @@
+1 Sandra grabbed the milk there.
+2 Sandra travelled to the bedroom.
+3 Where is the milk? 	bedroom	1 2
+4 John took the apple there.
+5 John went to the bedroom.
+6 Where is the apple? 	bedroom	4 5
+7 John journeyed to the garden.
+8 Mary moved to the bathroom.
+9 Where is the apple? 	garden	4 7
+10 Sandra left the milk.
+11 Sandra grabbed the milk there.
+12 Sandra travelled to the garden.
+13 Mary journeyed to the bedroom.
+14 Where is the milk? 	garden	11 12
+15 Daniel went back to the office.
+16 Sandra dropped the milk there.
+17 Where is the milk? 	garden	16 12

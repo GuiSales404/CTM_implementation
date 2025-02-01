@@ -1,0 +1,21 @@
+1 Mary travelled to the garden.
+2 Daniel journeyed to the bathroom.
+3 Daniel journeyed to the garden.
+4 John journeyed to the garden.
+5 Mary moved to the office.
+6 Sandra moved to the kitchen.
+7 Mary travelled to the garden.
+8 Sandra took the football there.
+9 How many objects is Sandra carrying? 	one	8
+10 Mary went to the bathroom.
+11 Sandra moved to the bathroom.
+12 How many objects is Sandra carrying? 	one	8
+13 Sandra moved to the garden.
+14 Sandra passed the football to John.
+15 How many objects is Sandra carrying? 	none	8 14
+16 John passed the football to Sandra.
+17 Sandra handed the football to John.
+18 How many objects is Sandra carrying? 	none	8 14 16 17
+19 Sandra travelled to the kitchen.
+20 John passed the football to Daniel.
+21 How many objects is Sandra carrying? 	none	8 14 16 17

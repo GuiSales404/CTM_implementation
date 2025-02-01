@@ -1,0 +1,15 @@
+1 John took the milk there.
+2 Daniel travelled to the garden.
+3 How many objects is John carrying? 	one	1
+4 John went to the office.
+5 John dropped the milk.
+6 How many objects is John carrying? 	none	1 5
+7 Mary grabbed the apple there.
+8 Mary put down the apple.
+9 How many objects is Mary carrying? 	none	7 8
+10 Mary went back to the hallway.
+11 Mary grabbed the football there.
+12 How many objects is Mary carrying? 	one	7 8 11
+13 John got the milk there.
+14 Mary put down the football.
+15 How many objects is Mary carrying? 	none	7 8 11 14

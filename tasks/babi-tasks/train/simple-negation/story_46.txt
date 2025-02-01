@@ -1,0 +1,15 @@
+1 Mary moved to the bedroom.
+2 John is in the garden.
+3 Is Mary in the hallway? 	no	1
+4 Daniel is in the office.
+5 John travelled to the bedroom.
+6 Is Mary in the garden? 	no	1
+7 Daniel is in the garden.
+8 Mary is no longer in the bedroom.
+9 Is John in the bedroom? 	yes	5
+10 Daniel went to the office.
+11 John is no longer in the bedroom.
+12 Is Daniel in the bedroom? 	no	10
+13 John is no longer in the kitchen.
+14 John is no longer in the office.
+15 Is John in the office? 	no	14

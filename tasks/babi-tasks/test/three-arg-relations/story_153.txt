@@ -1,0 +1,19 @@
+1 Jeff travelled to the kitchen.
+2 Fred got the apple there.
+3 Mary went to the kitchen.
+4 Jeff went to the bathroom.
+5 Fred passed the apple to Jeff.
+6 Jeff went back to the kitchen.
+7 What did Fred give to Jeff? 	apple	5
+8 Jeff handed the apple to Mary.
+9 Mary handed the apple to Jeff.
+10 Who did Mary give the apple to? 	Jeff	9
+11 Jeff handed the apple to Mary.
+12 Mary passed the apple to Jeff.
+13 Who gave the apple? 	Mary	12
+14 Jeff handed the apple to Mary.
+15 Mary handed the apple to Jeff.
+16 Who gave the apple? 	Mary	15
+17 Jeff passed the apple to Mary.
+18 Mary gave the apple to Jeff.
+19 Who did Mary give the apple to? 	Jeff	18

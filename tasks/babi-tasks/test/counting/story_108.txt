@@ -1,0 +1,17 @@
+1 John journeyed to the garden.
+2 Sandra went to the garden.
+3 Mary journeyed to the office.
+4 Sandra picked up the apple there.
+5 How many objects is Sandra carrying? 	one	4
+6 Sandra handed the apple to John.
+7 John left the apple.
+8 How many objects is Sandra carrying? 	none	4 6
+9 Sandra took the apple there.
+10 Sandra gave the apple to John.
+11 How many objects is Sandra carrying? 	none	4 6 9 10
+12 John journeyed to the bathroom.
+13 John dropped the apple there.
+14 How many objects is John carrying? 	none	6 7 10 13
+15 John got the apple there.
+16 John put down the apple.
+17 How many objects is John carrying? 	none	6 7 10 13 15 16

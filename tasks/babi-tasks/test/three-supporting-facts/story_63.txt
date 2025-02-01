@@ -1,0 +1,63 @@
+1 Daniel moved to the bedroom.
+2 Daniel journeyed to the kitchen.
+3 Daniel picked up the apple there.
+4 Daniel dropped the apple there.
+5 Daniel went to the office.
+6 Mary went back to the bedroom.
+7 Sandra travelled to the bathroom.
+8 Mary journeyed to the hallway.
+9 Mary moved to the garden.
+10 Sandra got the football.
+11 Sandra moved to the office.
+12 Sandra journeyed to the bathroom.
+13 Where was the football before the bathroom? 	office	10 12 11
+14 Daniel journeyed to the bathroom.
+15 Daniel travelled to the garden.
+16 Where was the football before the bathroom? 	office	10 12 11
+17 Sandra went to the garden.
+18 Sandra journeyed to the office.
+19 Mary travelled to the office.
+20 John went back to the bathroom.
+21 Sandra left the football.
+22 John journeyed to the bedroom.
+23 Where was the football before the garden? 	bathroom	21 17 12
+24 Sandra took the football.
+25 Sandra travelled to the bedroom.
+26 Sandra left the football.
+27 John took the football.
+28 John put down the football.
+29 Daniel went back to the bathroom.
+30 Sandra picked up the football.
+31 Sandra left the football.
+32 Sandra picked up the football.
+33 Sandra went back to the bathroom.
+34 Sandra dropped the football.
+35 Daniel picked up the football there.
+36 John went to the garden.
+37 Daniel put down the football.
+38 Sandra travelled to the garden.
+39 Daniel went to the kitchen.
+40 Daniel grabbed the apple.
+41 Daniel left the apple.
+42 John travelled to the bathroom.
+43 Daniel picked up the apple.
+44 Daniel dropped the apple.
+45 Mary moved to the garden.
+46 Daniel got the apple.
+47 John journeyed to the bedroom.
+48 Sandra journeyed to the bedroom.
+49 Daniel journeyed to the hallway.
+50 John went to the garden.
+51 John journeyed to the bathroom.
+52 John grabbed the football.
+53 Daniel dropped the apple.
+54 Sandra journeyed to the kitchen.
+55 John travelled to the hallway.
+56 Mary went back to the bathroom.
+57 John went to the bedroom.
+58 Sandra moved to the garden.
+59 John discarded the football there.
+60 Where was the football before the bedroom? 	hallway	59 57 55
+61 Daniel got the milk there.
+62 Daniel moved to the bathroom.
+63 Where was the football before the bedroom? 	hallway	59 57 55

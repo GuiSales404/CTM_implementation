@@ -1,0 +1,15 @@
+1 John is no longer in the office.
+2 John is no longer in the hallway.
+3 Is John in the hallway? 	no	2
+4 John is in the hallway.
+5 Mary is in the hallway.
+6 Is John in the hallway? 	yes	4
+7 John is no longer in the hallway.
+8 Sandra is in the bedroom.
+9 Is John in the hallway? 	no	7
+10 John travelled to the bathroom.
+11 Sandra is not in the bedroom.
+12 Is John in the bathroom? 	yes	10
+13 Mary is not in the hallway.
+14 Mary is not in the kitchen.
+15 Is Mary in the kitchen? 	no	14

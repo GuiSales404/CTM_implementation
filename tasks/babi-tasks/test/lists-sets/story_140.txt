@@ -1,0 +1,15 @@
+1 John moved to the office.
+2 John took the apple there.
+3 What is John carrying? 	apple	2
+4 Sandra moved to the office.
+5 Sandra moved to the kitchen.
+6 What is John carrying? 	apple	2
+7 Mary moved to the office.
+8 John picked up the football there.
+9 What is John carrying? 	apple,football	2 8
+10 John dropped the football.
+11 Daniel went back to the office.
+12 What is John carrying? 	apple	2 8 10
+13 Mary grabbed the football there.
+14 Mary discarded the football.
+15 What is Mary carrying? 	nothing	13 14

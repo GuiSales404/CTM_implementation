@@ -1,0 +1,17 @@
+1 Daniel got the football there.
+2 Mary got the milk there.
+3 Mary put down the milk there.
+4 Mary moved to the bathroom.
+5 Is Mary in the garden? 	no	4
+6 Daniel journeyed to the office.
+7 Mary went back to the office.
+8 Is Mary in the garden? 	no	7
+9 Daniel put down the football there.
+10 Sandra journeyed to the hallway.
+11 Is Sandra in the hallway? 	yes	10
+12 Mary went to the bedroom.
+13 Sandra journeyed to the kitchen.
+14 Is Mary in the bedroom? 	yes	12
+15 John travelled to the garden.
+16 Sandra took the apple there.
+17 Is Sandra in the office? 	no	13

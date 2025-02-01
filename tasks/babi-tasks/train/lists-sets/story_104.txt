@@ -1,0 +1,15 @@
+1 Mary moved to the bathroom.
+2 John grabbed the apple there.
+3 What is John carrying? 	apple	2
+4 John went to the office.
+5 Mary went back to the kitchen.
+6 What is John carrying? 	apple	2
+7 Daniel went back to the kitchen.
+8 Mary got the milk there.
+9 What is Mary carrying? 	milk	8
+10 John went back to the garden.
+11 John journeyed to the office.
+12 What is Mary carrying? 	milk	8
+13 Mary went back to the office.
+14 Mary left the milk.
+15 What is Mary carrying? 	nothing	8 14

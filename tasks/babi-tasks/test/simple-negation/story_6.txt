@@ -1,0 +1,15 @@
+1 John journeyed to the hallway.
+2 John is in the office.
+3 Is John in the hallway? 	no	2
+4 John is no longer in the office.
+5 Daniel journeyed to the kitchen.
+6 Is John in the office? 	no	4
+7 Sandra is not in the hallway.
+8 Daniel travelled to the bathroom.
+9 Is John in the office? 	no	4
+10 Daniel went to the bedroom.
+11 Sandra is no longer in the garden.
+12 Is Sandra in the garden? 	no	11
+13 Daniel is in the bathroom.
+14 John journeyed to the hallway.
+15 Is Daniel in the office? 	no	13

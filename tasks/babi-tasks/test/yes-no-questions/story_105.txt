@@ -1,0 +1,17 @@
+1 John picked up the apple there.
+2 Mary grabbed the football there.
+3 Daniel journeyed to the bathroom.
+4 Mary put down the football.
+5 Is Daniel in the kitchen? 	no	3
+6 John left the apple.
+7 Mary got the apple there.
+8 Is Daniel in the office? 	no	3
+9 Mary grabbed the football there.
+10 John moved to the kitchen.
+11 Is John in the garden? 	no	10
+12 Mary went back to the hallway.
+13 Sandra travelled to the garden.
+14 Is Sandra in the garden? 	yes	13
+15 Sandra grabbed the milk there.
+16 Daniel went to the bedroom.
+17 Is Mary in the garden? 	no	12

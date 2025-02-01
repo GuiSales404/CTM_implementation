@@ -1,0 +1,10 @@
+1 The box fits inside the suitcase.
+2 The suitcase is bigger than the chest.
+3 The suitcase is bigger than the box.
+4 The container fits inside the suitcase.
+5 The container is bigger than the box.
+6 Does the suitcase fit in the box?	no	5 4
+7 Is the box bigger than the suitcase?	no	5 4
+8 Does the suitcase fit in the box?	no	5 4
+9 Is the box bigger than the suitcase?	no	5 4
+10 Is the suitcase bigger than the box?	yes	4 5

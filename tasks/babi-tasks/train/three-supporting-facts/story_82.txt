@@ -1,0 +1,63 @@
+1 Mary grabbed the apple.
+2 Mary discarded the apple.
+3 Mary picked up the apple.
+4 Mary moved to the hallway.
+5 Mary left the apple there.
+6 Daniel moved to the office.
+7 Sandra went back to the bedroom.
+8 John travelled to the kitchen.
+9 Daniel went back to the hallway.
+10 Sandra picked up the football.
+11 Sandra travelled to the kitchen.
+12 Sandra put down the football there.
+13 Sandra picked up the football.
+14 Sandra left the football.
+15 Sandra got the football.
+16 Mary journeyed to the garden.
+17 Mary went back to the hallway.
+18 John travelled to the garden.
+19 John travelled to the kitchen.
+20 Sandra went to the hallway.
+21 Sandra travelled to the bedroom.
+22 Sandra dropped the football.
+23 Where was the football before the bedroom? 	hallway	22 21 20
+24 Mary grabbed the milk.
+25 Sandra travelled to the office.
+26 Where was the football before the bedroom? 	hallway	22 21 20
+27 John went to the garden.
+28 Sandra moved to the bathroom.
+29 Where was the football before the bedroom? 	hallway	22 21 20
+30 Mary dropped the milk there.
+31 Mary went to the bathroom.
+32 Mary moved to the kitchen.
+33 John went to the bathroom.
+34 Mary travelled to the hallway.
+35 Sandra went to the bedroom.
+36 Daniel grabbed the milk.
+37 Mary went back to the garden.
+38 Sandra grabbed the football there.
+39 Daniel went to the kitchen.
+40 Mary went back to the hallway.
+41 Daniel discarded the milk.
+42 Daniel travelled to the bedroom.
+43 Sandra went back to the bathroom.
+44 John went back to the hallway.
+45 Sandra dropped the football there.
+46 John took the apple there.
+47 Sandra moved to the hallway.
+48 Daniel went to the kitchen.
+49 Sandra moved to the kitchen.
+50 Sandra got the milk there.
+51 John journeyed to the office.
+52 Daniel journeyed to the bedroom.
+53 Mary moved to the kitchen.
+54 Mary travelled to the garden.
+55 John moved to the bathroom.
+56 John picked up the football.
+57 John put down the football.
+58 Sandra put down the milk.
+59 John put down the apple.
+60 Where was the apple before the bathroom? 	office	59 55 51
+61 John journeyed to the hallway.
+62 Daniel travelled to the hallway.
+63 Where was the apple before the bathroom? 	office	59 55 51

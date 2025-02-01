@@ -1,0 +1,29 @@
+1 Sandra moved to the hallway.
+2 John moved to the hallway.
+3 Mary went back to the office.
+4 Sandra journeyed to the kitchen.
+5 John went back to the garden.
+6 Mary went back to the bedroom.
+7 Mary went back to the garden.
+8 John went to the office.
+9 Sandra grabbed the apple there.
+10 Daniel went back to the bathroom.
+11 What is Sandra carrying? 	apple	9
+12 Sandra journeyed to the bathroom.
+13 Sandra journeyed to the kitchen.
+14 What is Sandra carrying? 	apple	9
+15 John went to the hallway.
+16 Mary went back to the hallway.
+17 John picked up the football there.
+18 Sandra journeyed to the office.
+19 What is John carrying? 	football	17
+20 John went back to the kitchen.
+21 Mary moved to the garden.
+22 What is John carrying? 	football	17
+23 John went back to the bedroom.
+24 Sandra went to the hallway.
+25 Sandra moved to the kitchen.
+26 Mary moved to the kitchen.
+27 Daniel travelled to the office.
+28 Sandra left the apple there.
+29 What is Sandra carrying? 	nothing	9 28

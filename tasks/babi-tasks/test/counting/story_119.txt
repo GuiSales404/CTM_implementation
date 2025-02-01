@@ -1,0 +1,15 @@
+1 Sandra moved to the garden.
+2 John grabbed the milk there.
+3 How many objects is John carrying? 	one	2
+4 Daniel grabbed the apple there.
+5 Mary moved to the garden.
+6 How many objects is John carrying? 	one	2
+7 Mary went back to the bathroom.
+8 Daniel dropped the apple.
+9 How many objects is Daniel carrying? 	none	4 8
+10 John gave the milk to Daniel.
+11 Daniel grabbed the apple there.
+12 How many objects is Daniel carrying? 	two	4 8 10 11
+13 Daniel gave the apple to John.
+14 John handed the apple to Daniel.
+15 How many objects is John carrying? 	none	2 10 13 14

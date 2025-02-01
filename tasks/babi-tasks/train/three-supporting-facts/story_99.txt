@@ -1,0 +1,67 @@
+1 John journeyed to the bathroom.
+2 John travelled to the hallway.
+3 Sandra grabbed the milk.
+4 Mary journeyed to the bedroom.
+5 Sandra journeyed to the garden.
+6 Sandra went back to the kitchen.
+7 Where was the milk before the kitchen? 	garden	3 6 5
+8 John went to the bedroom.
+9 Sandra put down the milk there.
+10 Where was the milk before the kitchen? 	garden	9 6 5
+11 Daniel moved to the bathroom.
+12 Daniel went back to the bedroom.
+13 Where was the milk before the kitchen? 	garden	9 6 5
+14 Daniel journeyed to the kitchen.
+15 Mary moved to the hallway.
+16 Where was the milk before the kitchen? 	garden	9 6 5
+17 Daniel travelled to the bathroom.
+18 Daniel journeyed to the hallway.
+19 Sandra went to the office.
+20 Sandra moved to the bathroom.
+21 Sandra went to the kitchen.
+22 Mary travelled to the bathroom.
+23 John moved to the kitchen.
+24 Mary went back to the kitchen.
+25 Sandra went to the office.
+26 Mary took the milk.
+27 Sandra took the apple.
+28 Mary discarded the milk.
+29 Sandra discarded the apple.
+30 John journeyed to the bathroom.
+31 Sandra took the apple.
+32 John journeyed to the office.
+33 Sandra dropped the apple.
+34 Daniel went to the bedroom.
+35 Sandra got the apple there.
+36 Sandra moved to the garden.
+37 Sandra dropped the apple.
+38 Daniel journeyed to the kitchen.
+39 Sandra went back to the office.
+40 Sandra went to the garden.
+41 John travelled to the kitchen.
+42 Daniel moved to the bedroom.
+43 Mary travelled to the hallway.
+44 Sandra went to the bathroom.
+45 John picked up the milk.
+46 John discarded the milk.
+47 John travelled to the garden.
+48 Sandra went back to the kitchen.
+49 Mary travelled to the bedroom.
+50 John went back to the bathroom.
+51 Mary journeyed to the hallway.
+52 John travelled to the hallway.
+53 Mary moved to the garden.
+54 Sandra took the milk.
+55 John went back to the bedroom.
+56 Sandra went to the bathroom.
+57 Mary went to the bedroom.
+58 Daniel travelled to the bathroom.
+59 John went back to the office.
+60 Sandra travelled to the kitchen.
+61 John moved to the hallway.
+62 John moved to the kitchen.
+63 Mary went back to the bathroom.
+64 John moved to the bathroom.
+65 John travelled to the kitchen.
+66 Sandra dropped the milk.
+67 Where was the milk before the kitchen? 	bathroom	66 60 56

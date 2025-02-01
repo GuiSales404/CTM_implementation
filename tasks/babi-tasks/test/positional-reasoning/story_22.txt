@@ -1,0 +1,10 @@
+1 The blue square is to the right of the pink rectangle.
+2 The blue square is below the yellow square.
+3 Is the pink rectangle below the yellow square?	yes	1 2
+4 Is the yellow square to the left of the pink rectangle?	no	2 1
+5 Is the yellow square below the pink rectangle?	no	2 1
+6 Is the pink rectangle to the right of the yellow square?	no	1 2
+7 Is the pink rectangle below the yellow square?	yes	1 2
+8 Is the pink rectangle to the left of the yellow square?	yes	1 2
+9 Is the pink rectangle above the yellow square?	no	1 2
+10 Is the yellow square above the pink rectangle?	yes	2 1

@@ -1,0 +1,15 @@
+1 Mary picked up the apple there.
+2 Sandra went to the kitchen.
+3 How many objects is Mary carrying? 	one	1
+4 Daniel grabbed the football there.
+5 Sandra journeyed to the garden.
+6 How many objects is Mary carrying? 	one	1
+7 Mary left the apple.
+8 Sandra went to the kitchen.
+9 How many objects is Daniel carrying? 	one	4
+10 Daniel discarded the football.
+11 John went to the garden.
+12 How many objects is Daniel carrying? 	none	4 10
+13 Mary went to the garden.
+14 Daniel went to the kitchen.
+15 How many objects is Daniel carrying? 	none	4 10

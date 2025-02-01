@@ -1,0 +1,19 @@
+1 Jeff picked up the milk there.
+2 Jeff gave the milk to Mary.
+3 Who received the milk? 	Mary	2
+4 Mary passed the milk to Bill.
+5 Mary went to the office.
+6 Who received the milk? 	Bill	4
+7 Bill passed the milk to Jeff.
+8 Fred moved to the kitchen.
+9 Who received the milk? 	Jeff	7
+10 Jeff discarded the milk.
+11 Fred took the milk there.
+12 Who gave the milk to Jeff? 	Bill	7
+13 Jeff moved to the bedroom.
+14 Fred went to the bedroom.
+15 Mary travelled to the bathroom.
+16 Bill travelled to the office.
+17 Fred gave the milk to Jeff.
+18 Jeff gave the milk to Fred.
+19 Who gave the milk to Fred? 	Jeff	18

@@ -1,0 +1,21 @@
+1 Daniel travelled to the hallway.
+2 Daniel went back to the garden.
+3 John travelled to the bedroom.
+4 Sandra journeyed to the bedroom.
+5 Daniel went back to the hallway.
+6 Sandra travelled to the kitchen.
+7 John took the apple there.
+8 Sandra went back to the garden.
+9 What is John carrying? 	apple	7
+10 John put down the apple.
+11 Daniel journeyed to the bathroom.
+12 What is John carrying? 	nothing	7 10
+13 Daniel grabbed the football there.
+14 Daniel moved to the office.
+15 What is John carrying? 	nothing	7 10
+16 John journeyed to the bathroom.
+17 Daniel put down the football.
+18 What is Daniel carrying? 	nothing	13 17
+19 Sandra moved to the bathroom.
+20 Daniel went back to the hallway.
+21 What is Daniel carrying? 	nothing	13 17

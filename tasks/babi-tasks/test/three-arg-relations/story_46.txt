@@ -1,0 +1,15 @@
+1 Jeff grabbed the football there.
+2 Jeff handed the football to Fred.
+3 What did Jeff give to Fred? 	football	2
+4 Fred passed the football to Jeff.
+5 Jeff handed the football to Fred.
+6 Who gave the football to Fred? 	Jeff	5
+7 Fred handed the football to Jeff.
+8 Jeff gave the football to Fred.
+9 What did Jeff give to Fred? 	football	8
+10 Fred dropped the football.
+11 Jeff picked up the football there.
+12 What did Jeff give to Fred? 	football	8
+13 Jeff gave the football to Fred.
+14 Jeff went to the office.
+15 What did Jeff give to Fred? 	football	13

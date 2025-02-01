@@ -1,0 +1,10 @@
+1 The yellow square is below the pink rectangle.
+2 The red sphere is below the yellow square.
+3 Is the red sphere below the pink rectangle?	yes	2 1
+4 Is the pink rectangle below the red sphere?	no	1 2
+5 Is the red sphere above the pink rectangle?	no	2 1
+6 Is the pink rectangle below the red sphere?	no	1 2
+7 Is the pink rectangle above the red sphere?	yes	1 2
+8 Is the pink rectangle above the red sphere?	yes	1 2
+9 Is the pink rectangle below the red sphere?	no	1 2
+10 Is the pink rectangle above the red sphere?	yes	1 2

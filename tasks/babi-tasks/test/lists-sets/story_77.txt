@@ -1,0 +1,63 @@
+1 Daniel journeyed to the office.
+2 John moved to the office.
+3 Sandra travelled to the hallway.
+4 Daniel went to the garden.
+5 John moved to the bedroom.
+6 Mary went back to the garden.
+7 John went back to the bathroom.
+8 Daniel went back to the kitchen.
+9 Mary journeyed to the office.
+10 John went to the hallway.
+11 Daniel journeyed to the hallway.
+12 John journeyed to the bedroom.
+13 John moved to the hallway.
+14 Sandra moved to the office.
+15 Mary travelled to the bedroom.
+16 John journeyed to the garden.
+17 Sandra travelled to the bedroom.
+18 Mary went back to the hallway.
+19 Mary journeyed to the bedroom.
+20 John went to the kitchen.
+21 John journeyed to the bedroom.
+22 Sandra moved to the kitchen.
+23 Mary moved to the office.
+24 Mary travelled to the hallway.
+25 Mary journeyed to the kitchen.
+26 Daniel journeyed to the bedroom.
+27 Mary went back to the bathroom.
+28 Mary went to the bedroom.
+29 Mary went back to the hallway.
+30 Daniel travelled to the kitchen.
+31 Mary travelled to the office.
+32 John moved to the bathroom.
+33 John went back to the garden.
+34 Sandra went to the bathroom.
+35 Sandra journeyed to the office.
+36 John went to the bedroom.
+37 Mary journeyed to the garden.
+38 Mary went to the office.
+39 John moved to the office.
+40 John travelled to the kitchen.
+41 Sandra travelled to the kitchen.
+42 John journeyed to the bathroom.
+43 John took the milk there.
+44 John put down the milk there.
+45 What is John carrying? 	nothing	43 44
+46 Mary travelled to the kitchen.
+47 Mary went back to the bedroom.
+48 What is John carrying? 	nothing	43 44
+49 Sandra moved to the hallway.
+50 Mary moved to the garden.
+51 What is John carrying? 	nothing	43 44
+52 Daniel went back to the bathroom.
+53 John moved to the hallway.
+54 Mary journeyed to the kitchen.
+55 Mary moved to the garden.
+56 Sandra travelled to the office.
+57 Daniel went to the office.
+58 Sandra went back to the bathroom.
+59 Sandra grabbed the apple there.
+60 What is Sandra carrying? 	apple	59
+61 Sandra dropped the apple.
+62 Sandra travelled to the bedroom.
+63 What is Sandra carrying? 	nothing	59 61

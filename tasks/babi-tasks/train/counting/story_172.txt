@@ -1,0 +1,17 @@
+1 Mary journeyed to the office.
+2 Mary moved to the hallway.
+3 Daniel picked up the milk there.
+4 Daniel discarded the milk.
+5 How many objects is Daniel carrying? 	none	3 4
+6 Mary picked up the football there.
+7 Mary went to the bathroom.
+8 How many objects is Daniel carrying? 	none	3 4
+9 Mary left the football there.
+10 Mary went to the bedroom.
+11 How many objects is Mary carrying? 	none	6 9
+12 Sandra moved to the garden.
+13 Sandra travelled to the hallway.
+14 How many objects is Mary carrying? 	none	6 9
+15 John went back to the kitchen.
+16 Daniel picked up the apple there.
+17 How many objects is Daniel carrying? 	one	3 4 16

@@ -1,0 +1,15 @@
+1 Mary went to the park.
+2 Mary moved to the office.
+3 Is Mary in the office? 	yes	2
+4 Bill moved to the office.
+5 Fred is in the park.
+6 Is Mary in the park? 	no	2
+7 Bill is in the park.
+8 Fred is in the office.
+9 Is Fred in the office? 	yes	8
+10 Julie is in the park.
+11 Mary is in the school.
+12 Is Bill in the park? 	yes	7
+13 Julie is either in the school or the kitchen.
+14 Bill moved to the kitchen.
+15 Is Bill in the kitchen? 	yes	14

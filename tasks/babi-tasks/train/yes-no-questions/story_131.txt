@@ -1,0 +1,17 @@
+1 Mary took the football there.
+2 Mary discarded the football.
+3 Daniel travelled to the office.
+4 John moved to the garden.
+5 Is Daniel in the office? 	yes	3
+6 Daniel travelled to the hallway.
+7 Mary took the football there.
+8 Is Daniel in the hallway? 	yes	6
+9 Daniel moved to the bathroom.
+10 Daniel took the apple there.
+11 Is John in the bathroom? 	no	4
+12 Daniel went to the bedroom.
+13 Sandra moved to the bathroom.
+14 Is Sandra in the bathroom? 	yes	13
+15 Mary put down the football.
+16 Mary journeyed to the garden.
+17 Is Mary in the garden? 	yes	16

@@ -1,0 +1,17 @@
+1 Daniel went to the office.
+2 Mary took the apple there.
+3 Mary went back to the garden.
+4 Mary left the apple.
+5 Where is the apple? 	garden	4 3
+6 Sandra moved to the bathroom.
+7 John journeyed to the hallway.
+8 Where is the apple? 	garden	4 3
+9 Mary grabbed the milk there.
+10 Sandra went back to the garden.
+11 Where is the apple? 	garden	4 3
+12 Mary picked up the apple there.
+13 Mary discarded the apple.
+14 Where is the apple? 	garden	13 3
+15 Mary journeyed to the bathroom.
+16 Sandra went to the office.
+17 Where is the apple? 	garden	13 3

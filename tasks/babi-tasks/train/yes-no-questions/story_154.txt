@@ -1,0 +1,17 @@
+1 Sandra picked up the milk there.
+2 Mary journeyed to the kitchen.
+3 Is Mary in the kitchen? 	yes	2
+4 Sandra took the football there.
+5 John went to the office.
+6 Is Mary in the hallway? 	no	2
+7 Sandra dropped the football there.
+8 Sandra put down the milk there.
+9 Is Mary in the garden? 	no	2
+10 Sandra got the milk there.
+11 Sandra put down the milk.
+12 Is John in the office? 	yes	5
+13 Sandra got the milk there.
+14 Sandra left the milk.
+15 Sandra went back to the hallway.
+16 Sandra went to the kitchen.
+17 Is Sandra in the bedroom? 	no	16

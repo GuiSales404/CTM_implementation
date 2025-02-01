@@ -1,0 +1,21 @@
+1 John moved to the bedroom.
+2 Daniel went back to the bedroom.
+3 Mary travelled to the office.
+4 John went to the office.
+5 Mary travelled to the bedroom.
+6 Sandra travelled to the hallway.
+7 Sandra journeyed to the bedroom.
+8 John grabbed the football there.
+9 What is John carrying? 	football	8
+10 Mary travelled to the kitchen.
+11 Mary travelled to the hallway.
+12 What is John carrying? 	football	8
+13 John left the football.
+14 Sandra travelled to the office.
+15 What is John carrying? 	nothing	8 13
+16 Mary took the apple there.
+17 John journeyed to the garden.
+18 What is John carrying? 	nothing	8 13
+19 John travelled to the kitchen.
+20 Mary went back to the office.
+21 What is Mary carrying? 	apple	16

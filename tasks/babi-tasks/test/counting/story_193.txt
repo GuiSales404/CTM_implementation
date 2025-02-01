@@ -1,0 +1,17 @@
+1 John travelled to the bedroom.
+2 Sandra picked up the milk there.
+3 How many objects is Sandra carrying? 	one	2
+4 Sandra dropped the milk.
+5 John grabbed the apple there.
+6 How many objects is John carrying? 	one	5
+7 John journeyed to the hallway.
+8 John journeyed to the kitchen.
+9 How many objects is John carrying? 	one	5
+10 Daniel went back to the bedroom.
+11 John travelled to the hallway.
+12 How many objects is John carrying? 	one	5
+13 John went to the kitchen.
+14 John journeyed to the hallway.
+15 Sandra got the milk there.
+16 Sandra dropped the milk.
+17 How many objects is Sandra carrying? 	none	2 4 15 16

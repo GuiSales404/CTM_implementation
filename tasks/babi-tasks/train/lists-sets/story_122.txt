@@ -1,0 +1,21 @@
+1 John went back to the bathroom.
+2 John moved to the hallway.
+3 Mary went back to the bedroom.
+4 John went back to the bathroom.
+5 John went to the garden.
+6 Sandra went to the office.
+7 Sandra went back to the kitchen.
+8 Mary got the apple there.
+9 What is Mary carrying? 	apple	8
+10 Sandra took the milk there.
+11 John moved to the bathroom.
+12 What is Sandra carrying? 	milk	10
+13 John went to the kitchen.
+14 Mary discarded the apple.
+15 What is Mary carrying? 	nothing	8 14
+16 John journeyed to the hallway.
+17 Mary picked up the apple there.
+18 What is Mary carrying? 	apple	8 14 17
+19 Mary put down the apple.
+20 Mary took the apple there.
+21 What is Mary carrying? 	apple	8 14 17 19 20

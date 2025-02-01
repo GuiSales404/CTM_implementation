@@ -1,0 +1,19 @@
+1 Daniel went back to the garden.
+2 Daniel journeyed to the kitchen.
+3 Mary journeyed to the office.
+4 John went to the bedroom.
+5 John picked up the football there.
+6 Sandra journeyed to the office.
+7 How many objects is John carrying? 	one	5
+8 Mary went to the hallway.
+9 John took the milk there.
+10 How many objects is John carrying? 	two	5 9
+11 Daniel travelled to the hallway.
+12 John journeyed to the kitchen.
+13 How many objects is John carrying? 	two	5 9
+14 John dropped the football.
+15 Daniel travelled to the garden.
+16 How many objects is John carrying? 	one	5 9 14
+17 Daniel took the apple there.
+18 Daniel put down the apple.
+19 How many objects is John carrying? 	one	5 9 14

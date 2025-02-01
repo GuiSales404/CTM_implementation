@@ -1,0 +1,15 @@
+1 Sandra got the milk there.
+2 John went to the bathroom.
+3 How many objects is Sandra carrying? 	one	1
+4 Sandra discarded the milk.
+5 Sandra got the milk there.
+6 How many objects is Sandra carrying? 	one	1 4 5
+7 John took the apple there.
+8 Sandra put down the milk.
+9 How many objects is Sandra carrying? 	none	1 4 5 8
+10 Sandra grabbed the football there.
+11 John handed the apple to Daniel.
+12 How many objects is John carrying? 	none	7 11
+13 Sandra went back to the office.
+14 Daniel gave the apple to John.
+15 How many objects is Sandra carrying? 	one	1 4 5 8 10

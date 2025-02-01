@@ -1,0 +1,15 @@
+1 Mary went to the bathroom.
+2 Sandra went back to the office.
+3 Is Mary in the bathroom? 	yes	1
+4 Mary is not in the bathroom.
+5 Daniel went to the bathroom.
+6 Is Mary in the bathroom? 	no	4
+7 Mary is not in the hallway.
+8 Sandra is not in the office.
+9 Is Mary in the hallway? 	no	7
+10 Daniel is no longer in the bathroom.
+11 Mary is in the garden.
+12 Is Daniel in the bathroom? 	no	10
+13 John is in the kitchen.
+14 Daniel travelled to the hallway.
+15 Is Daniel in the hallway? 	yes	14

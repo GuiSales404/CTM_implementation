@@ -1,0 +1,15 @@
+1 Daniel moved to the garden.
+2 John is not in the kitchen.
+3 Is John in the kitchen? 	no	2
+4 John is no longer in the garden.
+5 Sandra is in the hallway.
+6 Is John in the garden? 	no	4
+7 Sandra went to the bathroom.
+8 John is no longer in the bedroom.
+9 Is Sandra in the bathroom? 	yes	7
+10 Daniel went to the hallway.
+11 John moved to the kitchen.
+12 Is John in the kitchen? 	yes	11
+13 John journeyed to the bathroom.
+14 John is in the bedroom.
+15 Is John in the kitchen? 	no	14

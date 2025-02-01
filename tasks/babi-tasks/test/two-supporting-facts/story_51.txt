@@ -1,0 +1,15 @@
+1 Daniel grabbed the apple there.
+2 Daniel went back to the bathroom.
+3 Where is the apple? 	bathroom	1 2
+4 John journeyed to the garden.
+5 Daniel went back to the hallway.
+6 Where is the apple? 	hallway	1 5
+7 Mary moved to the bedroom.
+8 Daniel left the apple.
+9 Where is the apple? 	hallway	8 5
+10 Sandra took the football there.
+11 Sandra discarded the football there.
+12 Where is the apple? 	hallway	8 5
+13 Sandra took the football there.
+14 John travelled to the kitchen.
+15 Where is the apple? 	hallway	8 5

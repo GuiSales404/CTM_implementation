@@ -1,0 +1,23 @@
+1 Mary moved to the garden.
+2 Sandra went to the kitchen.
+3 John moved to the hallway.
+4 Mary moved to the bedroom.
+5 Mary journeyed to the office.
+6 Mary went to the bedroom.
+7 John went to the garden.
+8 John journeyed to the office.
+9 John picked up the football there.
+10 Mary took the apple there.
+11 How many objects is John carrying? 	one	9
+12 John picked up the milk there.
+13 Mary moved to the office.
+14 How many objects is John carrying? 	two	9 12
+15 Mary moved to the hallway.
+16 John moved to the kitchen.
+17 How many objects is John carrying? 	two	9 12
+18 John passed the football to Sandra.
+19 John moved to the bedroom.
+20 How many objects is John carrying? 	one	9 12 18
+21 Sandra dropped the football.
+22 Sandra journeyed to the hallway.
+23 How many objects is Sandra carrying? 	none	18 21

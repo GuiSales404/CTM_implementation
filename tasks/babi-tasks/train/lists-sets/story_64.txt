@@ -1,0 +1,15 @@
+1 Sandra got the milk there.
+2 Sandra went back to the garden.
+3 What is Sandra carrying? 	milk	1
+4 Sandra put down the milk.
+5 Sandra went to the bedroom.
+6 What is Sandra carrying? 	nothing	1 4
+7 John grabbed the football there.
+8 John dropped the football.
+9 What is John carrying? 	nothing	7 8
+10 John moved to the kitchen.
+11 Mary went back to the kitchen.
+12 What is John carrying? 	nothing	7 8
+13 John travelled to the bedroom.
+14 Mary journeyed to the garden.
+15 What is John carrying? 	nothing	7 8

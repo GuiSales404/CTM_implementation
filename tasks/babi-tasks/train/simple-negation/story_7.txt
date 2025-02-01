@@ -1,0 +1,15 @@
+1 Sandra travelled to the garden.
+2 Sandra is no longer in the garden.
+3 Is Sandra in the garden? 	no	2
+4 Sandra is in the garden.
+5 Sandra journeyed to the hallway.
+6 Is Sandra in the hallway? 	yes	5
+7 John is no longer in the garden.
+8 John journeyed to the garden.
+9 Is John in the hallway? 	no	8
+10 John is in the kitchen.
+11 John is not in the kitchen.
+12 Is John in the kitchen? 	no	11
+13 John journeyed to the kitchen.
+14 Mary is no longer in the hallway.
+15 Is John in the kitchen? 	yes	13

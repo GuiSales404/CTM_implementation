@@ -1,0 +1,10 @@
+1 The yellow square is below the red square.
+2 The triangle is above the red square.
+3 Is the triangle to the right of the yellow square?	no	2 1
+4 Is the yellow square below the triangle?	yes	1 2
+5 Is the triangle above the yellow square?	yes	2 1
+6 Is the triangle above the yellow square?	yes	2 1
+7 Is the triangle above the yellow square?	yes	2 1
+8 Is the triangle to the left of the yellow square?	no	2 1
+9 Is the triangle to the left of the yellow square?	no	2 1
+10 Is the yellow square below the triangle?	yes	1 2

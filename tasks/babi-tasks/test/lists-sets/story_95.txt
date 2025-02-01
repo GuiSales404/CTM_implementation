@@ -1,0 +1,15 @@
+1 Daniel got the football there.
+2 Sandra travelled to the hallway.
+3 What is Daniel carrying? 	football	1
+4 Mary journeyed to the garden.
+5 Mary picked up the milk there.
+6 What is Daniel carrying? 	football	1
+7 Mary went to the bedroom.
+8 Mary journeyed to the hallway.
+9 What is Mary carrying? 	milk	5
+10 Daniel moved to the bathroom.
+11 Daniel moved to the garden.
+12 What is Mary carrying? 	milk	5
+13 Daniel left the football.
+14 Daniel went back to the kitchen.
+15 What is Daniel carrying? 	nothing	1 13

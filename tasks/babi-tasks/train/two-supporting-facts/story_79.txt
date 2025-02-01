@@ -1,0 +1,21 @@
+1 Mary got the milk there.
+2 John went back to the office.
+3 John travelled to the bedroom.
+4 Mary put down the milk.
+5 John travelled to the office.
+6 Mary grabbed the milk there.
+7 John went back to the kitchen.
+8 Mary went to the garden.
+9 Where is the milk? 	garden	6 8
+10 John picked up the football there.
+11 Mary left the milk there.
+12 Where is the milk? 	garden	11 8
+13 John discarded the football.
+14 Mary grabbed the milk there.
+15 Where is the football? 	kitchen	13 7
+16 Mary put down the milk.
+17 Mary took the milk there.
+18 Where is the football? 	kitchen	13 7
+19 John got the football there.
+20 Mary dropped the milk.
+21 Where is the milk? 	garden	20 8

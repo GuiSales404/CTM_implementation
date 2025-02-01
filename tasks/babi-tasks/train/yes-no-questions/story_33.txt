@@ -1,0 +1,15 @@
+1 John got the football there.
+2 Sandra went to the kitchen.
+3 Is Sandra in the kitchen? 	yes	2
+4 John went to the bathroom.
+5 John went back to the garden.
+6 Is John in the office? 	no	5
+7 John moved to the bathroom.
+8 John went back to the garden.
+9 Is John in the garden? 	yes	8
+10 John dropped the football there.
+11 John took the football there.
+12 Is John in the garden? 	yes	8
+13 John discarded the football.
+14 John journeyed to the bedroom.
+15 Is John in the bathroom? 	no	14

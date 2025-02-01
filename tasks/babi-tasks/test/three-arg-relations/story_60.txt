@@ -1,0 +1,31 @@
+1 Mary journeyed to the hallway.
+2 Mary travelled to the bathroom.
+3 Jeff journeyed to the office.
+4 Bill moved to the bathroom.
+5 Mary journeyed to the hallway.
+6 Mary went back to the garden.
+7 Bill travelled to the garden.
+8 Bill journeyed to the hallway.
+9 Bill went back to the kitchen.
+10 Jeff got the milk there.
+11 Mary journeyed to the bedroom.
+12 Jeff travelled to the hallway.
+13 Bill moved to the hallway.
+14 Jeff journeyed to the bedroom.
+15 Bill journeyed to the bathroom.
+16 Jeff dropped the milk.
+17 Mary got the milk there.
+18 Mary passed the milk to Jeff.
+19 What did Mary give to Jeff? 	milk	18
+20 Jeff dropped the milk.
+21 Jeff took the milk there.
+22 Who gave the milk? 	Mary	18
+23 Jeff passed the milk to Mary.
+24 Mary handed the milk to Jeff.
+25 What did Mary give to Jeff? 	milk	24
+26 Bill went back to the bedroom.
+27 Mary moved to the office.
+28 What did Mary give to Jeff? 	milk	24
+29 Jeff gave the milk to Bill.
+30 Bill passed the milk to Jeff.
+31 Who gave the milk to Jeff? 	Bill	30

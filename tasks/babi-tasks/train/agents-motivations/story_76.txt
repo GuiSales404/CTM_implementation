@@ -1,0 +1,20 @@
+1 Sumit is tired.
+2 Where will sumit go?	bedroom	1
+3 Jason is tired.
+4 Where will jason go?	bedroom	3
+5 Yann is hungry.
+6 Where will yann go?	kitchen	5
+7 Antoine is tired.
+8 Where will antoine go?	bedroom	7
+9 Jason went back to the bedroom.
+10 Why did jason go to the bedroom?	tired	3
+11 Jason picked up the pajamas there.
+12 Why did jason get the pajamas?	tired	3
+13 Yann journeyed to the kitchen.
+14 Why did yann go to the kitchen?	hungry	5
+15 Antoine moved to the bedroom.
+16 Why did antoine go to the bedroom?	tired	7
+17 Sumit went back to the bedroom.
+18 Why did sumit go to the bedroom?	tired	1
+19 Yann got the apple there.
+20 Why did yann get the apple?	hungry	5

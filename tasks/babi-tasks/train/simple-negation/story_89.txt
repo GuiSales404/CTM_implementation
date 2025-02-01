@@ -1,0 +1,15 @@
+1 Mary is in the garden.
+2 Mary is in the bathroom.
+3 Is Mary in the bathroom? 	yes	2
+4 John travelled to the hallway.
+5 Sandra is no longer in the office.
+6 Is Mary in the bedroom? 	no	2
+7 Mary moved to the kitchen.
+8 Mary journeyed to the hallway.
+9 Is John in the hallway? 	yes	4
+10 John went back to the bathroom.
+11 Mary is no longer in the hallway.
+12 Is Mary in the hallway? 	no	11
+13 John travelled to the bedroom.
+14 Mary is no longer in the bathroom.
+15 Is John in the bathroom? 	no	13

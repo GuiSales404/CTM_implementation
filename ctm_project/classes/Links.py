@@ -31,10 +31,10 @@ class Link:
         if processor1 == None or processor2 == None:
             return
         else:
-            print(f"Strengthening link between {processor1} and {processor2}")
+            # print(f"Strengthening link between {processor1} and {processor2}")
             i = self.name_reference[processor1]
             j = self.name_reference[processor2]
-            print(f"i: {i}, j: {j}")
+            # print(f"i: {i}, j: {j}")
             if i > j:
                 i, j = j, i
             if self.links_matrix[i][j] == np.inf:
@@ -57,17 +57,17 @@ class Link:
             file_name (str): Name of the file where the upper diagonal will be saved. Default: 'output_report.txt'.
         """
 
-        print()
-        print("Diagonal Superior da Matriz de Links:")
-        print("-" * 40)
+        # print()
+        # print("Diagonal Superior da Matriz de Links:")
+        # print("-" * 40)
         for i in range(self.size):
             for j in range(self.size):
                 if i <= j:
                     value = self.links_matrix[i][j]
                     formatted_value = "INF" if value == np.inf else f"{value:.2f}"
-                    print(f"[{i}, {j}] = {formatted_value}", end="\t")
-            print()
-        print("-" * 40)
+        #             print(f"[{i}, {j}] = {formatted_value}", end="\t")
+        #     print()
+        # print("-" * 40)
 
         with open(file_name, "a", encoding="utf-8") as file:
             file.write("\nDiagonal Superior da Matriz de Links:\n")

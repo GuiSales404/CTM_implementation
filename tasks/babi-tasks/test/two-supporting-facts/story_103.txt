@@ -1,0 +1,25 @@
+1 John went to the kitchen.
+2 Mary journeyed to the kitchen.
+3 John journeyed to the bedroom.
+4 Mary journeyed to the hallway.
+5 Mary moved to the office.
+6 Mary moved to the hallway.
+7 John picked up the football there.
+8 John went to the office.
+9 Where is the football? 	office	7 8
+10 Sandra journeyed to the bedroom.
+11 John got the milk there.
+12 Where is the football? 	office	7 8
+13 Sandra went back to the hallway.
+14 Sandra journeyed to the garden.
+15 Mary moved to the bedroom.
+16 Mary travelled to the bathroom.
+17 Sandra went to the kitchen.
+18 John put down the football.
+19 Where is the football? 	office	18 8
+20 Mary travelled to the garden.
+21 John put down the milk there.
+22 Where is the milk? 	office	21 8
+23 John moved to the garden.
+24 Sandra went to the bedroom.
+25 Where is the football? 	office	18 8

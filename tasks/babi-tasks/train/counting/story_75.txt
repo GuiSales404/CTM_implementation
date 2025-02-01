@@ -1,0 +1,19 @@
+1 John journeyed to the bedroom.
+2 Sandra moved to the garden.
+3 John went back to the kitchen.
+4 Daniel picked up the football there.
+5 How many objects is Daniel carrying? 	one	4
+6 Daniel passed the football to Sandra.
+7 Sandra handed the football to Daniel.
+8 How many objects is Daniel carrying? 	one	4 6 7
+9 Daniel moved to the bedroom.
+10 Mary moved to the bedroom.
+11 How many objects is Sandra carrying? 	none	6 7
+12 Mary journeyed to the kitchen.
+13 Mary moved to the bathroom.
+14 How many objects is Sandra carrying? 	none	6 7
+15 John went to the bedroom.
+16 Mary travelled to the hallway.
+17 Sandra moved to the bedroom.
+18 Daniel gave the football to John.
+19 How many objects is Daniel carrying? 	none	4 6 7 18

@@ -1,0 +1,15 @@
+1 John went back to the kitchen.
+2 Mary went back to the hallway.
+3 Is John in the kitchen? 	yes	1
+4 Mary moved to the office.
+5 Daniel went to the kitchen.
+6 Is Mary in the office? 	yes	4
+7 John grabbed the apple there.
+8 Daniel went back to the garden.
+9 Is Mary in the office? 	yes	4
+10 Mary went back to the hallway.
+11 Daniel took the milk there.
+12 Is Mary in the hallway? 	yes	10
+13 Mary travelled to the bedroom.
+14 Daniel moved to the bedroom.
+15 Is Daniel in the bedroom? 	yes	14

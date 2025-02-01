@@ -1,0 +1,15 @@
+1 Mary journeyed to the office.
+2 Mary journeyed to the bedroom.
+3 Where is Mary? 	bedroom	2
+4 Sandra went to the garden.
+5 Sandra moved to the kitchen.
+6 Where is Sandra? 	kitchen	5
+7 Sandra went to the bathroom.
+8 Daniel moved to the office.
+9 Where is Sandra? 	bathroom	7
+10 John went back to the office.
+11 John went to the garden.
+12 Where is Sandra? 	bathroom	7
+13 John went to the bedroom.
+14 Mary moved to the garden.
+15 Where is John? 	bedroom	13

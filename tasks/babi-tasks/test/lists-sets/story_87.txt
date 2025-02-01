@@ -1,0 +1,15 @@
+1 Daniel went back to the garden.
+2 Daniel grabbed the apple there.
+3 What is Daniel carrying? 	apple	2
+4 Daniel dropped the apple.
+5 Daniel took the apple there.
+6 What is Daniel carrying? 	apple	2 4 5
+7 Mary journeyed to the office.
+8 John went to the garden.
+9 What is Daniel carrying? 	apple	2 4 5
+10 Mary journeyed to the hallway.
+11 John journeyed to the kitchen.
+12 What is Daniel carrying? 	apple	2 4 5
+13 Daniel dropped the apple.
+14 Sandra took the apple there.
+15 What is Daniel carrying? 	nothing	2 4 5 13

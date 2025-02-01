@@ -55,6 +55,7 @@ class STM:
             elif result == "1":
                 if len(self.im.input_gist) <= 0:
                     self.om.output(self.actual_chunk)
+                    print('\nSaída Final:', self.actual_chunk.gist)
                     self.om.generate_report()
                     self.lc.print_upper_diagonal()
                     return

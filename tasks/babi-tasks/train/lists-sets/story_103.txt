@@ -1,0 +1,17 @@
+1 John went to the kitchen.
+2 Daniel moved to the kitchen.
+3 Mary got the milk there.
+4 Sandra journeyed to the kitchen.
+5 What is Mary carrying? 	milk	3
+6 Sandra travelled to the office.
+7 John went back to the garden.
+8 What is Mary carrying? 	milk	3
+9 Mary left the milk.
+10 John moved to the bedroom.
+11 What is Mary carrying? 	nothing	3 9
+12 Mary picked up the milk there.
+13 Daniel travelled to the hallway.
+14 What is Mary carrying? 	milk	3 9 12
+15 Mary discarded the milk there.
+16 Mary picked up the milk there.
+17 What is Mary carrying? 	milk	3 9 12 15 16

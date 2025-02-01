@@ -1,0 +1,17 @@
+1 Mary journeyed to the bedroom.
+2 Sandra grabbed the apple there.
+3 What is Sandra carrying? 	apple	2
+4 John went to the kitchen.
+5 Sandra picked up the milk there.
+6 What is Sandra carrying? 	apple,milk	2 5
+7 Daniel moved to the kitchen.
+8 Mary journeyed to the garden.
+9 What is Sandra carrying? 	apple,milk	2 5
+10 Sandra moved to the kitchen.
+11 Sandra went back to the garden.
+12 What is Sandra carrying? 	apple,milk	2 5
+13 Sandra moved to the bedroom.
+14 Daniel went to the bedroom.
+15 Sandra put down the apple.
+16 Sandra travelled to the garden.
+17 What is Sandra carrying? 	milk	2 15 5

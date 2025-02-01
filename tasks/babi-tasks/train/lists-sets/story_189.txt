@@ -1,0 +1,17 @@
+1 Daniel went back to the kitchen.
+2 Mary went back to the kitchen.
+3 Sandra picked up the apple there.
+4 Daniel journeyed to the bathroom.
+5 What is Sandra carrying? 	apple	3
+6 Daniel journeyed to the garden.
+7 John moved to the bedroom.
+8 What is Sandra carrying? 	apple	3
+9 Sandra discarded the apple.
+10 Mary moved to the office.
+11 What is Sandra carrying? 	nothing	3 9
+12 John grabbed the apple there.
+13 Sandra went to the office.
+14 What is John carrying? 	apple	12
+15 Daniel journeyed to the bathroom.
+16 Mary journeyed to the kitchen.
+17 What is John carrying? 	apple	12

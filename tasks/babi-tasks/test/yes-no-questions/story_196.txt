@@ -1,0 +1,15 @@
+1 John went to the garden.
+2 John went back to the kitchen.
+3 Is John in the kitchen? 	yes	2
+4 Daniel went to the office.
+5 Sandra travelled to the bathroom.
+6 Is John in the kitchen? 	yes	2
+7 Daniel picked up the apple there.
+8 Daniel put down the apple.
+9 Is Daniel in the office? 	yes	4
+10 John moved to the hallway.
+11 Sandra moved to the office.
+12 Is John in the hallway? 	yes	10
+13 Sandra moved to the kitchen.
+14 John moved to the office.
+15 Is John in the bathroom? 	no	14

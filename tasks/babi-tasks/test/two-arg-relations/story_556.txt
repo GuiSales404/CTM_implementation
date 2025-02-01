@@ -1,0 +1,3 @@
+1 The bathroom is east of the garden.
+2 The garden is east of the hallway.
+3 What is east of the garden?	bathroom	1

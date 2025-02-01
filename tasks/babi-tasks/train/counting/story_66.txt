@@ -1,0 +1,17 @@
+1 Daniel moved to the hallway.
+2 Sandra moved to the bathroom.
+3 Daniel went back to the garden.
+4 Daniel took the football there.
+5 How many objects is Daniel carrying? 	one	4
+6 Daniel dropped the football.
+7 Daniel grabbed the football there.
+8 How many objects is Daniel carrying? 	one	4 6 7
+9 Sandra got the milk there.
+10 Daniel discarded the football.
+11 How many objects is Daniel carrying? 	none	4 6 7 10
+12 Sandra moved to the bedroom.
+13 Daniel got the football there.
+14 How many objects is Daniel carrying? 	one	4 6 7 10 13
+15 Sandra gave the milk to John.
+16 John passed the milk to Mary.
+17 How many objects is Sandra carrying? 	none	9 15

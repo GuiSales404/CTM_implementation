@@ -1,0 +1,15 @@
+1 Sandra moved to the garden.
+2 John took the milk there.
+3 What is John carrying? 	milk	2
+4 John went to the bedroom.
+5 Mary travelled to the garden.
+6 What is John carrying? 	milk	2
+7 Daniel travelled to the kitchen.
+8 Daniel went back to the garden.
+9 What is John carrying? 	milk	2
+10 John discarded the milk.
+11 Daniel went to the bedroom.
+12 What is John carrying? 	nothing	2 10
+13 John journeyed to the kitchen.
+14 Sandra journeyed to the kitchen.
+15 What is John carrying? 	nothing	2 10

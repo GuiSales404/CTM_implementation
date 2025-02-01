@@ -1,0 +1,15 @@
+1 Mary got the apple there.
+2 John moved to the office.
+3 Is John in the office? 	yes	2
+4 Mary travelled to the garden.
+5 Mary discarded the apple.
+6 Is John in the office? 	yes	2
+7 Mary took the apple there.
+8 Mary travelled to the bedroom.
+9 Is Mary in the bathroom? 	no	8
+10 Mary travelled to the hallway.
+11 John grabbed the football there.
+12 Is Mary in the hallway? 	yes	10
+13 John put down the football there.
+14 Mary left the apple.
+15 Is Mary in the hallway? 	yes	10

@@ -1,0 +1,15 @@
+1 John went back to the bedroom.
+2 Daniel grabbed the milk there.
+3 Is John in the bathroom? 	no	1
+4 John journeyed to the bathroom.
+5 Mary went to the garden.
+6 Is John in the bathroom? 	yes	4
+7 Daniel dropped the milk.
+8 Sandra went to the bathroom.
+9 Is Sandra in the bathroom? 	yes	8
+10 Daniel got the milk there.
+11 Daniel went to the office.
+12 Is Mary in the garden? 	yes	5
+13 Mary went to the kitchen.
+14 John took the football there.
+15 Is Daniel in the office? 	yes	11

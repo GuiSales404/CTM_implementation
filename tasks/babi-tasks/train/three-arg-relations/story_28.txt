@@ -1,0 +1,65 @@
+1 Fred went to the garden.
+2 Fred moved to the kitchen.
+3 Bill went back to the kitchen.
+4 Bill moved to the office.
+5 Mary went back to the kitchen.
+6 Fred travelled to the hallway.
+7 Bill moved to the bedroom.
+8 Jeff moved to the bathroom.
+9 Bill moved to the hallway.
+10 Jeff moved to the office.
+11 Fred travelled to the garden.
+12 Fred picked up the apple there.
+13 Bill went to the kitchen.
+14 Bill went to the office.
+15 Fred journeyed to the bedroom.
+16 Fred put down the apple.
+17 Fred went back to the office.
+18 Bill went back to the garden.
+19 Bill went to the office.
+20 Jeff went to the bathroom.
+21 Fred moved to the hallway.
+22 Fred travelled to the kitchen.
+23 Mary went back to the garden.
+24 Mary moved to the bathroom.
+25 Fred went back to the office.
+26 Mary went to the office.
+27 Fred went back to the bedroom.
+28 Mary travelled to the garden.
+29 Mary moved to the office.
+30 Fred picked up the football there.
+31 Fred picked up the milk there.
+32 Mary went to the kitchen.
+33 Mary moved to the bathroom.
+34 Bill went to the bathroom.
+35 Fred took the apple there.
+36 Mary went to the kitchen.
+37 Fred put down the apple.
+38 Bill travelled to the kitchen.
+39 Fred moved to the office.
+40 Fred dropped the milk.
+41 Mary went to the office.
+42 Jeff went to the garden.
+43 Fred left the football.
+44 Mary picked up the football there.
+45 Mary left the football.
+46 Fred travelled to the bedroom.
+47 Fred grabbed the apple there.
+48 Bill went back to the bedroom.
+49 Jeff went to the bedroom.
+50 Mary moved to the kitchen.
+51 Fred gave the apple to Bill.
+52 Bill gave the apple to Fred.
+53 Who gave the apple? 	Bill	52
+54 Fred passed the apple to Bill.
+55 Bill gave the apple to Fred.
+56 What did Bill give to Fred? 	apple	55
+57 Fred passed the apple to Bill.
+58 Bill gave the apple to Fred.
+59 What did Bill give to Fred? 	apple	58
+60 Bill moved to the garden.
+61 Fred journeyed to the hallway.
+62 Who did Bill give the apple to? 	Fred	58
+63 Bill went to the bathroom.
+64 Jeff moved to the garden.
+65 What did Bill give to Fred? 	apple	58

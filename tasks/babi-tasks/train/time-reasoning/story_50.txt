@@ -1,0 +1,17 @@
+1 This morning Mary went to the school.
+2 This afternoon Mary went back to the bedroom.
+3 Bill moved to the cinema yesterday.
+4 Yesterday Mary moved to the kitchen.
+5 Where was Mary before the school? 	kitchen	1 4
+6 Fred journeyed to the school this morning.
+7 Fred went to the bedroom yesterday.
+8 Where was Mary before the school? 	kitchen	1 4
+9 Fred journeyed to the office this afternoon.
+10 Mary went back to the school this evening.
+11 Where was Fred before the office? 	school	9 6
+12 This morning Bill journeyed to the office.
+13 This evening Fred journeyed to the park.
+14 Where was Fred before the office? 	school	9 6
+15 Julie moved to the cinema this morning.
+16 Julie travelled to the kitchen yesterday.
+17 Where was Bill before the office? 	cinema	12 3

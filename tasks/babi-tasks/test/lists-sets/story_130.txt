@@ -1,0 +1,15 @@
+1 Sandra journeyed to the bathroom.
+2 Mary grabbed the milk there.
+3 What is Mary carrying? 	milk	2
+4 Mary journeyed to the garden.
+5 Mary dropped the milk.
+6 What is Mary carrying? 	nothing	2 5
+7 Sandra journeyed to the office.
+8 Sandra travelled to the kitchen.
+9 What is Mary carrying? 	nothing	2 5
+10 John moved to the garden.
+11 Sandra journeyed to the garden.
+12 What is Mary carrying? 	nothing	2 5
+13 Mary got the football there.
+14 John took the apple there.
+15 What is Mary carrying? 	football	2 5 13

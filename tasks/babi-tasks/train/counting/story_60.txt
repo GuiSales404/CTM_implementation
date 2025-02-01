@@ -1,0 +1,15 @@
+1 John grabbed the apple there.
+2 Mary moved to the hallway.
+3 How many objects is John carrying? 	one	1
+4 John grabbed the milk there.
+5 John went to the bedroom.
+6 How many objects is John carrying? 	two	1 4
+7 John left the apple.
+8 Mary went back to the garden.
+9 How many objects is John carrying? 	one	1 4 7
+10 Mary moved to the bedroom.
+11 Mary got the apple there.
+12 How many objects is John carrying? 	one	1 4 7
+13 Mary went to the kitchen.
+14 John left the milk there.
+15 How many objects is John carrying? 	none	1 4 7 14

@@ -1,0 +1,15 @@
+1 Mary picked up the apple there.
+2 Mary moved to the kitchen.
+3 Is Mary in the kitchen? 	yes	2
+4 Sandra went to the office.
+5 Mary travelled to the garden.
+6 Is Mary in the garden? 	yes	5
+7 Mary travelled to the hallway.
+8 Mary discarded the apple.
+9 Is Mary in the hallway? 	yes	7
+10 Mary took the apple there.
+11 Mary left the apple.
+12 Is Mary in the hallway? 	yes	7
+13 Mary travelled to the kitchen.
+14 Mary travelled to the hallway.
+15 Is Mary in the bathroom? 	no	14

@@ -1,0 +1,20 @@
+1 Jason is thirsty.
+2 Where will jason go?	kitchen	1
+3 Jason travelled to the kitchen.
+4 Why did jason go to the kitchen?	thirsty	1
+5 Yann is thirsty.
+6 Where will yann go?	kitchen	5
+7 Yann moved to the kitchen.
+8 Why did yann go to the kitchen?	thirsty	5
+9 Antoine is tired.
+10 Where will antoine go?	bedroom	9
+11 Jason took the milk there.
+12 Why did jason get the milk?	thirsty	1
+13 Antoine moved to the bedroom.
+14 Why did antoine go to the bedroom?	tired	9
+15 Antoine took the pajamas there.
+16 Why did antoine get the pajamas?	tired	9
+17 Sumit is tired.
+18 Where will sumit go?	bedroom	17
+19 Sumit travelled to the bedroom.
+20 Why did sumit go to the bedroom?	tired	17

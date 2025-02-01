@@ -1,0 +1,10 @@
+1 The yellow square is above the triangle.
+2 The triangle is to the left of the red sphere.
+3 Is the red sphere below the yellow square?	yes	2 1
+4 Is the red sphere to the right of the yellow square?	yes	2 1
+5 Is the red sphere to the right of the yellow square?	yes	2 1
+6 Is the red sphere below the yellow square?	yes	2 1
+7 Is the yellow square to the left of the red sphere?	yes	1 2
+8 Is the red sphere below the yellow square?	yes	2 1
+9 Is the red sphere above the yellow square?	no	2 1
+10 Is the red sphere below the yellow square?	yes	2 1

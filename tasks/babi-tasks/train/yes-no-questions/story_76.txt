@@ -1,0 +1,15 @@
+1 Sandra went to the office.
+2 Daniel picked up the milk there.
+3 Is Sandra in the office? 	yes	1
+4 John travelled to the bedroom.
+5 Daniel put down the milk.
+6 Is John in the kitchen? 	no	4
+7 John picked up the milk there.
+8 Mary went back to the kitchen.
+9 Is John in the bedroom? 	yes	4
+10 John got the football there.
+11 John left the football.
+12 Is Mary in the kitchen? 	yes	8
+13 Mary moved to the bedroom.
+14 John picked up the apple there.
+15 Is Mary in the bedroom? 	yes	13

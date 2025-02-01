@@ -1,0 +1,15 @@
+1 Mary and Daniel went back to the office.
+2 Then they went to the garden.
+3 Where is Mary? 	garden	1 2
+4 Mary and John went back to the bedroom.
+5 Afterwards they went back to the hallway.
+6 Where is John? 	hallway	4 5
+7 Daniel and John went to the office.
+8 Following that they travelled to the hallway.
+9 Where is John? 	hallway	7 8
+10 Daniel and John went to the garden.
+11 After that they travelled to the office.
+12 Where is John? 	office	10 11
+13 John and Daniel journeyed to the kitchen.
+14 Then they went back to the garden.
+15 Where is John? 	garden	13 14

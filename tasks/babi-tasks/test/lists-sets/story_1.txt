@@ -1,0 +1,19 @@
+1 Mary got the milk there.
+2 John moved to the bedroom.
+3 What is Mary carrying? 	milk	1
+4 John picked up the football there.
+5 John journeyed to the bathroom.
+6 What is John carrying? 	football	4
+7 John went to the garden.
+8 Daniel went back to the hallway.
+9 What is John carrying? 	football	4
+10 John went back to the bathroom.
+11 Mary went to the office.
+12 Sandra went back to the kitchen.
+13 Mary travelled to the hallway.
+14 John travelled to the bedroom.
+15 John picked up the apple there.
+16 What is John carrying? 	football,apple	4 15
+17 Sandra travelled to the bedroom.
+18 Sandra journeyed to the kitchen.
+19 What is John carrying? 	football,apple	4 15

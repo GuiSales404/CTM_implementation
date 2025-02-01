@@ -1,0 +1,15 @@
+1 John travelled to the garden.
+2 Sandra travelled to the garden.
+3 Is John in the bedroom? 	no	1
+4 Mary moved to the bedroom.
+5 Mary travelled to the kitchen.
+6 Is John in the garden? 	yes	1
+7 John went to the office.
+8 John grabbed the milk there.
+9 Is Sandra in the bedroom? 	no	2
+10 Daniel journeyed to the hallway.
+11 Sandra got the football there.
+12 Is Daniel in the kitchen? 	no	10
+13 Sandra journeyed to the bedroom.
+14 Sandra put down the football.
+15 Is Daniel in the hallway? 	yes	10

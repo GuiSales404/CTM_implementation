@@ -1,0 +1,10 @@
+1 The pink rectangle is to the left of the red square.
+2 The red square is to the left of the blue square.
+3 Is the pink rectangle to the left of the blue square?	yes	1 2
+4 Is the blue square to the left of the pink rectangle?	no	2 1
+5 Is the blue square to the right of the pink rectangle?	yes	2 1
+6 Is the blue square to the right of the pink rectangle?	yes	2 1
+7 Is the pink rectangle above the blue square?	no	1 2
+8 Is the blue square above the pink rectangle?	no	2 1
+9 Is the blue square to the right of the pink rectangle?	yes	2 1
+10 Is the pink rectangle to the left of the blue square?	yes	1 2

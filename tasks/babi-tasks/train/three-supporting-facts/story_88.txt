@@ -1,0 +1,63 @@
+1 Daniel travelled to the bathroom.
+2 Daniel travelled to the garden.
+3 Mary journeyed to the garden.
+4 Daniel journeyed to the bedroom.
+5 Mary went back to the bathroom.
+6 John went to the bedroom.
+7 Daniel travelled to the garden.
+8 John went back to the garden.
+9 Sandra picked up the milk.
+10 John travelled to the office.
+11 Sandra journeyed to the hallway.
+12 Daniel picked up the apple.
+13 John went to the kitchen.
+14 Mary went back to the bedroom.
+15 Mary travelled to the bathroom.
+16 Daniel put down the apple there.
+17 John went back to the garden.
+18 Sandra took the football.
+19 John went back to the bathroom.
+20 Daniel picked up the apple.
+21 Sandra went to the office.
+22 John moved to the garden.
+23 Daniel travelled to the hallway.
+24 Sandra went to the kitchen.
+25 Mary went back to the kitchen.
+26 Daniel travelled to the garden.
+27 Sandra went back to the bathroom.
+28 Sandra journeyed to the office.
+29 Daniel put down the apple.
+30 Sandra travelled to the kitchen.
+31 Where was the apple before the garden? 	hallway	29 26 23
+32 Sandra discarded the milk.
+33 Sandra went to the hallway.
+34 Where was the apple before the garden? 	hallway	29 26 23
+35 Daniel moved to the bathroom.
+36 John got the apple.
+37 Where was the milk before the kitchen? 	office	32 30 28
+38 John went to the office.
+39 Daniel journeyed to the bedroom.
+40 Daniel went to the kitchen.
+41 John discarded the apple.
+42 Sandra journeyed to the bedroom.
+43 John moved to the bathroom.
+44 Sandra journeyed to the kitchen.
+45 Daniel went to the office.
+46 Sandra took the milk.
+47 Mary travelled to the hallway.
+48 Mary went back to the garden.
+49 Sandra went back to the bathroom.
+50 Sandra went back to the kitchen.
+51 Daniel picked up the apple there.
+52 Sandra discarded the milk there.
+53 Sandra got the milk.
+54 Sandra went back to the bathroom.
+55 Mary went back to the bathroom.
+56 Mary moved to the garden.
+57 Sandra journeyed to the kitchen.
+58 Where was the milk before the kitchen? 	bathroom	53 57 54
+59 Sandra travelled to the bedroom.
+60 Daniel discarded the apple.
+61 Sandra left the football.
+62 John moved to the office.
+63 Where was the football before the kitchen? 	bathroom	61 57 54

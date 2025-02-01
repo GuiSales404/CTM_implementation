@@ -1,0 +1,19 @@
+1 Daniel moved to the office.
+2 Mary went back to the bedroom.
+3 Sandra travelled to the bathroom.
+4 Daniel journeyed to the garden.
+5 Daniel picked up the football there.
+6 Daniel left the football there.
+7 What is Daniel carrying? 	nothing	5 6
+8 Sandra journeyed to the garden.
+9 Sandra took the football there.
+10 What is Daniel carrying? 	nothing	5 6
+11 John journeyed to the bathroom.
+12 John journeyed to the office.
+13 What is Sandra carrying? 	football	9
+14 Sandra put down the football.
+15 Daniel picked up the football there.
+16 What is Daniel carrying? 	football	5 6 15
+17 Daniel discarded the football.
+18 Daniel picked up the football there.
+19 What is Daniel carrying? 	football	5 6 15 17 18

@@ -1,0 +1,15 @@
+1 Daniel is no longer in the hallway.
+2 Sandra is in the garden.
+3 Is Sandra in the bedroom? 	no	2
+4 Mary is in the kitchen.
+5 Mary journeyed to the office.
+6 Is Mary in the office? 	yes	5
+7 John is no longer in the hallway.
+8 Sandra went to the office.
+9 Is Mary in the office? 	yes	5
+10 Daniel is in the office.
+11 Daniel is in the kitchen.
+12 Is Daniel in the kitchen? 	yes	11
+13 Sandra went back to the garden.
+14 John is not in the kitchen.
+15 Is Daniel in the kitchen? 	yes	11

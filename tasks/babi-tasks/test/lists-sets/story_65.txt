@@ -1,0 +1,19 @@
+1 Mary went to the bedroom.
+2 Daniel went to the bedroom.
+3 Daniel went to the bathroom.
+4 Mary travelled to the garden.
+5 Daniel journeyed to the kitchen.
+6 Mary took the apple there.
+7 What is Mary carrying? 	apple	6
+8 Sandra travelled to the hallway.
+9 Mary dropped the apple.
+10 What is Mary carrying? 	nothing	6 9
+11 Daniel took the milk there.
+12 Daniel went back to the bedroom.
+13 What is Mary carrying? 	nothing	6 9
+14 Mary got the apple there.
+15 Daniel left the milk.
+16 What is Mary carrying? 	apple	6 9 14
+17 John journeyed to the kitchen.
+18 Mary put down the apple there.
+19 What is Mary carrying? 	nothing	6 9 14 18

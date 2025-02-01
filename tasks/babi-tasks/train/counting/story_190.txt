@@ -1,0 +1,25 @@
+1 John went back to the bedroom.
+2 Daniel went back to the office.
+3 Sandra went back to the bedroom.
+4 John journeyed to the office.
+5 Mary journeyed to the bedroom.
+6 Mary moved to the office.
+7 Daniel travelled to the hallway.
+8 John went to the bathroom.
+9 John travelled to the kitchen.
+10 Daniel journeyed to the bathroom.
+11 Daniel got the apple there.
+12 John moved to the office.
+13 How many objects is Daniel carrying? 	one	11
+14 John travelled to the bathroom.
+15 Sandra went to the hallway.
+16 How many objects is Daniel carrying? 	one	11
+17 Daniel gave the apple to John.
+18 John passed the apple to Daniel.
+19 How many objects is John carrying? 	none	17 18
+20 Daniel handed the apple to John.
+21 John discarded the apple.
+22 How many objects is Daniel carrying? 	none	11 17 18 20
+23 Daniel went to the office.
+24 Mary went to the bedroom.
+25 How many objects is Daniel carrying? 	none	11 17 18 20

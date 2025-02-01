@@ -1,0 +1,15 @@
+1 Mary grabbed the football there.
+2 Sandra went back to the garden.
+3 What is Mary carrying? 	football	1
+4 John went back to the bedroom.
+5 John journeyed to the bathroom.
+6 What is Mary carrying? 	football	1
+7 Mary took the apple there.
+8 Sandra went back to the bathroom.
+9 What is Mary carrying? 	football,apple	1 7
+10 Mary went back to the hallway.
+11 Daniel travelled to the office.
+12 What is Mary carrying? 	football,apple	1 7
+13 Mary journeyed to the bathroom.
+14 Mary dropped the football.
+15 What is Mary carrying? 	apple	1 14 7

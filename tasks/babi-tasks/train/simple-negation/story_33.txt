@@ -1,0 +1,15 @@
+1 John is in the bathroom.
+2 Mary journeyed to the bedroom.
+3 Is Mary in the bedroom? 	yes	2
+4 Daniel is not in the office.
+5 John is not in the bathroom.
+6 Is Daniel in the office? 	no	4
+7 Daniel journeyed to the office.
+8 Mary is no longer in the bedroom.
+9 Is Mary in the bedroom? 	no	8
+10 Mary went back to the office.
+11 John is not in the kitchen.
+12 Is John in the kitchen? 	no	11
+13 Mary went to the bedroom.
+14 Daniel is no longer in the office.
+15 Is Daniel in the office? 	no	14

@@ -1,0 +1,17 @@
+1 John journeyed to the office.
+2 Mary moved to the office.
+3 Sandra took the apple there.
+4 Sandra picked up the football there.
+5 What is Sandra carrying? 	apple,football	3 4
+6 Sandra dropped the football.
+7 John grabbed the football there.
+8 What is John carrying? 	football	7
+9 John discarded the football.
+10 Sandra put down the apple.
+11 What is Sandra carrying? 	nothing	3 10 4 6
+12 Mary grabbed the apple there.
+13 John picked up the football there.
+14 What is John carrying? 	football	7 9 13
+15 Sandra went back to the bathroom.
+16 Mary left the apple there.
+17 What is John carrying? 	football	7 9 13

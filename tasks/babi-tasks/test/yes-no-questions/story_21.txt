@@ -1,0 +1,15 @@
+1 John took the apple there.
+2 John went to the bathroom.
+3 Is John in the hallway? 	no	2
+4 John moved to the office.
+5 Mary picked up the milk there.
+6 Is John in the hallway? 	no	4
+7 John dropped the apple there.
+8 Mary picked up the football there.
+9 Is John in the bathroom? 	no	4
+10 John got the apple there.
+11 John journeyed to the hallway.
+12 Is John in the bathroom? 	no	11
+13 John left the apple.
+14 John took the apple there.
+15 Is John in the bedroom? 	no	11

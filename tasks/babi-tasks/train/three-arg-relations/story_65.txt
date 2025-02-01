@@ -1,0 +1,65 @@
+1 Mary went to the kitchen.
+2 Mary went to the bathroom.
+3 Jeff travelled to the kitchen.
+4 Jeff went to the office.
+5 Mary travelled to the hallway.
+6 Jeff moved to the bathroom.
+7 Jeff went back to the kitchen.
+8 Mary moved to the office.
+9 Fred moved to the kitchen.
+10 Bill journeyed to the garden.
+11 Jeff went back to the office.
+12 Fred picked up the apple there.
+13 Fred discarded the apple.
+14 Bill went back to the office.
+15 Mary moved to the hallway.
+16 Bill went back to the kitchen.
+17 Bill moved to the office.
+18 Mary journeyed to the bedroom.
+19 Fred journeyed to the bedroom.
+20 Mary travelled to the garden.
+21 Fred journeyed to the kitchen.
+22 Bill went back to the garden.
+23 Jeff went back to the kitchen.
+24 Fred grabbed the apple there.
+25 Fred journeyed to the bedroom.
+26 Mary got the milk there.
+27 Mary passed the milk to Bill.
+28 Mary went to the office.
+29 What did Mary give to Bill? 	milk	27
+30 Jeff went to the bathroom.
+31 Jeff went back to the office.
+32 Who received the milk? 	Bill	27
+33 Fred discarded the apple.
+34 Bill got the football there.
+35 Fred went to the kitchen.
+36 Bill left the football.
+37 Bill grabbed the football there.
+38 Jeff travelled to the kitchen.
+39 Bill left the milk.
+40 Jeff went to the hallway.
+41 Bill discarded the football.
+42 Fred went back to the bathroom.
+43 Mary travelled to the kitchen.
+44 Mary journeyed to the office.
+45 Fred went back to the office.
+46 Bill journeyed to the office.
+47 Jeff moved to the garden.
+48 Mary went to the kitchen.
+49 Mary went back to the garden.
+50 Fred journeyed to the bathroom.
+51 Mary went to the hallway.
+52 Mary journeyed to the office.
+53 Jeff grabbed the football there.
+54 Jeff took the milk there.
+55 Bill went back to the kitchen.
+56 Mary went to the garden.
+57 Fred moved to the kitchen.
+58 Jeff gave the football to Mary.
+59 Who gave the football? 	Jeff	58
+60 Bill went back to the bedroom.
+61 Mary travelled to the hallway.
+62 What did Jeff give to Mary? 	football	58
+63 Fred went to the bedroom.
+64 Mary travelled to the bathroom.
+65 Who did Jeff give the football to? 	Mary	58

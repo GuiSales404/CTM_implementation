@@ -1,0 +1,15 @@
+1 Sandra travelled to the bathroom.
+2 Daniel picked up the apple there.
+3 What is Daniel carrying? 	apple	2
+4 Sandra picked up the football there.
+5 Mary travelled to the hallway.
+6 What is Sandra carrying? 	football	4
+7 Sandra dropped the football.
+8 Sandra moved to the bedroom.
+9 What is Sandra carrying? 	nothing	4 7
+10 Daniel dropped the apple.
+11 Mary grabbed the apple there.
+12 What is Daniel carrying? 	nothing	2 10
+13 Sandra went to the office.
+14 Daniel travelled to the bathroom.
+15 What is Daniel carrying? 	nothing	2 10

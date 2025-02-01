@@ -1,0 +1,15 @@
+1 John grabbed the apple there.
+2 Daniel moved to the bedroom.
+3 Is Daniel in the bedroom? 	yes	2
+4 John travelled to the bedroom.
+5 Daniel got the football there.
+6 Is John in the bedroom? 	yes	4
+7 John went back to the office.
+8 John put down the apple.
+9 Is John in the office? 	yes	7
+10 Daniel left the football.
+11 John picked up the apple there.
+12 Is John in the office? 	yes	7
+13 Daniel picked up the football there.
+14 Mary went to the bedroom.
+15 Is Mary in the garden? 	no	14

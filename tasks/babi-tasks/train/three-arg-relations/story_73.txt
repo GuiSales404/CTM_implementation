@@ -1,0 +1,107 @@
+1 Bill travelled to the garden.
+2 Bill moved to the kitchen.
+3 Mary moved to the garden.
+4 Jeff went back to the garden.
+5 Jeff went to the hallway.
+6 Bill went to the bathroom.
+7 Mary went to the hallway.
+8 Mary travelled to the bedroom.
+9 Jeff went back to the bedroom.
+10 Bill went to the hallway.
+11 Mary went to the bathroom.
+12 Jeff went to the bathroom.
+13 Mary journeyed to the garden.
+14 Fred went back to the hallway.
+15 Mary moved to the bedroom.
+16 Bill travelled to the office.
+17 Fred travelled to the office.
+18 Mary journeyed to the kitchen.
+19 Fred went to the hallway.
+20 Mary travelled to the bedroom.
+21 Mary went back to the garden.
+22 Fred journeyed to the bedroom.
+23 Jeff journeyed to the office.
+24 Bill went back to the bedroom.
+25 Fred travelled to the kitchen.
+26 Fred moved to the hallway.
+27 Fred journeyed to the office.
+28 Fred moved to the bathroom.
+29 Mary travelled to the office.
+30 Jeff journeyed to the bedroom.
+31 Fred moved to the bedroom.
+32 Mary went to the bathroom.
+33 Fred travelled to the bathroom.
+34 Jeff journeyed to the kitchen.
+35 Mary journeyed to the office.
+36 Fred moved to the bedroom.
+37 Mary moved to the bathroom.
+38 Mary went back to the bedroom.
+39 Mary went back to the hallway.
+40 Mary went back to the office.
+41 Bill travelled to the hallway.
+42 Bill journeyed to the kitchen.
+43 Jeff travelled to the office.
+44 Fred went to the garden.
+45 Bill went to the bedroom.
+46 Fred went to the office.
+47 Bill went to the kitchen.
+48 Jeff went to the garden.
+49 Fred journeyed to the bathroom.
+50 Fred journeyed to the kitchen.
+51 Fred went back to the bathroom.
+52 Mary went back to the hallway.
+53 Fred went to the garden.
+54 Mary grabbed the apple there.
+55 Mary discarded the apple.
+56 Bill travelled to the garden.
+57 Mary travelled to the office.
+58 Jeff journeyed to the bathroom.
+59 Fred journeyed to the bedroom.
+60 Bill moved to the kitchen.
+61 Mary travelled to the bedroom.
+62 Mary moved to the garden.
+63 Bill went to the garden.
+64 Mary went back to the hallway.
+65 Bill moved to the bedroom.
+66 Mary moved to the bathroom.
+67 Fred travelled to the kitchen.
+68 Mary travelled to the garden.
+69 Bill went to the hallway.
+70 Bill picked up the football there.
+71 Fred moved to the office.
+72 Bill dropped the football.
+73 Jeff travelled to the kitchen.
+74 Bill went to the garden.
+75 Mary travelled to the hallway.
+76 Mary journeyed to the bathroom.
+77 Mary journeyed to the office.
+78 Fred travelled to the bathroom.
+79 Fred journeyed to the kitchen.
+80 Fred journeyed to the bedroom.
+81 Jeff travelled to the garden.
+82 Bill went to the bedroom.
+83 Mary went to the garden.
+84 Bill moved to the kitchen.
+85 Fred went to the office.
+86 Mary travelled to the hallway.
+87 Jeff travelled to the kitchen.
+88 Fred travelled to the garden.
+89 Fred went to the bedroom.
+90 Mary took the football there.
+91 Bill moved to the bathroom.
+92 Mary went back to the bathroom.
+93 Mary passed the football to Bill.
+94 Bill journeyed to the hallway.
+95 What did Mary give to Bill? 	football	93
+96 Fred journeyed to the hallway.
+97 Jeff moved to the hallway.
+98 Who did Mary give the football to? 	Bill	93
+99 Jeff grabbed the milk there.
+100 Bill gave the football to Fred.
+101 What did Bill give to Fred? 	football	100
+102 Jeff travelled to the office.
+103 Fred gave the football to Bill.
+104 Who received the football? 	Bill	103
+105 Bill gave the football to Fred.
+106 Fred grabbed the apple there.
+107 Who received the football? 	Fred	105

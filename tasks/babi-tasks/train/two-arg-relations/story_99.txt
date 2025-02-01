@@ -1,0 +1,3 @@
+1 The office is south of the garden.
+2 The hallway is north of the garden.
+3 What is the garden north of?	office	1

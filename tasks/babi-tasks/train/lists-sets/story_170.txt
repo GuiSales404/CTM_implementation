@@ -1,0 +1,19 @@
+1 Mary went back to the bedroom.
+2 Daniel went back to the office.
+3 John went back to the office.
+4 Daniel went to the bedroom.
+5 Mary moved to the bathroom.
+6 Mary got the football there.
+7 What is Mary carrying? 	football	6
+8 Mary put down the football there.
+9 Mary grabbed the football there.
+10 What is Mary carrying? 	football	6 8 9
+11 Mary dropped the football.
+12 Mary got the football there.
+13 What is Mary carrying? 	football	6 8 9 11 12
+14 John went back to the hallway.
+15 John went back to the office.
+16 What is Mary carrying? 	football	6 8 9 11 12
+17 Sandra travelled to the bathroom.
+18 Sandra went back to the kitchen.
+19 What is Mary carrying? 	football	6 8 9 11 12

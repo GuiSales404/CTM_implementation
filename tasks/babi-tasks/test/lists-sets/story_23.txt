@@ -1,0 +1,37 @@
+1 Mary went back to the bedroom.
+2 John travelled to the hallway.
+3 Mary journeyed to the office.
+4 Daniel journeyed to the bathroom.
+5 John moved to the office.
+6 John moved to the kitchen.
+7 Mary travelled to the hallway.
+8 Daniel got the football there.
+9 What is Daniel carrying? 	football	8
+10 Daniel dropped the football.
+11 Daniel journeyed to the office.
+12 What is Daniel carrying? 	nothing	8 10
+13 Mary journeyed to the office.
+14 John journeyed to the bedroom.
+15 What is Daniel carrying? 	nothing	8 10
+16 Daniel journeyed to the hallway.
+17 Sandra went to the office.
+18 Mary moved to the bedroom.
+19 Mary went to the office.
+20 John journeyed to the hallway.
+21 Daniel journeyed to the kitchen.
+22 Daniel went back to the bathroom.
+23 Daniel moved to the garden.
+24 Daniel travelled to the bedroom.
+25 Daniel went to the garden.
+26 Mary moved to the bedroom.
+27 Mary travelled to the garden.
+28 Daniel moved to the kitchen.
+29 Daniel went back to the office.
+30 Sandra went to the bedroom.
+31 Daniel moved to the hallway.
+32 Mary got the apple there.
+33 Sandra went to the office.
+34 What is Mary carrying? 	apple	32
+35 Daniel went back to the bedroom.
+36 Sandra travelled to the hallway.
+37 What is Mary carrying? 	apple	32

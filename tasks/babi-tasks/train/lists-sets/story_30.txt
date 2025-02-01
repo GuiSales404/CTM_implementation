@@ -1,0 +1,15 @@
+1 Sandra took the apple there.
+2 Mary journeyed to the garden.
+3 What is Sandra carrying? 	apple	1
+4 Sandra got the football there.
+5 Daniel moved to the kitchen.
+6 What is Sandra carrying? 	apple,football	1 4
+7 Sandra put down the apple.
+8 John journeyed to the office.
+9 What is Sandra carrying? 	football	1 7 4
+10 Daniel went back to the office.
+11 Sandra got the apple there.
+12 What is Sandra carrying? 	apple,football	1 7 11 4
+13 Mary went to the bathroom.
+14 Sandra moved to the office.
+15 What is Sandra carrying? 	apple,football	1 7 11 4

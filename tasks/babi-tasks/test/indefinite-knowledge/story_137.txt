@@ -1,0 +1,15 @@
+1 Fred is in the kitchen.
+2 Mary went to the office.
+3 Is Fred in the kitchen? 	yes	1
+4 Fred moved to the school.
+5 Mary moved to the kitchen.
+6 Is Mary in the kitchen? 	yes	5
+7 Bill is either in the park or the park.
+8 Bill is either in the school or the park.
+9 Is Fred in the kitchen? 	no	4
+10 Bill moved to the park.
+11 Fred moved to the bedroom.
+12 Is Fred in the cinema? 	no	11
+13 Fred moved to the kitchen.
+14 Fred is either in the park or the park.
+15 Is Fred in the kitchen? 	no	14

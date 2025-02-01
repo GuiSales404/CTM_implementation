@@ -1,0 +1,29 @@
+1 Sandra went back to the hallway.
+2 Daniel took the apple.
+3 John travelled to the kitchen.
+4 Daniel travelled to the bedroom.
+5 Daniel got the football there.
+6 Daniel went to the hallway.
+7 Where was the apple before the hallway? 	bedroom	2 6 4
+8 Mary went back to the bedroom.
+9 Daniel discarded the football.
+10 Daniel got the football.
+11 Mary went to the garden.
+12 Daniel travelled to the office.
+13 Daniel went back to the bedroom.
+14 Where was the football before the bedroom? 	office	10 13 12
+15 Daniel went back to the hallway.
+16 Mary went back to the bathroom.
+17 Daniel dropped the apple.
+18 Sandra journeyed to the kitchen.
+19 Where was the apple before the office? 	hallway	17 12 6
+20 Mary went back to the bedroom.
+21 Daniel got the apple.
+22 Sandra moved to the garden.
+23 Daniel dropped the apple.
+24 Daniel put down the football.
+25 John went back to the bathroom.
+26 Where was the football before the bedroom? 	office	24 13 12
+27 Mary went to the garden.
+28 Daniel grabbed the apple.
+29 Where was the football before the hallway? 	bedroom	24 15 13

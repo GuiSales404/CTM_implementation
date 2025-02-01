@@ -1,0 +1,65 @@
+1 John moved to the kitchen.
+2 John travelled to the bathroom.
+3 John grabbed the apple.
+4 John journeyed to the office.
+5 John picked up the milk.
+6 Daniel went back to the office.
+7 John put down the apple.
+8 Sandra journeyed to the office.
+9 Sandra went to the kitchen.
+10 Daniel travelled to the garden.
+11 John got the football.
+12 John left the football there.
+13 Sandra moved to the hallway.
+14 John got the apple.
+15 Daniel journeyed to the bathroom.
+16 Mary went back to the office.
+17 Mary journeyed to the hallway.
+18 Sandra journeyed to the garden.
+19 John journeyed to the hallway.
+20 John travelled to the garden.
+21 John travelled to the hallway.
+22 Daniel went to the kitchen.
+23 Mary moved to the kitchen.
+24 Daniel went back to the bathroom.
+25 John went back to the bathroom.
+26 John travelled to the bedroom.
+27 Daniel journeyed to the hallway.
+28 John dropped the apple.
+29 Where was the apple before the bathroom? 	hallway	28 25 21
+30 John dropped the milk there.
+31 John picked up the milk.
+32 Where was the apple before the garden? 	hallway	28 20 19
+33 John picked up the apple.
+34 Mary travelled to the office.
+35 Sandra travelled to the bedroom.
+36 Daniel travelled to the bedroom.
+37 Mary took the football.
+38 Sandra went to the office.
+39 Mary discarded the football.
+40 Sandra picked up the football.
+41 John moved to the garden.
+42 John moved to the bathroom.
+43 Mary went back to the bedroom.
+44 Sandra moved to the garden.
+45 Sandra went back to the office.
+46 Sandra went to the garden.
+47 Daniel journeyed to the bathroom.
+48 Daniel moved to the hallway.
+49 John travelled to the office.
+50 John discarded the milk.
+51 Where was the milk before the office? 	bathroom	50 49 42
+52 John grabbed the milk.
+53 John journeyed to the kitchen.
+54 Daniel journeyed to the bathroom.
+55 Sandra travelled to the office.
+56 Sandra moved to the bedroom.
+57 John went back to the bedroom.
+58 John went to the garden.
+59 John moved to the bathroom.
+60 Sandra put down the football.
+61 John discarded the milk.
+62 Where was the football before the office? 	garden	60 55 46
+63 John put down the apple there.
+64 Sandra got the football.
+65 Where was the apple before the kitchen? 	office	63 53 49

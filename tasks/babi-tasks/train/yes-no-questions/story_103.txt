@@ -1,0 +1,17 @@
+1 Mary took the milk there.
+2 Mary dropped the milk.
+3 John moved to the hallway.
+4 John moved to the bathroom.
+5 Is John in the bathroom? 	yes	4
+6 Daniel went back to the hallway.
+7 Daniel took the milk there.
+8 Is John in the bathroom? 	yes	4
+9 Mary travelled to the bathroom.
+10 Daniel discarded the milk.
+11 Is Mary in the bedroom? 	no	9
+12 Mary moved to the kitchen.
+13 Daniel went to the garden.
+14 Is Mary in the bathroom? 	no	12
+15 Sandra went back to the hallway.
+16 Sandra grabbed the milk there.
+17 Is Mary in the bedroom? 	no	12

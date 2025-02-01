@@ -1,0 +1,15 @@
+1 Sandra grabbed the milk there.
+2 Sandra dropped the milk there.
+3 What is Sandra carrying? 	nothing	1 2
+4 Mary went back to the garden.
+5 Daniel picked up the apple there.
+6 What is Sandra carrying? 	nothing	1 2
+7 Sandra picked up the milk there.
+8 Sandra left the milk.
+9 What is Sandra carrying? 	nothing	1 2 7 8
+10 John went to the bedroom.
+11 Sandra grabbed the milk there.
+12 What is Sandra carrying? 	milk	1 2 7 8 11
+13 Daniel put down the apple.
+14 Mary went to the office.
+15 What is Daniel carrying? 	nothing	5 13

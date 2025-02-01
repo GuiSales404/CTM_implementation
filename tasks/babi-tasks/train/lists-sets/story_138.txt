@@ -1,0 +1,15 @@
+1 Mary grabbed the apple there.
+2 Mary left the apple there.
+3 What is Mary carrying? 	nothing	1 2
+4 Sandra went back to the kitchen.
+5 Daniel moved to the office.
+6 What is Mary carrying? 	nothing	1 2
+7 Mary took the milk there.
+8 Mary put down the milk there.
+9 What is Mary carrying? 	nothing	1 2 7 8
+10 Daniel travelled to the garden.
+11 Daniel journeyed to the bedroom.
+12 What is Mary carrying? 	nothing	1 2 7 8
+13 Mary moved to the office.
+14 Daniel grabbed the football there.
+15 What is Daniel carrying? 	football	14

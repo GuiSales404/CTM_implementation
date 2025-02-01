@@ -1,0 +1,27 @@
+1 Mary went back to the office.
+2 Sandra travelled to the garden.
+3 Mary journeyed to the garden.
+4 John went to the kitchen.
+5 John went to the office.
+6 Sandra went back to the office.
+7 John journeyed to the garden.
+8 Sandra moved to the kitchen.
+9 Mary went to the bedroom.
+10 Sandra journeyed to the hallway.
+11 Daniel travelled to the garden.
+12 Mary went back to the hallway.
+13 Sandra got the football there.
+14 Daniel travelled to the bathroom.
+15 What is Sandra carrying? 	football	13
+16 Sandra dropped the football.
+17 Daniel went back to the garden.
+18 What is Sandra carrying? 	nothing	13 16
+19 Sandra picked up the football there.
+20 Daniel went to the office.
+21 What is Sandra carrying? 	football	13 16 19
+22 Sandra put down the football.
+23 Sandra travelled to the office.
+24 What is Sandra carrying? 	nothing	13 16 19 22
+25 Mary went back to the garden.
+26 Mary went back to the kitchen.
+27 What is Sandra carrying? 	nothing	13 16 19 22

@@ -1,0 +1,22 @@
+1 Jason is hungry.
+2 Where will jason go?	kitchen	1
+3 Sumit is thirsty.
+4 Where will sumit go?	kitchen	3
+5 Sumit went to the kitchen.
+6 Why did sumit go to the kitchen?	thirsty	3
+7 Antoine is bored.
+8 Where will antoine go?	garden	7
+9 Sumit took the milk there.
+10 Why did sumit get the milk?	thirsty	3
+11 Jason went back to the kitchen.
+12 Why did jason go to the kitchen?	hungry	1
+13 Antoine went to the garden.
+14 Why did antoine go to the garden?	bored	7
+15 Yann is hungry.
+16 Where will yann go?	kitchen	15
+17 Yann journeyed to the kitchen.
+18 Why did yann go to the kitchen?	hungry	15
+19 Jason picked up the apple there.
+20 Why did jason get the apple?	hungry	1
+21 Antoine picked up the football there.
+22 Why did antoine get the football?	bored	7

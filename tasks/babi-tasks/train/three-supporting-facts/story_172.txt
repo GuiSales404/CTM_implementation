@@ -1,0 +1,89 @@
+1 Sandra moved to the hallway.
+2 Daniel journeyed to the kitchen.
+3 John grabbed the football there.
+4 John moved to the bathroom.
+5 Mary got the apple there.
+6 John discarded the football.
+7 Sandra went to the bathroom.
+8 Mary left the apple.
+9 Sandra went back to the hallway.
+10 John got the football.
+11 John left the football.
+12 Daniel went back to the garden.
+13 John picked up the football.
+14 John dropped the football.
+15 Daniel journeyed to the bedroom.
+16 Mary moved to the bedroom.
+17 Sandra went to the bedroom.
+18 John picked up the football.
+19 Mary journeyed to the office.
+20 John dropped the football.
+21 John took the football.
+22 Mary went back to the kitchen.
+23 Mary picked up the apple.
+24 Mary went to the bathroom.
+25 John travelled to the hallway.
+26 Mary put down the apple.
+27 John dropped the football.
+28 John took the football.
+29 John dropped the football there.
+30 Sandra moved to the office.
+31 Mary moved to the office.
+32 Mary travelled to the kitchen.
+33 John got the football there.
+34 Daniel moved to the garden.
+35 Sandra went back to the bathroom.
+36 Daniel went to the office.
+37 Mary went to the bedroom.
+38 Sandra went to the kitchen.
+39 Daniel went to the bathroom.
+40 Daniel picked up the apple.
+41 Daniel went back to the bedroom.
+42 Daniel put down the apple.
+43 Sandra travelled to the bedroom.
+44 John went to the office.
+45 Sandra took the apple there.
+46 Mary moved to the bathroom.
+47 Mary moved to the bedroom.
+48 Sandra put down the apple.
+49 Sandra journeyed to the hallway.
+50 John dropped the football.
+51 John moved to the garden.
+52 Daniel journeyed to the kitchen.
+53 Daniel moved to the office.
+54 Daniel journeyed to the kitchen.
+55 Sandra journeyed to the bedroom.
+56 John went back to the bedroom.
+57 Mary went back to the kitchen.
+58 John went back to the hallway.
+59 Sandra journeyed to the hallway.
+60 Mary went back to the hallway.
+61 Daniel went to the garden.
+62 Sandra moved to the kitchen.
+63 Mary moved to the office.
+64 John travelled to the office.
+65 John moved to the bathroom.
+66 Mary took the football.
+67 Mary journeyed to the garden.
+68 John moved to the hallway.
+69 Mary dropped the football.
+70 Daniel journeyed to the bedroom.
+71 Sandra moved to the office.
+72 Daniel took the apple.
+73 Daniel went back to the office.
+74 Daniel journeyed to the bathroom.
+75 Where was the apple before the bathroom? 	office	72 74 73
+76 Mary picked up the football.
+77 Daniel journeyed to the hallway.
+78 Where was the apple before the bathroom? 	office	72 74 73
+79 Daniel travelled to the bathroom.
+80 Mary journeyed to the bedroom.
+81 Daniel left the apple.
+82 Mary went to the kitchen.
+83 Where was the apple before the hallway? 	bathroom	81 77 74
+84 Daniel journeyed to the hallway.
+85 John went back to the kitchen.
+86 Where was the apple before the bathroom? 	hallway	81 79 77
+87 Mary left the football.
+88 Daniel journeyed to the garden.
+89 Where was the football before the kitchen? 	bedroom	87 82 80

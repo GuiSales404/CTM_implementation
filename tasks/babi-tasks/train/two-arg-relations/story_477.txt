@@ -1,0 +1,3 @@
+1 The kitchen is west of the hallway.
+2 The bathroom is east of the hallway.
+3 What is the hallway east of?	kitchen	1

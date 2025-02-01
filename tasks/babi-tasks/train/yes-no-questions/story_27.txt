@@ -1,0 +1,15 @@
+1 John took the apple there.
+2 Sandra moved to the bedroom.
+3 Is Sandra in the bathroom? 	no	2
+4 Mary went to the office.
+5 John discarded the apple.
+6 Is Sandra in the bedroom? 	yes	2
+7 John picked up the apple there.
+8 John went to the office.
+9 Is Mary in the bedroom? 	no	4
+10 Daniel journeyed to the kitchen.
+11 Sandra went back to the hallway.
+12 Is Daniel in the kitchen? 	yes	10
+13 Daniel travelled to the bedroom.
+14 John went back to the kitchen.
+15 Is Daniel in the bedroom? 	yes	13

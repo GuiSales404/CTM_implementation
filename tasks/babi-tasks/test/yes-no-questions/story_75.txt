@@ -1,0 +1,17 @@
+1 Daniel picked up the apple there.
+2 Daniel travelled to the garden.
+3 Is Daniel in the bedroom? 	no	2
+4 Mary travelled to the hallway.
+5 Daniel dropped the apple.
+6 Is Daniel in the kitchen? 	no	2
+7 Mary picked up the milk there.
+8 Daniel grabbed the apple there.
+9 Is Daniel in the garden? 	yes	2
+10 Daniel dropped the apple.
+11 Daniel took the apple there.
+12 Daniel went to the bathroom.
+13 Daniel journeyed to the kitchen.
+14 Is Daniel in the hallway? 	no	13
+15 Daniel journeyed to the hallway.
+16 Mary discarded the milk.
+17 Is Daniel in the garden? 	no	15

@@ -1,0 +1,17 @@
+1 John went to the bathroom.
+2 Mary went back to the office.
+3 Mary went to the bedroom.
+4 Mary got the apple there.
+5 What is Mary carrying? 	apple	4
+6 Mary journeyed to the bathroom.
+7 Mary discarded the apple.
+8 What is Mary carrying? 	nothing	4 7
+9 Sandra travelled to the office.
+10 Mary got the apple there.
+11 What is Mary carrying? 	apple	4 7 10
+12 Daniel went back to the bathroom.
+13 Mary discarded the apple.
+14 What is Mary carrying? 	nothing	4 7 10 13
+15 Daniel took the apple there.
+16 Daniel left the apple.
+17 What is Daniel carrying? 	nothing	15 16

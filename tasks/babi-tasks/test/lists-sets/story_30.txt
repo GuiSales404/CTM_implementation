@@ -1,0 +1,17 @@
+1 Daniel moved to the bedroom.
+2 Mary travelled to the bathroom.
+3 Mary took the apple there.
+4 Mary went to the bedroom.
+5 What is Mary carrying? 	apple	3
+6 Mary put down the apple there.
+7 Sandra went to the bedroom.
+8 What is Mary carrying? 	nothing	3 6
+9 Sandra got the apple there.
+10 John grabbed the milk there.
+11 What is Mary carrying? 	nothing	3 6
+12 John dropped the milk.
+13 Sandra travelled to the bathroom.
+14 What is John carrying? 	nothing	10 12
+15 John got the milk there.
+16 John discarded the milk there.
+17 What is John carrying? 	nothing	10 12 15 16

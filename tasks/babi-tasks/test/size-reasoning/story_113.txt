@@ -1,0 +1,23 @@
+1 The chocolate fits inside the container.
+2 The chocolate fits inside the chest.
+3 The box of chocolates fits inside the chest.
+4 The box is bigger than the box of chocolates.
+5 The box is bigger than the suitcase.
+6 The box fits inside the container.
+7 The chest is bigger than the box of chocolates.
+8 The box of chocolates fits inside the container.
+9 The chest is bigger than the box of chocolates.
+10 The suitcase fits inside the container.
+11 Is the container bigger than the box of chocolates?	yes	6 4
+12 Does the box of chocolates fit in the container?	yes	6 4
+13 Is the container bigger than the box of chocolates?	yes	6 4
+14 The box is bigger than the chocolate.
+15 The chocolate fits inside the container.
+16 The box is bigger than the chocolate.
+17 The chocolate fits inside the box of chocolates.
+18 The container is bigger than the chocolate.
+19 Is the container bigger than the box of chocolates?	yes	6 4
+20 Does the chest fit in the chocolate?	no	17 3
+21 Is the chocolate bigger than the chest?	no	17 3
+22 Does the chest fit in the chocolate?	no	17 3
+23 Is the container bigger than the box of chocolates?	yes	6 4

@@ -1,0 +1,15 @@
+1 Mary picked up the apple there.
+2 Mary went to the bathroom.
+3 Is Mary in the bathroom? 	yes	2
+4 Sandra went to the bathroom.
+5 Sandra grabbed the football there.
+6 Is Mary in the kitchen? 	no	2
+7 Sandra went back to the bedroom.
+8 Mary went back to the kitchen.
+9 Is Mary in the office? 	no	8
+10 Sandra went back to the office.
+11 Sandra left the football.
+12 Is Mary in the bathroom? 	no	8
+13 Daniel got the football there.
+14 Sandra went back to the bedroom.
+15 Is Mary in the kitchen? 	yes	8

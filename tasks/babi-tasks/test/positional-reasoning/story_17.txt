@@ -1,0 +1,10 @@
+1 The triangle is above the red square.
+2 The red square is above the pink rectangle.
+3 Is the triangle above the pink rectangle?	yes	1 2
+4 Is the pink rectangle above the triangle?	no	2 1
+5 Is the pink rectangle below the triangle?	yes	2 1
+6 Is the triangle above the pink rectangle?	yes	1 2
+7 Is the pink rectangle to the right of the triangle?	no	2 1
+8 Is the pink rectangle below the triangle?	yes	2 1
+9 Is the triangle above the pink rectangle?	yes	1 2
+10 Is the pink rectangle to the left of the triangle?	no	2 1

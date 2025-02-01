@@ -1,0 +1,10 @@
+1 Greg is a swan.
+2 Lily is a lion.
+3 Bernhard is a swan.
+4 Lily is white.
+5 Brian is a rhino.
+6 Brian is green.
+7 Bernhard is white.
+8 Julius is a rhino.
+9 Julius is yellow.
+10 What color is Greg?	white	1 3 7

@@ -1,0 +1,15 @@
+1 Daniel travelled to the bedroom.
+2 Sandra travelled to the garden.
+3 Is Sandra in the garden? 	yes	2
+4 Daniel picked up the milk there.
+5 Sandra journeyed to the bedroom.
+6 Is Daniel in the bedroom? 	yes	1
+7 Daniel got the apple there.
+8 John went back to the bedroom.
+9 Is Sandra in the bedroom? 	yes	5
+10 Daniel left the apple.
+11 Daniel went back to the garden.
+12 Is John in the bedroom? 	yes	8
+13 Sandra travelled to the bathroom.
+14 John moved to the bathroom.
+15 Is Sandra in the bathroom? 	yes	13

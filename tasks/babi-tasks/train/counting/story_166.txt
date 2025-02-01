@@ -1,0 +1,15 @@
+1 Mary got the apple there.
+2 Mary handed the apple to Sandra.
+3 How many objects is Mary carrying? 	none	1 2
+4 John went to the garden.
+5 Sandra gave the apple to John.
+6 How many objects is Mary carrying? 	none	1 2
+7 John discarded the apple.
+8 Daniel got the apple there.
+9 How many objects is Daniel carrying? 	one	8
+10 Daniel passed the apple to John.
+11 Daniel moved to the hallway.
+12 How many objects is Sandra carrying? 	none	2 5
+13 John passed the apple to Mary.
+14 Mary dropped the apple.
+15 How many objects is John carrying? 	none	5 7 10 13

@@ -1,0 +1,15 @@
+1 Daniel moved to the garden.
+2 Mary journeyed to the bedroom.
+3 Is Daniel in the garden? 	yes	1
+4 John travelled to the garden.
+5 Mary journeyed to the kitchen.
+6 Is Mary in the kitchen? 	yes	5
+7 John travelled to the bedroom.
+8 Daniel moved to the kitchen.
+9 Is Daniel in the kitchen? 	yes	8
+10 Mary journeyed to the hallway.
+11 John journeyed to the bathroom.
+12 Is John in the bathroom? 	yes	11
+13 Mary grabbed the apple there.
+14 Daniel went to the bathroom.
+15 Is Daniel in the garden? 	no	14

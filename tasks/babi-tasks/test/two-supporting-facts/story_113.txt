@@ -1,0 +1,27 @@
+1 Sandra took the apple there.
+2 Daniel went back to the bedroom.
+3 Daniel travelled to the bathroom.
+4 John went to the bathroom.
+5 Mary journeyed to the bedroom.
+6 Daniel moved to the bedroom.
+7 Sandra moved to the bedroom.
+8 Daniel got the milk there.
+9 Daniel dropped the milk.
+10 Sandra picked up the milk there.
+11 Sandra put down the apple there.
+12 Mary picked up the apple there.
+13 Mary travelled to the bathroom.
+14 Sandra discarded the milk.
+15 Where is the milk? 	bedroom	14 7
+16 Daniel took the milk there.
+17 John moved to the kitchen.
+18 Where is the apple? 	bathroom	12 13
+19 Mary dropped the apple.
+20 Mary travelled to the office.
+21 Where is the apple? 	bathroom	19 13
+22 Mary grabbed the football there.
+23 Daniel went back to the kitchen.
+24 Where is the apple? 	bathroom	19 13
+25 Mary went back to the garden.
+26 John journeyed to the bathroom.
+27 Where is the football? 	garden	22 25

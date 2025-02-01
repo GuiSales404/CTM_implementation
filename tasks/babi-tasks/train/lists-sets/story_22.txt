@@ -1,0 +1,15 @@
+1 John got the apple there.
+2 John discarded the apple there.
+3 What is John carrying? 	nothing	1 2
+4 Sandra grabbed the apple there.
+5 John journeyed to the hallway.
+6 What is Sandra carrying? 	apple	4
+7 John went back to the bedroom.
+8 Mary travelled to the kitchen.
+9 What is Sandra carrying? 	apple	4
+10 Mary picked up the milk there.
+11 Sandra discarded the apple.
+12 What is Mary carrying? 	milk	10
+13 Mary travelled to the hallway.
+14 Mary journeyed to the garden.
+15 What is Mary carrying? 	milk	10

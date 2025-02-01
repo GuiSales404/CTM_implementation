@@ -1,0 +1,17 @@
+1 John travelled to the bathroom.
+2 John travelled to the hallway.
+3 Mary picked up the milk there.
+4 Mary went back to the bedroom.
+5 Where is the milk? 	bedroom	3 4
+6 Sandra took the football there.
+7 Sandra moved to the office.
+8 Where is the football? 	office	6 7
+9 Sandra went back to the bathroom.
+10 John journeyed to the bedroom.
+11 Where is the football? 	bathroom	6 9
+12 John went back to the bathroom.
+13 Sandra put down the football.
+14 Where is the football? 	bathroom	13 9
+15 Mary discarded the milk.
+16 Sandra moved to the kitchen.
+17 Where is the milk? 	bedroom	15 4

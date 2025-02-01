@@ -1,0 +1,15 @@
+1 Sandra journeyed to the hallway.
+2 Daniel got the milk there.
+3 Is Sandra in the hallway? 	yes	1
+4 John went to the garden.
+5 Daniel dropped the milk.
+6 Is John in the bedroom? 	no	4
+7 John moved to the bathroom.
+8 Daniel took the milk there.
+9 Is John in the garden? 	no	7
+10 John went to the kitchen.
+11 John moved to the garden.
+12 Is John in the kitchen? 	no	11
+13 Daniel dropped the milk.
+14 Sandra took the milk there.
+15 Is John in the garden? 	yes	11

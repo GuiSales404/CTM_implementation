@@ -1,0 +1,15 @@
+1 Mary went to the bathroom.
+2 Daniel took the football there.
+3 Is Mary in the kitchen? 	no	1
+4 John moved to the bedroom.
+5 John journeyed to the kitchen.
+6 Is John in the hallway? 	no	5
+7 John took the milk there.
+8 John went to the bedroom.
+9 Is John in the kitchen? 	no	8
+10 Sandra went to the hallway.
+11 Daniel put down the football there.
+12 Is Sandra in the bathroom? 	no	10
+13 John went back to the kitchen.
+14 Sandra moved to the office.
+15 Is John in the hallway? 	no	13

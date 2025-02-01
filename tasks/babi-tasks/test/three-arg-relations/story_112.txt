@@ -1,0 +1,17 @@
+1 Fred took the apple there.
+2 Fred moved to the garden.
+3 Fred handed the apple to Bill.
+4 Bill handed the apple to Fred.
+5 Who gave the apple? 	Bill	4
+6 Mary journeyed to the hallway.
+7 Mary picked up the milk there.
+8 Who gave the apple? 	Bill	4
+9 Fred left the apple.
+10 Mary put down the milk there.
+11 What did Bill give to Fred? 	apple	4
+12 Fred picked up the apple there.
+13 Fred handed the apple to Bill.
+14 What did Fred give to Bill? 	apple	13
+15 Mary grabbed the milk there.
+16 Bill passed the apple to Fred.
+17 Who received the apple? 	Fred	16

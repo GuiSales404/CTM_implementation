@@ -1,0 +1,17 @@
+1 Sandra went to the office.
+2 Mary travelled to the kitchen.
+3 John grabbed the apple there.
+4 John handed the apple to Sandra.
+5 How many objects is John carrying? 	none	3 4
+6 Mary travelled to the hallway.
+7 John went back to the garden.
+8 How many objects is John carrying? 	none	3 4
+9 Sandra grabbed the football there.
+10 Sandra passed the apple to Daniel.
+11 How many objects is John carrying? 	none	3 4
+12 Daniel passed the apple to Sandra.
+13 Sandra passed the apple to Daniel.
+14 How many objects is Daniel carrying? 	one	10 12 13
+15 Sandra left the football.
+16 Daniel gave the apple to Sandra.
+17 How many objects is Daniel carrying? 	none	10 12 13 16

@@ -1,0 +1,59 @@
+1 Sandra moved to the kitchen.
+2 Mary went to the bathroom.
+3 Mary got the football.
+4 Mary put down the football.
+5 Mary picked up the football.
+6 Daniel moved to the hallway.
+7 John went back to the hallway.
+8 John journeyed to the garden.
+9 Daniel went back to the office.
+10 Sandra went to the garden.
+11 Mary left the football.
+12 John moved to the kitchen.
+13 John moved to the office.
+14 Daniel travelled to the hallway.
+15 Daniel travelled to the kitchen.
+16 John journeyed to the hallway.
+17 Sandra travelled to the office.
+18 Mary grabbed the football there.
+19 Daniel travelled to the garden.
+20 John went back to the bathroom.
+21 Mary discarded the football.
+22 John travelled to the bedroom.
+23 John travelled to the office.
+24 Mary grabbed the football there.
+25 John went back to the bedroom.
+26 Sandra moved to the kitchen.
+27 John got the milk there.
+28 John left the milk.
+29 John moved to the hallway.
+30 Mary dropped the football.
+31 Mary picked up the football.
+32 Mary dropped the football.
+33 Sandra went back to the bathroom.
+34 Sandra journeyed to the hallway.
+35 Mary went to the kitchen.
+36 Mary moved to the bathroom.
+37 John journeyed to the bathroom.
+38 John took the football.
+39 John journeyed to the garden.
+40 John journeyed to the bedroom.
+41 Where was the football before the bedroom? 	garden	38 40 39
+42 John took the apple there.
+43 John left the football.
+44 Where was the football before the bedroom? 	garden	43 40 39
+45 John journeyed to the bathroom.
+46 John journeyed to the garden.
+47 Where was the football before the bedroom? 	garden	43 40 39
+48 John went back to the office.
+49 Mary went to the office.
+50 Where was the football before the bedroom? 	garden	43 40 39
+51 Daniel moved to the kitchen.
+52 John went back to the bedroom.
+53 John journeyed to the bathroom.
+54 Sandra went back to the garden.
+55 Mary went back to the bathroom.
+56 Mary went back to the hallway.
+57 John discarded the apple.
+58 Daniel went back to the office.
+59 Where was the apple before the bathroom? 	bedroom	57 53 52

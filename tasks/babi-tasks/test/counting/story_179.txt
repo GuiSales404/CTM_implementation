@@ -1,0 +1,15 @@
+1 John picked up the football there.
+2 John passed the football to Mary.
+3 How many objects is John carrying? 	none	1 2
+4 Sandra travelled to the hallway.
+5 Mary dropped the football there.
+6 How many objects is Mary carrying? 	none	2 5
+7 Mary took the football there.
+8 Sandra went back to the office.
+9 How many objects is John carrying? 	none	1 2
+10 Mary handed the football to John.
+11 John passed the football to Mary.
+12 How many objects is John carrying? 	none	1 2 10 11
+13 Mary gave the football to John.
+14 John left the football.
+15 How many objects is Mary carrying? 	none	2 5 7 10 11 13

@@ -1,0 +1,19 @@
+1 John grabbed the football there.
+2 John moved to the garden.
+3 Where is the football? 	garden	1 2
+4 Sandra went back to the bedroom.
+5 John dropped the football there.
+6 Where is the football? 	garden	5 2
+7 Daniel journeyed to the office.
+8 Mary journeyed to the kitchen.
+9 Where is the football? 	garden	5 2
+10 John got the football there.
+11 John put down the football there.
+12 Where is the football? 	garden	11 2
+13 Sandra moved to the garden.
+14 John grabbed the football there.
+15 John dropped the football.
+16 John grabbed the football there.
+17 Daniel took the milk there.
+18 John discarded the football.
+19 Where is the football? 	garden	18 2

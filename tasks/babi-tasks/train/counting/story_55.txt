@@ -1,0 +1,19 @@
+1 Daniel moved to the office.
+2 Daniel went to the bedroom.
+3 Daniel took the apple there.
+4 John got the milk there.
+5 How many objects is Daniel carrying? 	one	3
+6 Daniel left the apple there.
+7 Daniel travelled to the hallway.
+8 How many objects is John carrying? 	one	4
+9 John moved to the kitchen.
+10 John travelled to the hallway.
+11 How many objects is Daniel carrying? 	none	3 6
+12 Daniel went back to the bedroom.
+13 Daniel moved to the kitchen.
+14 John left the milk.
+15 Sandra got the milk there.
+16 How many objects is John carrying? 	none	4 14
+17 John went back to the office.
+18 John went back to the kitchen.
+19 How many objects is John carrying? 	none	4 14

@@ -1,0 +1,15 @@
+1 Daniel went back to the bedroom.
+2 Afterwards he journeyed to the office.
+3 Where is Daniel? 	office	1 2
+4 Mary journeyed to the bathroom.
+5 After that she journeyed to the office.
+6 Where is Mary? 	office	4 5
+7 Daniel travelled to the garden.
+8 Afterwards he travelled to the office.
+9 Where is Daniel? 	office	7 8
+10 Daniel went to the garden.
+11 Then he travelled to the office.
+12 Where is Daniel? 	office	10 11
+13 Daniel went back to the bathroom.
+14 Afterwards he journeyed to the office.
+15 Where is Daniel? 	office	13 14

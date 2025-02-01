@@ -1,0 +1,29 @@
+1 Bill moved to the bathroom.
+2 Bill travelled to the office.
+3 Fred grabbed the apple there.
+4 Mary moved to the hallway.
+5 Mary took the milk there.
+6 Fred put down the apple.
+7 Mary went to the bedroom.
+8 Fred travelled to the office.
+9 Fred journeyed to the bathroom.
+10 Jeff moved to the hallway.
+11 Mary picked up the football there.
+12 Mary discarded the football.
+13 Fred journeyed to the garden.
+14 Bill went to the bedroom.
+15 Mary handed the milk to Bill.
+16 Bill grabbed the football there.
+17 Who gave the milk to Bill? 	Mary	15
+18 Bill passed the football to Mary.
+19 Fred got the apple there.
+20 Who gave the milk? 	Mary	15
+21 Mary left the football.
+22 Fred went to the bedroom.
+23 Who gave the football to Mary? 	Bill	18
+24 Jeff went to the garden.
+25 Fred handed the apple to Mary.
+26 Who received the apple? 	Mary	25
+27 Bill travelled to the office.
+28 Jeff moved to the hallway.
+29 What did Fred give to Mary? 	apple	25

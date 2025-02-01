@@ -1,0 +1,17 @@
+1 Mary grabbed the milk there.
+2 Sandra took the football there.
+3 Daniel grabbed the apple there.
+4 John went to the bathroom.
+5 Is John in the bathroom? 	yes	4
+6 Mary discarded the milk.
+7 Mary picked up the milk there.
+8 Is John in the bathroom? 	yes	4
+9 Sandra put down the football there.
+10 Mary put down the milk.
+11 Is John in the garden? 	no	4
+12 Sandra travelled to the office.
+13 Mary travelled to the bedroom.
+14 Is Sandra in the bedroom? 	no	12
+15 John went back to the kitchen.
+16 John journeyed to the hallway.
+17 Is John in the garden? 	no	16

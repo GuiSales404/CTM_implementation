@@ -1,0 +1,17 @@
+1 Mary took the milk there.
+2 Mary discarded the milk.
+3 Sandra moved to the bedroom.
+4 Mary journeyed to the bathroom.
+5 Is Mary in the hallway? 	no	4
+6 John travelled to the garden.
+7 John went to the kitchen.
+8 Is Mary in the office? 	no	4
+9 Sandra moved to the kitchen.
+10 John journeyed to the bedroom.
+11 Is Mary in the hallway? 	no	4
+12 Mary grabbed the football there.
+13 Mary left the football.
+14 Is John in the bedroom? 	yes	10
+15 John moved to the bathroom.
+16 John got the football there.
+17 Is John in the kitchen? 	no	15

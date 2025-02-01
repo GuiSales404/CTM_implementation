@@ -1,0 +1,15 @@
+1 Sandra went to the office.
+2 Mary took the apple there.
+3 Is Sandra in the office? 	yes	1
+4 Mary discarded the apple.
+5 Mary journeyed to the bathroom.
+6 Is Sandra in the bathroom? 	no	1
+7 Sandra travelled to the bedroom.
+8 Sandra grabbed the apple there.
+9 Is Mary in the bathroom? 	yes	5
+10 John moved to the hallway.
+11 John journeyed to the bathroom.
+12 Is John in the hallway? 	no	11
+13 Sandra went to the bathroom.
+14 John travelled to the hallway.
+15 Is John in the kitchen? 	no	14

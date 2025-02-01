@@ -1,0 +1,15 @@
+1 Daniel picked up the milk there.
+2 Daniel picked up the football there.
+3 What is Daniel carrying? 	milk,football	1 2
+4 John went back to the garden.
+5 Daniel went back to the garden.
+6 What is Daniel carrying? 	milk,football	1 2
+7 Sandra went to the bathroom.
+8 Daniel dropped the football.
+9 What is Daniel carrying? 	milk	1 2 8
+10 Sandra moved to the hallway.
+11 Daniel went to the kitchen.
+12 What is Daniel carrying? 	milk	1 2 8
+13 John went back to the office.
+14 Mary journeyed to the bathroom.
+15 What is Daniel carrying? 	milk	1 2 8

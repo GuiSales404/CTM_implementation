@@ -1,0 +1,61 @@
+1 Mary moved to the office.
+2 Sandra went back to the kitchen.
+3 Sandra went to the office.
+4 John went to the bathroom.
+5 Sandra went back to the bathroom.
+6 Mary picked up the football there.
+7 Sandra journeyed to the garden.
+8 Mary discarded the football.
+9 Sandra got the apple.
+10 Sandra dropped the apple.
+11 John travelled to the kitchen.
+12 Mary got the football.
+13 Sandra took the apple.
+14 Sandra dropped the apple.
+15 Mary journeyed to the garden.
+16 Mary took the apple.
+17 John went to the bedroom.
+18 John journeyed to the hallway.
+19 Mary left the apple.
+20 Sandra travelled to the bedroom.
+21 John went to the garden.
+22 John journeyed to the bedroom.
+23 Mary moved to the kitchen.
+24 Mary travelled to the garden.
+25 Mary went to the bathroom.
+26 John journeyed to the bathroom.
+27 Sandra moved to the garden.
+28 Mary left the football.
+29 Where was the football before the garden? 	kitchen	28 24 23
+30 Sandra took the apple.
+31 Mary went back to the office.
+32 Where was the football before the garden? 	kitchen	28 24 23
+33 Sandra journeyed to the bathroom.
+34 Daniel moved to the kitchen.
+35 Where was the football before the kitchen? 	garden	28 23 15
+36 Sandra left the apple there.
+37 Daniel travelled to the bedroom.
+38 Sandra travelled to the bedroom.
+39 John went back to the hallway.
+40 Daniel travelled to the garden.
+41 Mary travelled to the bedroom.
+42 Sandra went to the kitchen.
+43 Mary went to the garden.
+44 Sandra went back to the office.
+45 John moved to the office.
+46 Daniel went back to the office.
+47 Sandra journeyed to the kitchen.
+48 John went to the bedroom.
+49 Daniel journeyed to the garden.
+50 John journeyed to the kitchen.
+51 John went to the hallway.
+52 John picked up the milk.
+53 Daniel went back to the kitchen.
+54 John journeyed to the garden.
+55 John went to the bathroom.
+56 Where was the milk before the bathroom? 	garden	52 55 54
+57 Mary travelled to the hallway.
+58 John took the apple.
+59 John dropped the milk.
+60 Daniel went back to the hallway.
+61 Where was the milk before the bathroom? 	garden	59 55 54

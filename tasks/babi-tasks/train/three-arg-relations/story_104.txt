@@ -1,0 +1,15 @@
+1 Fred grabbed the milk there.
+2 Fred handed the milk to Mary.
+3 Who did Fred give the milk to? 	Mary	2
+4 Mary left the milk.
+5 Jeff picked up the milk there.
+6 Who did Fred give the milk to? 	Mary	2
+7 Bill journeyed to the office.
+8 Jeff handed the milk to Mary.
+9 What did Jeff give to Mary? 	milk	8
+10 Jeff travelled to the kitchen.
+11 Bill travelled to the garden.
+12 What did Jeff give to Mary? 	milk	8
+13 Mary put down the milk there.
+14 Fred went to the office.
+15 Who received the milk? 	Mary	8

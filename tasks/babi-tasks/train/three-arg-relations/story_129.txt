@@ -1,0 +1,15 @@
+1 Fred grabbed the milk there.
+2 Fred handed the milk to Bill.
+3 What did Fred give to Bill? 	milk	2
+4 Jeff journeyed to the kitchen.
+5 Bill handed the milk to Fred.
+6 Who received the milk? 	Fred	5
+7 Fred gave the milk to Bill.
+8 Jeff journeyed to the bedroom.
+9 Who gave the milk to Bill? 	Fred	7
+10 Bill gave the milk to Fred.
+11 Fred gave the milk to Bill.
+12 What did Fred give to Bill? 	milk	11
+13 Bill travelled to the kitchen.
+14 Jeff got the football there.
+15 Who gave the milk to Bill? 	Fred	11

@@ -1,0 +1,15 @@
+1 Daniel went to the office.
+2 Daniel grabbed the apple there.
+3 How many objects is Daniel carrying? 	one	2
+4 Sandra moved to the office.
+5 Daniel gave the apple to Sandra.
+6 How many objects is Daniel carrying? 	none	2 5
+7 John went to the garden.
+8 Sandra gave the apple to Daniel.
+9 How many objects is Daniel carrying? 	one	2 5 8
+10 Daniel passed the apple to Sandra.
+11 Daniel went back to the bedroom.
+12 How many objects is Sandra carrying? 	one	5 8 10
+13 Sandra went back to the garden.
+14 Sandra passed the apple to John.
+15 How many objects is Sandra carrying? 	none	5 8 10 14

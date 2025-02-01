@@ -1,0 +1,15 @@
+1 John grabbed the apple there.
+2 Mary went back to the kitchen.
+3 Is Mary in the kitchen? 	yes	2
+4 Mary took the milk there.
+5 John dropped the apple.
+6 Is Mary in the kitchen? 	yes	2
+7 Mary left the milk.
+8 John went back to the office.
+9 Is John in the kitchen? 	no	8
+10 Sandra moved to the kitchen.
+11 Mary moved to the office.
+12 Is Sandra in the garden? 	no	10
+13 Mary travelled to the kitchen.
+14 Sandra picked up the milk there.
+15 Is Sandra in the kitchen? 	yes	10

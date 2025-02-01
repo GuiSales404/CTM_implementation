@@ -1,0 +1,15 @@
+1 Mary went back to the bathroom.
+2 Sandra went back to the kitchen.
+3 Is Sandra in the kitchen? 	yes	2
+4 John went to the garden.
+5 Daniel went back to the bathroom.
+6 Is John in the kitchen? 	no	4
+7 John moved to the bathroom.
+8 Sandra journeyed to the bedroom.
+9 Is Sandra in the office? 	no	8
+10 Mary journeyed to the office.
+11 Sandra travelled to the hallway.
+12 Is Mary in the office? 	yes	10
+13 Sandra moved to the garden.
+14 Sandra travelled to the office.
+15 Is Mary in the hallway? 	no	10

@@ -1,0 +1,15 @@
+1 Daniel got the milk there.
+2 Mary journeyed to the office.
+3 Is Mary in the office? 	yes	2
+4 Daniel put down the milk there.
+5 Daniel journeyed to the garden.
+6 Is Daniel in the garden? 	yes	5
+7 Sandra went back to the office.
+8 Daniel went back to the bathroom.
+9 Is Daniel in the bathroom? 	yes	8
+10 Sandra journeyed to the kitchen.
+11 Mary travelled to the garden.
+12 Is Daniel in the bathroom? 	yes	8
+13 Daniel travelled to the garden.
+14 Sandra journeyed to the bathroom.
+15 Is Daniel in the office? 	no	13

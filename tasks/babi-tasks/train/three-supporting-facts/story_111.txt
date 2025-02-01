@@ -1,0 +1,123 @@
+1 Daniel journeyed to the garden.
+2 Mary travelled to the hallway.
+3 Sandra went to the garden.
+4 John went to the garden.
+5 Mary journeyed to the bedroom.
+6 Daniel went back to the hallway.
+7 John took the milk.
+8 John left the milk.
+9 Sandra travelled to the bathroom.
+10 John grabbed the milk.
+11 John left the milk there.
+12 John went back to the office.
+13 Sandra went back to the bedroom.
+14 John went to the bedroom.
+15 Mary took the football there.
+16 Sandra went back to the office.
+17 Daniel went to the office.
+18 Mary discarded the football.
+19 Sandra got the apple.
+20 Mary picked up the football.
+21 Sandra went to the bathroom.
+22 Daniel journeyed to the hallway.
+23 Sandra moved to the bedroom.
+24 Sandra went back to the office.
+25 Mary dropped the football there.
+26 Sandra dropped the apple there.
+27 Where was the apple before the bedroom? 	bathroom	26 23 21
+28 Mary got the football.
+29 Sandra got the apple.
+30 Daniel went back to the bathroom.
+31 Mary travelled to the bathroom.
+32 Sandra left the apple.
+33 Mary dropped the football.
+34 John went to the kitchen.
+35 Mary went to the hallway.
+36 Sandra picked up the apple.
+37 Daniel picked up the football.
+38 Mary went back to the garden.
+39 Mary journeyed to the office.
+40 Sandra discarded the apple.
+41 Daniel moved to the garden.
+42 Sandra went back to the hallway.
+43 Daniel dropped the football.
+44 Daniel picked up the milk.
+45 Sandra went to the bedroom.
+46 Daniel put down the milk.
+47 Mary went to the bedroom.
+48 John went to the bedroom.
+49 Mary went to the kitchen.
+50 John went to the bathroom.
+51 Sandra travelled to the office.
+52 John went to the kitchen.
+53 Daniel grabbed the milk.
+54 Sandra grabbed the apple.
+55 Sandra dropped the apple.
+56 Daniel got the football.
+57 Daniel left the milk there.
+58 Mary journeyed to the office.
+59 Mary moved to the bedroom.
+60 Daniel grabbed the milk there.
+61 Mary moved to the hallway.
+62 Sandra went to the bathroom.
+63 John moved to the hallway.
+64 Mary journeyed to the garden.
+65 Sandra journeyed to the kitchen.
+66 John journeyed to the office.
+67 Daniel moved to the hallway.
+68 Mary went to the kitchen.
+69 Sandra journeyed to the bathroom.
+70 John took the apple there.
+71 Sandra went back to the kitchen.
+72 John put down the apple there.
+73 Mary went back to the office.
+74 John travelled to the garden.
+75 Daniel moved to the kitchen.
+76 Daniel went back to the hallway.
+77 Mary got the apple there.
+78 Mary travelled to the bedroom.
+79 John journeyed to the hallway.
+80 Mary left the apple.
+81 Daniel left the milk there.
+82 Where was the milk before the hallway? 	kitchen	81 76 75
+83 Daniel grabbed the milk.
+84 Mary picked up the apple there.
+85 Daniel left the milk.
+86 Daniel put down the football.
+87 Where was the football before the kitchen? 	hallway	86 75 67
+88 Mary discarded the apple.
+89 Daniel grabbed the football there.
+90 Daniel discarded the football there.
+91 Mary got the apple.
+92 John picked up the football.
+93 John dropped the football.
+94 John moved to the garden.
+95 Mary travelled to the office.
+96 Mary moved to the bedroom.
+97 Daniel took the milk there.
+98 Mary went to the bathroom.
+99 Mary put down the apple.
+100 Where was the apple before the bathroom? 	bedroom	99 98 96
+101 Daniel put down the milk there.
+102 Mary picked up the apple.
+103 Daniel went back to the office.
+104 Daniel moved to the hallway.
+105 John went to the office.
+106 John moved to the kitchen.
+107 Mary discarded the apple.
+108 Daniel journeyed to the office.
+109 John journeyed to the hallway.
+110 Mary journeyed to the hallway.
+111 Sandra journeyed to the garden.
+112 Mary got the milk there.
+113 Daniel moved to the hallway.
+114 John moved to the office.
+115 Mary went to the office.
+116 John went to the hallway.
+117 Mary went back to the bedroom.
+118 John took the football.
+119 Mary moved to the bathroom.
+120 John went to the office.
+121 Mary travelled to the office.
+122 John journeyed to the bedroom.
+123 Where was the football before the bedroom? 	office	118 122 120

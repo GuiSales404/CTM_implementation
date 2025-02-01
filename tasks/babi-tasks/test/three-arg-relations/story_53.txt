@@ -1,0 +1,15 @@
+1 Jeff grabbed the apple there.
+2 Jeff gave the apple to Mary.
+3 Who gave the apple to Mary? 	Jeff	2
+4 Mary gave the apple to Fred.
+5 Fred passed the apple to Mary.
+6 Who gave the apple to Mary? 	Fred	5
+7 Fred went to the bedroom.
+8 Mary handed the apple to Bill.
+9 Who gave the apple? 	Mary	8
+10 Bill handed the apple to Mary.
+11 Mary gave the apple to Bill.
+12 What did Mary give to Bill? 	apple	11
+13 Bill dropped the apple there.
+14 Bill took the apple there.
+15 What did Mary give to Bill? 	apple	11

@@ -1,0 +1,15 @@
+1 Daniel grabbed the apple there.
+2 Mary went back to the office.
+3 Is Mary in the office? 	yes	2
+4 Daniel dropped the apple.
+5 John journeyed to the office.
+6 Is Mary in the bedroom? 	no	2
+7 Daniel went back to the bathroom.
+8 Mary journeyed to the garden.
+9 Is John in the bedroom? 	no	5
+10 Daniel journeyed to the office.
+11 Sandra travelled to the bathroom.
+12 Is Daniel in the office? 	yes	10
+13 Sandra went back to the hallway.
+14 Sandra went back to the office.
+15 Is Mary in the garden? 	yes	8

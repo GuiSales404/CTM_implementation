@@ -1,0 +1,17 @@
+1 Bill journeyed to the kitchen.
+2 Jeff grabbed the apple there.
+3 Jeff handed the apple to Mary.
+4 Mary passed the apple to Bill.
+5 Who did Mary give the apple to? 	Bill	4
+6 Mary went back to the hallway.
+7 Bill gave the apple to Jeff.
+8 Who received the apple? 	Jeff	7
+9 Jeff passed the apple to Bill.
+10 Bill handed the apple to Jeff.
+11 What did Bill give to Jeff? 	apple	10
+12 Bill went to the hallway.
+13 Mary journeyed to the kitchen.
+14 What did Bill give to Jeff? 	apple	10
+15 Jeff gave the apple to Mary.
+16 Mary put down the apple there.
+17 Who gave the apple to Mary? 	Jeff	15

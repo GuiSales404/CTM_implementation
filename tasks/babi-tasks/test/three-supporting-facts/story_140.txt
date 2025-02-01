@@ -1,0 +1,65 @@
+1 John journeyed to the hallway.
+2 John picked up the apple.
+3 Daniel went back to the kitchen.
+4 John went back to the office.
+5 Daniel took the football there.
+6 Sandra picked up the milk.
+7 Sandra travelled to the hallway.
+8 Daniel went back to the bathroom.
+9 Sandra dropped the milk.
+10 Sandra went back to the kitchen.
+11 Daniel dropped the football.
+12 Daniel went to the garden.
+13 Daniel travelled to the kitchen.
+14 John journeyed to the bedroom.
+15 Daniel went to the office.
+16 John travelled to the kitchen.
+17 Daniel travelled to the kitchen.
+18 Mary moved to the bedroom.
+19 John went to the garden.
+20 Mary went back to the kitchen.
+21 John dropped the apple.
+22 Mary went to the hallway.
+23 Where was the apple before the kitchen? 	bedroom	21 16 14
+24 Mary grabbed the milk there.
+25 John moved to the office.
+26 Where was the apple before the kitchen? 	bedroom	21 16 14
+27 Daniel moved to the bedroom.
+28 John moved to the kitchen.
+29 Mary put down the milk there.
+30 Sandra journeyed to the garden.
+31 Mary got the milk there.
+32 Sandra took the apple.
+33 Sandra discarded the apple.
+34 Daniel journeyed to the garden.
+35 Sandra took the apple.
+36 Sandra went back to the office.
+37 Mary went back to the kitchen.
+38 Daniel moved to the hallway.
+39 John moved to the bathroom.
+40 Sandra dropped the apple.
+41 Sandra went back to the bedroom.
+42 John took the football there.
+43 John put down the football.
+44 John took the football.
+45 Daniel moved to the bedroom.
+46 John journeyed to the bedroom.
+47 Sandra moved to the kitchen.
+48 Daniel travelled to the kitchen.
+49 Mary moved to the office.
+50 Mary went to the kitchen.
+51 Mary travelled to the bedroom.
+52 Mary went back to the office.
+53 John dropped the football.
+54 John moved to the office.
+55 John took the apple there.
+56 Mary moved to the hallway.
+57 Sandra moved to the garden.
+58 Mary put down the milk.
+59 Where was the milk before the office? 	bedroom	58 52 51
+60 John travelled to the bedroom.
+61 John journeyed to the bathroom.
+62 Where was the milk before the office? 	bedroom	58 52 51
+63 Mary picked up the milk.
+64 John left the apple.
+65 Where was the apple before the bathroom? 	bedroom	64 61 60

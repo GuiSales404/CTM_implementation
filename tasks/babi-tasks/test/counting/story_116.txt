@@ -1,0 +1,39 @@
+1 Sandra journeyed to the garden.
+2 Mary travelled to the bedroom.
+3 John went to the hallway.
+4 Daniel journeyed to the hallway.
+5 Daniel went back to the office.
+6 Daniel went to the garden.
+7 John moved to the bathroom.
+8 Mary journeyed to the hallway.
+9 Daniel went to the office.
+10 Daniel journeyed to the bedroom.
+11 Mary journeyed to the garden.
+12 John went back to the garden.
+13 John went to the bedroom.
+14 Daniel went back to the garden.
+15 Mary went to the kitchen.
+16 Mary went to the hallway.
+17 Mary went back to the garden.
+18 John went to the garden.
+19 Mary moved to the kitchen.
+20 Daniel went to the bathroom.
+21 John went back to the office.
+22 John travelled to the garden.
+23 Daniel went to the bedroom.
+24 Mary travelled to the bathroom.
+25 Daniel journeyed to the bathroom.
+26 Mary took the milk there.
+27 How many objects is Mary carrying? 	one	26
+28 Mary passed the milk to Daniel.
+29 Daniel passed the milk to Mary.
+30 How many objects is Mary carrying? 	one	26 28 29
+31 Mary handed the milk to Daniel.
+32 Daniel gave the milk to Mary.
+33 How many objects is Mary carrying? 	one	26 28 29 31 32
+34 Sandra went to the bedroom.
+35 Daniel moved to the kitchen.
+36 How many objects is Daniel carrying? 	none	28 29 31 32
+37 Daniel moved to the hallway.
+38 John went to the office.
+39 How many objects is Daniel carrying? 	none	28 29 31 32

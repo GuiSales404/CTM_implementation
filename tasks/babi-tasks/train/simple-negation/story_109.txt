@@ -1,0 +1,15 @@
+1 Sandra went back to the bedroom.
+2 Sandra is not in the bedroom.
+3 Is Sandra in the bedroom? 	no	2
+4 Sandra travelled to the office.
+5 Sandra went to the bathroom.
+6 Is Sandra in the bathroom? 	yes	5
+7 John is not in the kitchen.
+8 Sandra travelled to the office.
+9 Is Sandra in the hallway? 	no	8
+10 John went back to the office.
+11 John went to the hallway.
+12 Is Sandra in the garden? 	no	8
+13 Daniel is in the office.
+14 Daniel is no longer in the office.
+15 Is Daniel in the office? 	no	14

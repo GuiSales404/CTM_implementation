@@ -1,0 +1,17 @@
+1 Sandra moved to the office.
+2 Mary picked up the milk there.
+3 What is Mary carrying? 	milk	2
+4 Daniel grabbed the football there.
+5 Daniel moved to the hallway.
+6 What is Daniel carrying? 	football	4
+7 Sandra travelled to the kitchen.
+8 Mary went to the bathroom.
+9 What is Mary carrying? 	milk	2
+10 Sandra journeyed to the bathroom.
+11 John moved to the kitchen.
+12 Daniel left the football.
+13 Sandra went to the kitchen.
+14 What is Daniel carrying? 	nothing	4 12
+15 John got the apple there.
+16 Mary moved to the garden.
+17 What is Daniel carrying? 	nothing	4 12

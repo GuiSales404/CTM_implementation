@@ -1,0 +1,12 @@
+1 Cats are afraid of mice.
+2 Mice are afraid of wolves.
+3 Wolves are afraid of mice.
+4 Winona is a mouse.
+5 Jessica is a wolf.
+6 Sheep are afraid of mice.
+7 Emily is a wolf.
+8 Gertrude is a mouse.
+9 What is emily afraid of?	mouse	7 3
+10 What is emily afraid of?	mouse	7 3
+11 What is winona afraid of?	wolf	4 2
+12 What is winona afraid of?	wolf	4 2

@@ -1,0 +1,15 @@
+1 Sandra got the apple there.
+2 Sandra left the apple.
+3 What is Sandra carrying? 	nothing	1 2
+4 Daniel took the apple there.
+5 Daniel dropped the apple.
+6 What is Daniel carrying? 	nothing	4 5
+7 John grabbed the football there.
+8 John put down the football.
+9 What is John carrying? 	nothing	7 8
+10 Sandra went back to the bathroom.
+11 Daniel journeyed to the office.
+12 What is Daniel carrying? 	nothing	4 5
+13 John grabbed the football there.
+14 John left the football.
+15 What is John carrying? 	nothing	7 8 13 14

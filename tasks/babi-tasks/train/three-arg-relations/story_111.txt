@@ -1,0 +1,21 @@
+1 Jeff went back to the hallway.
+2 Mary travelled to the bedroom.
+3 Mary travelled to the garden.
+4 Mary journeyed to the kitchen.
+5 Mary grabbed the football there.
+6 Mary travelled to the bedroom.
+7 Mary handed the football to Fred.
+8 Fred handed the football to Mary.
+9 What did Fred give to Mary? 	football	8
+10 Mary gave the football to Fred.
+11 Fred went back to the kitchen.
+12 Who gave the football? 	Mary	10
+13 Fred went back to the hallway.
+14 Fred gave the football to Jeff.
+15 Who received the football? 	Jeff	14
+16 Jeff handed the football to Fred.
+17 Jeff travelled to the bedroom.
+18 Who gave the football to Fred? 	Jeff	16
+19 Jeff went to the kitchen.
+20 Fred went to the bathroom.
+21 Who gave the football? 	Jeff	16

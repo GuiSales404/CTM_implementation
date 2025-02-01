@@ -1,0 +1,19 @@
+1 Sandra picked up the apple there.
+2 John took the football there.
+3 Sandra put down the apple.
+4 John dropped the football.
+5 Mary got the milk there.
+6 Daniel went to the kitchen.
+7 Is Daniel in the bedroom? 	no	6
+8 John moved to the hallway.
+9 Mary discarded the milk there.
+10 Is John in the hallway? 	yes	8
+11 Mary picked up the milk there.
+12 Daniel travelled to the hallway.
+13 Is Daniel in the bathroom? 	no	12
+14 Sandra got the apple there.
+15 Sandra discarded the apple there.
+16 Is Daniel in the hallway? 	yes	12
+17 Sandra went back to the kitchen.
+18 Sandra got the football there.
+19 Is Sandra in the kitchen? 	yes	17

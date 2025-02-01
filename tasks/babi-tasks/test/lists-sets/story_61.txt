@@ -1,0 +1,15 @@
+1 Sandra grabbed the milk there.
+2 Mary travelled to the office.
+3 What is Sandra carrying? 	milk	1
+4 Sandra grabbed the apple there.
+5 Sandra discarded the milk.
+6 What is Sandra carrying? 	apple	1 5 4
+7 Mary got the milk there.
+8 Sandra put down the apple.
+9 What is Sandra carrying? 	nothing	1 5 4 8
+10 Mary left the milk there.
+11 Mary grabbed the apple there.
+12 What is Mary carrying? 	apple	7 10 11
+13 Mary journeyed to the garden.
+14 Sandra journeyed to the kitchen.
+15 What is Sandra carrying? 	nothing	1 5 4 8

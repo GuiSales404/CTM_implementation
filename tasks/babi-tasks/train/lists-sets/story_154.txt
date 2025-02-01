@@ -1,0 +1,15 @@
+1 John picked up the apple there.
+2 John left the apple.
+3 What is John carrying? 	nothing	1 2
+4 John took the apple there.
+5 Sandra took the milk there.
+6 What is John carrying? 	apple	1 2 4
+7 Sandra picked up the football there.
+8 Sandra dropped the milk.
+9 What is John carrying? 	apple	1 2 4
+10 Sandra picked up the milk there.
+11 Mary went back to the hallway.
+12 What is Sandra carrying? 	milk,football	5 8 10 7
+13 Mary went to the bedroom.
+14 John left the apple.
+15 What is John carrying? 	nothing	1 2 4 14

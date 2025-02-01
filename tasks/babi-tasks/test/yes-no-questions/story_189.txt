@@ -1,0 +1,19 @@
+1 Daniel grabbed the milk there.
+2 Daniel dropped the milk.
+3 Daniel picked up the milk there.
+4 Mary grabbed the football there.
+5 Daniel journeyed to the bedroom.
+6 Daniel journeyed to the kitchen.
+7 Is Daniel in the bedroom? 	no	6
+8 Mary left the football.
+9 Mary got the football there.
+10 Is Daniel in the bathroom? 	no	6
+11 Mary put down the football.
+12 Sandra moved to the kitchen.
+13 Is Daniel in the bedroom? 	no	6
+14 Daniel journeyed to the hallway.
+15 John travelled to the office.
+16 Is John in the hallway? 	no	15
+17 Daniel grabbed the apple there.
+18 Mary went back to the hallway.
+19 Is John in the office? 	yes	15

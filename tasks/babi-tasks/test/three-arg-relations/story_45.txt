@@ -1,0 +1,79 @@
+1 Jeff went back to the kitchen.
+2 Fred travelled to the bathroom.
+3 Mary moved to the office.
+4 Jeff travelled to the hallway.
+5 Mary moved to the kitchen.
+6 Jeff moved to the kitchen.
+7 Mary journeyed to the bedroom.
+8 Mary journeyed to the hallway.
+9 Fred moved to the kitchen.
+10 Mary travelled to the garden.
+11 Mary grabbed the football there.
+12 Mary grabbed the apple there.
+13 Mary travelled to the office.
+14 Bill went back to the bathroom.
+15 Bill journeyed to the garden.
+16 Fred journeyed to the hallway.
+17 Bill travelled to the bathroom.
+18 Fred moved to the office.
+19 Mary journeyed to the bedroom.
+20 Jeff journeyed to the office.
+21 Mary went to the garden.
+22 Mary left the football there.
+23 Fred journeyed to the hallway.
+24 Bill travelled to the hallway.
+25 Mary discarded the apple there.
+26 Fred went to the bathroom.
+27 Mary grabbed the apple there.
+28 Mary put down the apple.
+29 Mary took the apple there.
+30 Mary picked up the football there.
+31 Mary left the apple.
+32 Mary left the football.
+33 Fred went back to the bedroom.
+34 Mary got the football there.
+35 Mary went back to the kitchen.
+36 Jeff went back to the hallway.
+37 Fred picked up the milk there.
+38 Fred put down the milk.
+39 Fred got the milk there.
+40 Fred put down the milk.
+41 Mary went back to the bathroom.
+42 Mary put down the football.
+43 Mary travelled to the hallway.
+44 Fred journeyed to the hallway.
+45 Bill moved to the kitchen.
+46 Mary moved to the bedroom.
+47 Mary moved to the garden.
+48 Fred travelled to the bathroom.
+49 Mary went back to the hallway.
+50 Bill went back to the hallway.
+51 Bill went back to the garden.
+52 Fred took the football there.
+53 Bill picked up the apple there.
+54 Bill journeyed to the office.
+55 Jeff travelled to the garden.
+56 Fred discarded the football.
+57 Bill dropped the apple.
+58 Bill picked up the apple there.
+59 Bill went back to the bedroom.
+60 Mary moved to the office.
+61 Bill went back to the hallway.
+62 Bill left the apple.
+63 Bill picked up the apple there.
+64 Jeff went to the hallway.
+65 Mary went back to the hallway.
+66 Bill handed the apple to Mary.
+67 Who gave the apple to Mary? 	Bill	66
+68 Mary dropped the apple.
+69 Fred travelled to the kitchen.
+70 Who gave the apple to Mary? 	Bill	66
+71 Mary got the apple there.
+72 Mary handed the apple to Bill.
+73 Who gave the apple to Bill? 	Mary	72
+74 Bill gave the apple to Mary.
+75 Mary gave the apple to Bill.
+76 Who did Mary give the apple to? 	Bill	75
+77 Bill passed the apple to Mary.
+78 Mary left the apple.
+79 What did Bill give to Mary? 	apple	77

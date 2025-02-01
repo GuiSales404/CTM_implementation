@@ -1,0 +1,19 @@
+1 Bill got the apple there.
+2 Bill passed the apple to Fred.
+3 Who gave the apple to Fred? 	Bill	2
+4 Bill went back to the garden.
+5 Bill travelled to the bedroom.
+6 Who gave the apple? 	Bill	2
+7 Fred put down the apple.
+8 Bill travelled to the hallway.
+9 What did Bill give to Fred? 	apple	2
+10 Fred got the apple there.
+11 Jeff picked up the football there.
+12 Jeff discarded the football.
+13 Jeff journeyed to the kitchen.
+14 Fred gave the apple to Jeff.
+15 Jeff gave the apple to Fred.
+16 Who did Jeff give the apple to? 	Fred	15
+17 Bill took the milk there.
+18 Fred travelled to the bathroom.
+19 Who gave the apple to Fred? 	Jeff	15

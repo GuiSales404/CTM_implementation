@@ -1,0 +1,15 @@
+1 John moved to the bathroom.
+2 Daniel got the milk there.
+3 How many objects is Daniel carrying? 	one	2
+4 Daniel grabbed the apple there.
+5 Daniel gave the apple to John.
+6 How many objects is Daniel carrying? 	one	2 4 5
+7 Mary moved to the bathroom.
+8 John handed the apple to Mary.
+9 How many objects is John carrying? 	none	5 8
+10 Daniel put down the milk.
+11 Mary passed the apple to John.
+12 How many objects is Mary carrying? 	none	8 11
+13 John passed the apple to Mary.
+14 Mary gave the apple to John.
+15 How many objects is Daniel carrying? 	none	2 4 5 10

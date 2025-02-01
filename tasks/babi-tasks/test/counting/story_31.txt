@@ -1,0 +1,21 @@
+1 Daniel went to the kitchen.
+2 Daniel travelled to the hallway.
+3 John moved to the office.
+4 John moved to the kitchen.
+5 Daniel moved to the bathroom.
+6 John moved to the bathroom.
+7 Daniel got the football there.
+8 Daniel handed the football to John.
+9 How many objects is Daniel carrying? 	none	7 8
+10 John passed the football to Sandra.
+11 Sandra handed the football to John.
+12 How many objects is Daniel carrying? 	none	7 8
+13 John handed the football to Sandra.
+14 Sandra went back to the hallway.
+15 How many objects is Daniel carrying? 	none	7 8
+16 Sandra left the football.
+17 John went back to the bedroom.
+18 How many objects is John carrying? 	none	8 10 11 13
+19 John went to the office.
+20 Sandra picked up the football there.
+21 How many objects is Sandra carrying? 	one	10 11 13 16 20

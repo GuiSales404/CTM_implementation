@@ -1,0 +1,15 @@
+1 Mary travelled to the hallway.
+2 Mary journeyed to the garden.
+3 Is Mary in the hallway? 	no	2
+4 Mary moved to the kitchen.
+5 John went back to the bathroom.
+6 Is Mary in the bedroom? 	no	4
+7 John journeyed to the bedroom.
+8 Sandra got the football there.
+9 Is Mary in the office? 	no	4
+10 Sandra put down the football.
+11 Mary travelled to the garden.
+12 Is John in the garden? 	no	7
+13 Mary got the apple there.
+14 Mary picked up the milk there.
+15 Is Mary in the garden? 	yes	11

@@ -1,0 +1,19 @@
+1 Mary went to the bathroom.
+2 Jeff took the apple there.
+3 Bill journeyed to the office.
+4 Jeff journeyed to the office.
+5 Jeff passed the apple to Bill.
+6 Bill handed the apple to Jeff.
+7 Who received the apple? 	Jeff	6
+8 Jeff gave the apple to Bill.
+9 Bill handed the apple to Jeff.
+10 Who gave the apple? 	Bill	9
+11 Jeff picked up the football there.
+12 Jeff handed the apple to Bill.
+13 What did Jeff give to Bill? 	apple	12
+14 Mary went to the kitchen.
+15 Bill handed the apple to Jeff.
+16 What did Bill give to Jeff? 	apple	15
+17 Mary journeyed to the bathroom.
+18 Mary moved to the hallway.
+19 Who received the apple? 	Jeff	15

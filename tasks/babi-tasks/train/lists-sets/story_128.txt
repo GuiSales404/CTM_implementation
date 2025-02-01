@@ -1,0 +1,15 @@
+1 John travelled to the kitchen.
+2 John took the apple there.
+3 What is John carrying? 	apple	2
+4 John travelled to the garden.
+5 Sandra moved to the bathroom.
+6 What is John carrying? 	apple	2
+7 John journeyed to the hallway.
+8 Daniel went back to the bedroom.
+9 What is John carrying? 	apple	2
+10 John left the apple.
+11 Daniel went to the office.
+12 What is John carrying? 	nothing	2 10
+13 John got the apple there.
+14 Sandra went to the hallway.
+15 What is John carrying? 	apple	2 10 13

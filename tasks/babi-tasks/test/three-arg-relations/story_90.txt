@@ -1,0 +1,15 @@
+1 Mary picked up the apple there.
+2 Mary gave the apple to Fred.
+3 What did Mary give to Fred? 	apple	2
+4 Mary moved to the bedroom.
+5 Bill took the milk there.
+6 Who did Mary give the apple to? 	Fred	2
+7 Bill handed the milk to Mary.
+8 Mary passed the milk to Bill.
+9 What did Mary give to Bill? 	milk	8
+10 Bill gave the milk to Mary.
+11 Mary handed the milk to Bill.
+12 Who received the milk? 	Bill	11
+13 Fred dropped the apple.
+14 Bill gave the milk to Mary.
+15 What did Bill give to Mary? 	milk	14

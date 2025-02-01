@@ -1,0 +1,15 @@
+1 Sandra took the football there.
+2 Sandra went to the bedroom.
+3 What is Sandra carrying? 	football	1
+4 Mary moved to the hallway.
+5 Sandra discarded the football.
+6 What is Sandra carrying? 	nothing	1 5
+7 John went back to the hallway.
+8 Mary travelled to the office.
+9 What is Sandra carrying? 	nothing	1 5
+10 Sandra got the football there.
+11 Daniel moved to the hallway.
+12 What is Sandra carrying? 	football	1 5 10
+13 Daniel took the milk there.
+14 Sandra left the football.
+15 What is Sandra carrying? 	nothing	1 5 10 14

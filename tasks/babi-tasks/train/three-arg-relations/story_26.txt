@@ -1,0 +1,19 @@
+1 Fred picked up the apple there.
+2 Bill travelled to the kitchen.
+3 Bill got the milk there.
+4 Jeff went to the kitchen.
+5 Bill passed the milk to Jeff.
+6 Jeff handed the milk to Bill.
+7 Who did Jeff give the milk to? 	Bill	6
+8 Bill passed the milk to Jeff.
+9 Jeff gave the milk to Bill.
+10 Who did Jeff give the milk to? 	Bill	9
+11 Fred left the apple.
+12 Bill left the milk.
+13 What did Jeff give to Bill? 	milk	9
+14 Mary journeyed to the kitchen.
+15 Bill grabbed the milk there.
+16 What did Jeff give to Bill? 	milk	9
+17 Fred got the apple there.
+18 Bill gave the milk to Mary.
+19 Who did Bill give the milk to? 	Mary	18

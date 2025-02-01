@@ -1,0 +1,15 @@
+1 Daniel grabbed the football there.
+2 John got the apple there.
+3 What is John carrying? 	apple	2
+4 John left the apple.
+5 John journeyed to the hallway.
+6 What is John carrying? 	nothing	2 4
+7 John travelled to the garden.
+8 Daniel journeyed to the hallway.
+9 What is John carrying? 	nothing	2 4
+10 Daniel discarded the football.
+11 Daniel got the football there.
+12 What is Daniel carrying? 	football	1 10 11
+13 John moved to the office.
+14 John went back to the bedroom.
+15 What is Daniel carrying? 	football	1 10 11

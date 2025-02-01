@@ -1,0 +1,71 @@
+1 Daniel picked up the apple.
+2 Daniel discarded the apple.
+3 Mary went back to the garden.
+4 Mary journeyed to the hallway.
+5 John went back to the office.
+6 John picked up the apple.
+7 Daniel travelled to the kitchen.
+8 John left the apple there.
+9 Daniel went to the bathroom.
+10 John took the apple.
+11 Mary went back to the office.
+12 Daniel went back to the office.
+13 Sandra journeyed to the kitchen.
+14 Sandra moved to the bedroom.
+15 John journeyed to the bedroom.
+16 John went to the hallway.
+17 Sandra went to the bathroom.
+18 John left the apple.
+19 Where was the apple before the hallway? 	bedroom	18 16 15
+20 John got the apple.
+21 John travelled to the kitchen.
+22 Sandra journeyed to the office.
+23 Sandra went to the bedroom.
+24 Sandra travelled to the hallway.
+25 John dropped the apple.
+26 John took the apple.
+27 Sandra moved to the bedroom.
+28 John went back to the bedroom.
+29 Sandra moved to the hallway.
+30 John left the apple there.
+31 John journeyed to the hallway.
+32 Daniel moved to the bathroom.
+33 Daniel went to the bedroom.
+34 John went back to the bathroom.
+35 Daniel took the apple.
+36 Sandra journeyed to the kitchen.
+37 Daniel left the apple there.
+38 Mary moved to the bathroom.
+39 Sandra travelled to the bedroom.
+40 Daniel took the apple.
+41 Sandra travelled to the bathroom.
+42 Daniel left the apple.
+43 Daniel took the apple.
+44 Sandra travelled to the office.
+45 Daniel went to the office.
+46 Daniel journeyed to the bathroom.
+47 John went back to the office.
+48 Where was the apple before the bathroom? 	office	43 46 45
+49 Mary moved to the office.
+50 Daniel went to the kitchen.
+51 Daniel discarded the apple.
+52 Daniel got the apple.
+53 Sandra went back to the bathroom.
+54 Sandra travelled to the kitchen.
+55 Mary went back to the bedroom.
+56 Daniel travelled to the bedroom.
+57 Mary moved to the bathroom.
+58 Daniel went back to the hallway.
+59 Daniel discarded the apple.
+60 Daniel took the apple.
+61 Daniel moved to the bedroom.
+62 Sandra moved to the office.
+63 Daniel went to the garden.
+64 John journeyed to the hallway.
+65 Where was the apple before the garden? 	bedroom	60 63 61
+66 Daniel put down the apple.
+67 John journeyed to the bathroom.
+68 Where was the apple before the garden? 	bedroom	66 63 61
+69 Mary went to the bedroom.
+70 Daniel went back to the hallway.
+71 Where was the apple before the garden? 	bedroom	66 63 61

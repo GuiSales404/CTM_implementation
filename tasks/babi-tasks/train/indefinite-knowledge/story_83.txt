@@ -1,0 +1,15 @@
+1 Fred is either in the school or the office.
+2 Mary is either in the school or the kitchen.
+3 Is Fred in the office? 	maybe	1
+4 Bill is in the park.
+5 Julie journeyed to the park.
+6 Is Mary in the cinema? 	no	2
+7 Bill is either in the cinema or the school.
+8 Julie is in the kitchen.
+9 Is Bill in the cinema? 	maybe	7
+10 Fred went to the kitchen.
+11 Julie journeyed to the bedroom.
+12 Is Fred in the bedroom? 	no	10
+13 Mary is in the park.
+14 Bill moved to the bedroom.
+15 Is Mary in the bedroom? 	no	13
