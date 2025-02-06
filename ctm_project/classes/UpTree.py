@@ -114,7 +114,7 @@ class UpTree:
                 gist_b = competitors[1]
                 winner_gist = self._competition_function(gist_a, gist_b)
                 winners.append(winner_gist)
-                om.competition(run=run, competitors=competitors, winners=winners)
+                # om.competition(run=run, competitors=competitors, winners=winners)
                 competitors = []
         self.compete(winners, 1+run, winners[-1].address)
 

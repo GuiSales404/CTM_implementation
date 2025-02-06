@@ -64,7 +64,7 @@ class llm_processor:
         self.model_path = model_path
 
         if model_path == "lm-studio":
-            self.messages = messages if messages is not None else [{'role': 'system', 'content': 'Você deve ler um texto e expressar ideia(s) sobre ele. Retorne a ideia.'}]
+            self.messages = messages if messages is not None else [{'role': 'system', 'content': 'Você irá receber um texto que irá contextualizar um problema. Preste atenção para responder a pergunta quando ela aparecer.'}]
             self.temperature = temperature if temperature is not None else round(random.uniform(0.1, 1), 1)
 
         else:
@@ -109,7 +109,9 @@ class llm_processor:
                     replacer = f"{analysed.gist}"
                 replacer = f"{analysed}"
                 self.messages[-1]['content'] = replacer
-                
+                # print('\nHistórico:')
+                # for message in self.messages:
+                #     print(f"\t{message['role']}: {message['content']}")
             response = client.chat.completions.create(
                                                         model='llama3-8b-8192',
                                                         messages=self.messages,

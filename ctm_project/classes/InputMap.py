@@ -31,7 +31,7 @@ class InputMap:
         
         if test_content == True:
             self.partitioned = content
-            
+        
         self.input_gist = []
         self.generate_input_content()
 
@@ -42,7 +42,6 @@ class InputMap:
     
     def generate_input_content(self):
         input_gist = []
-        
         for sentence in self.partitioned:
             input_gist.append(str({
                 "sentence": sentence,
@@ -54,5 +53,5 @@ class InputMap:
                 "sentiment_analysis": self.sentiment_anaysis.process(sentence),
                 # "ner": self.ner.process(sentence)
             }))
-        
+
         self.input_gist = input_gist

@@ -31,16 +31,14 @@ class LTM:
         
         self.processors = [ProcessorNode() for x in range(processors)]
 
-    def process_input(self, chunk) -> None:
+    def process_input(self, chunk) -> list:
         result = []
         for processor in self.processors:
             result.append(processor.process_chunk_input(chunk, 'user'))
-        
         return result
     
-    def process_stm(self, chunk) -> None:
+    def process_stm(self, chunk) -> list:
         result = []
         for processor in self.processors:
             result.append(processor.process_chunk_LTM(chunk, 'system'))
-        
         return result

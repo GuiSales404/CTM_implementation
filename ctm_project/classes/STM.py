@@ -9,8 +9,6 @@ from groq import Groq
 from DiscreteClock import DiscreteClock as clock
 from OutputMap import OutputMap
 import os
-
-import emoji
 class STM:
     _instance = None 
 
@@ -31,13 +29,17 @@ class STM:
         self.past_address = None
         self.lc = None # LinkCentral
         self.om = OutputMap()
+        self.reference = None
+        self.contador = 0
         
     def configure(self, down_tree, input_map, links):
         self.dt = down_tree
         self.im = input_map
         self.lc = links
-        
+        self.reference = self.im.partitioned
+
     def set_chunk(self, chunk, first=False):
+        self.om.print_question(self.reference[self.contador])
         if first:
             self.actual_chunk = chunk
             self.history.append(chunk)
@@ -55,18 +57,25 @@ class STM:
             elif result == "1":
                 if len(self.im.input_gist) <= 0:
                     self.om.output(self.actual_chunk)
-                    print('\nSaída Final:', self.actual_chunk.gist)
                     self.om.generate_report()
                     self.lc.print_upper_diagonal()
                     return
                 
-                if self.naive_tokenizer(chunk.gist) > 25:
-                    summarized_story = self.summarize_history()
+                
+                # If the chunk is too long, summarize the history and add the new information. Only Apply for history compreehension.
+                # if self.naive_tokenizer(chunk.gist) > 25:
+                #     summarized_story = self.summarize_history()
+                #     ambient_input = self.im.input_gist.pop(0)
+                #     self.im.reference_input.pop(0)
+                #     new_gist = f"Histórico:{summarized_story} \n Informação Atual:{ambient_input}"
+                #     self.actual_chunk = Chunk(address='STM', time=f'{clock.get_actual_time}', gist=new_gist, weight=chunk.weight, intensity=chunk.intensity, mood=chunk.mood)
+                #     self.dt.broadcast(self.actual_chunk)
+                #     self.om.output(self.actual_chunk)
+                else:
                     ambient_input = self.im.input_gist.pop(0)
-                    new_gist = f"Histórico:{summarized_story} \n Informação Atual:{ambient_input}"
-                    self.actual_chunk = Chunk(address='STM', time=f'{clock.get_actual_time}', gist=new_gist, weight=chunk.weight, intensity=chunk.intensity, mood=chunk.mood)
+                    self.actual_chunk = Chunk(address='STM', time=f'{clock.get_actual_time}', gist=ambient_input, weight=chunk.weight, intensity=chunk.intensity, mood=chunk.mood)
+                    self.history.append(self.actual_chunk)
                     self.dt.broadcast(self.actual_chunk)
-                    self.om.output(self.actual_chunk)
 
     def get_chunk(self):
         return self.actual_chunk
@@ -79,28 +88,33 @@ class STM:
         Returns:
             str: The response from the model indicating whether to develop the idea further (0) or add new information (1).
         """
-        
         messages = []
-        for element in self.history:
-            if isinstance(element, Chunk):
-                messages.append(
-                    {
-                        "role": "system",
-                        "content": element.gist
-                    }
-                )
+        messages.append(
+            {
+                "role": "system",
+                "content": self.reference[self.contador]
+            }
+        )
+        messages.append(
+            {
+                "role": "system",
+                "content": interaction
+            }
+        )
         messages.append(
             {
                 "role": "user",
-                "content": f"Baseado no que foi apresentado até agora, é necessário desenvolver mais essa ideia: {interaction} ou ela já traz consigo uma informação suficiente e é melhor adicionar mais informações novas no sistema ? Se for necessário desenvolver mais a ideia retorne 0, caso já esteja suficiente e vamos adicionar mais informações retorne 1. Não retorne nenhum texto adicional."
+                "content": f"Tem certeza da resposta ou gostaría de conferir mais uma vez se está certo mesmo? Se for necessário conferir melhor a ideia retorne 0, caso já esteja suficiente retorne 1. Não retorne nenhum texto adicional."
             }
         )
-        
+
         response = self.client.chat.completions.create(
                                                         model='llama3-8b-8192',
                                                         messages=messages,
                                                         temperature=0.2
                                                     )
+        self.contador += 1
+        
         return response.choices[0].message.content
     
     def summarize_history(self):

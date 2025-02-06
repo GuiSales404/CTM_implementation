@@ -29,5 +29,5 @@ for file in files_to_check:
     if os.path.exists(file):
         os.remove(file)
 
-ctm = CTM(4, story)
+ctm = CTM(2, story)
 ctm.run()

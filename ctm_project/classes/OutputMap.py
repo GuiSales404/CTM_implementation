@@ -95,3 +95,8 @@ class OutputMap:
             file.write("-" * 40 + "\n")
 
         print(f"\n✅ Relatório salvo em: {file_name}")
+
+    def print_question(self, question):
+        print(f"\n🤔 Pergunta:")
+        for key, value in enumerate(question.split('.')):
+            print(f"\t{key+1}: {value}")
