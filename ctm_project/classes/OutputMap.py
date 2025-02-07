@@ -18,6 +18,9 @@ class OutputMap:
             self.outputs = []
             self.conscious_contents = []
             self.clock = DiscreteClock()
+            self.processors = None
+            self.qa_list = []
+            
     def output(self, Chunk):
         self.outputs.append(Chunk)
         print(f"\n💭Pensamento Gerado no tempo {self.clock.get_actual_time()}:", Chunk.gist)
@@ -70,33 +73,33 @@ class OutputMap:
             file_name (str): Nome do arquivo onde o relatório será salvo. Padrão: 'output_report.txt'.
         """
         
-        print("\n📜Relatório de Saída:")
-        print("-" * 40)
-        for i, output in enumerate(self.outputs):
-            print(f"Output {i}: {output.gist}")
-        print("-" * 40)
-        print("\n📜Conteúdo Consciente:")
-        print("-" * 40)
-        for i, content in enumerate(self.conscious_contents):
-            print(f"Conteúdo Consciente {i}: {content.gist}")
-        print("-" * 40)
-
-        
         with open(file_name, "w", encoding="utf-8") as file:
-            file.write("📜 Relatório de Saída:\n")
+            file.write("Processadores:\n")
             file.write("-" * 40 + "\n")
-            for i, output in enumerate(self.outputs):
-                file.write(f"Output {i}: {output.gist}\n")
+            for processor in self.processors:
+                file.write(f"\t- {processor.name}\n")
             file.write("-" * 40 + "\n")
             file.write("\n📜 Conteúdo Consciente:\n")
             file.write("-" * 40 + "\n")
             for i, content in enumerate(self.conscious_contents):
                 file.write(f"Conteúdo Consciente {i}: {content.gist}\n")
             file.write("-" * 40 + "\n")
-
+            file.write("\n📜 Perguntas e Respostas:\n")
+            file.write("-" * 40 + "\n")
+            for i, qa in enumerate(self.qa_list):
+                file.write(f"Pergunta {i+1}:\n")
+                for key, value in enumerate(qa[0].split('.')):
+                    file.write(f"\t{key+1}: {value}\n")
+                file.write(f"Resposta: {qa[1]}\n")
+                file.write("-" * 10 + "\n")
+            file.write("-" * 40 + "\n")
+            
         print(f"\n✅ Relatório salvo em: {file_name}")
 
     def print_question(self, question):
         print(f"\n🤔 Pergunta:")
         for key, value in enumerate(question.split('.')):
             print(f"\t{key+1}: {value}")
+            
+    def qa(self, question, answer):
+        self.qa_list.append((question, answer))

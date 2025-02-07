@@ -59,13 +59,14 @@ class llm_processor:
     #"stabilityai/stablelm-zephyr-3b"
     #"HuggingFaceH4/zephyr-7b-beta"
     #"stabilityai/stablelm-2-zephyr-1_6b"
-    def __init__(self, model_path="lm-studio", messages=None, temperature=None):
+    def __init__(self, model_path="lm-studio", messages=None, temperature=None, model_type=None):
         
         self.model_path = model_path
 
         if model_path == "lm-studio":
-            self.messages = messages if messages is not None else [{'role': 'system', 'content': 'Você irá receber um texto que irá contextualizar um problema. Preste atenção para responder a pergunta quando ela aparecer.'}]
+            self.messages = messages if messages is not None else [{'role': 'system', 'content': 'You will receive a text that provides context for a logical problem. You must solve the problem and return the answer. You don’t need to give extensive explanations about the reasoning, just what is necessary. I would like the final answer to have a clear marker. For example: \nExplanation:<>  \nAnswer: <>. The answer need to be most straight as possible and do not ad dtext after o before the answer.'}]
             self.temperature = temperature if temperature is not None else round(random.uniform(0.1, 1), 1)
+            self.model_type = model_type if model_type is not None else random.choice(['gemma2-9b-it', 'llama3-8b-8192', 'mixtral-8x7b-32768', 'llama-3.1-8b-instant', 'deepseek-r1-distill-llama-70b', 'llama3-70b-8192'])
 
         else:
             self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -79,7 +80,7 @@ class llm_processor:
                 self.tokenizer.pad_token_id = self.tokenizer.eos_token_id
     
     def get_id(self):
-        return self.model_path, self.temperature
+        return self.model_type, self.temperature
     
     def verify_input_type(self, input_message):
         if isinstance(input_message, list) and all(isinstance(item, dict) for item in input_message):
@@ -113,7 +114,7 @@ class llm_processor:
                 # for message in self.messages:
                 #     print(f"\t{message['role']}: {message['content']}")
             response = client.chat.completions.create(
-                                                        model='llama3-8b-8192',
+                                                        model=self.model_type,
                                                         messages=self.messages,
                                                         temperature=self.temperature
                                                     )

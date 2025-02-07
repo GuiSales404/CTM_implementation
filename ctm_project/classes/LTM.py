@@ -8,7 +8,7 @@ acting as the source of ideas, responses, and information processing that can ev
 """""
 
 from ProcessorNode import ProcessorNode
-
+from OutputMap import OutputMap as om
 class LTM:
     _instance = None 
 
@@ -30,7 +30,8 @@ class LTM:
             raise ValueError("Number of processors must be a power of 2")
         
         self.processors = [ProcessorNode() for x in range(processors)]
-
+        om().processors = self.processors
+        
     def process_input(self, chunk) -> list:
         result = []
         for processor in self.processors:

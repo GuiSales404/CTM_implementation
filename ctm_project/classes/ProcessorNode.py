@@ -4,7 +4,7 @@ from Chunk import Chunk
 class ProcessorNode():
     def __init__(self) -> None:
         self.processor = llm_processor()
-        model_name, temperature = llm_processor().get_id()
+        model_name, temperature = self.processor.get_id()
         self.name = f'{model_name}_{temperature}'
         self.parent = None
         self.memory = []

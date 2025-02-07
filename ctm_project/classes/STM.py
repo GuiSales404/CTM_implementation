@@ -27,10 +27,11 @@ class STM:
         self._initialized = True
         self.limit_maladaptive_daydreaming = 0
         self.past_address = None
+        self.past_answer = None
         self.lc = None # LinkCentral
         self.om = OutputMap()
         self.reference = None
-        self.contador = 0
+        self.counter = 0
         
     def configure(self, down_tree, input_map, links):
         self.dt = down_tree
@@ -39,23 +40,33 @@ class STM:
         self.reference = self.im.partitioned
 
     def set_chunk(self, chunk, first=False):
-        self.om.print_question(self.reference[self.contador])
+        print()
+        print('+'*50)
+        print('Contador:', self.counter)
+        print('Tamanho da Referência:', len(self.reference))
+        print('+'*50)
+        print()
         if first:
             self.actual_chunk = chunk
             self.history.append(chunk)
         else:
+            self.om.print_question(self.reference[self.counter])
             self.lc.strengthen(self.past_address, chunk.address)
             self.past_address = chunk.address
-            
+            self.past_answer = chunk.gist
             self.om.conscious_content(Chunk=chunk)
+
             result = self.evaluate_interaction(chunk.gist)
-            if result == "0" and self.limit_maladaptive_daydreaming < 3:
+            if result == "0" and self.limit_maladaptive_daydreaming < 1:
                 self.limit_maladaptive_daydreaming += 1
                 self.actual_chunk = chunk
                 self.history.append(chunk) 
                 self.dt.broadcast(chunk)
-            elif result == "1":
-                if len(self.im.input_gist) <= 0:
+            elif result == "1" or self.limit_maladaptive_daydreaming == 1:
+                self.limit_maladaptive_daydreaming = 0 
+                
+                if len(self.reference)-1 == self.counter:
+                    self.om.qa(self.reference[self.counter], chunk.gist)
                     self.om.output(self.actual_chunk)
                     self.om.generate_report()
                     self.lc.print_upper_diagonal()
@@ -71,11 +82,16 @@ class STM:
                 #     self.actual_chunk = Chunk(address='STM', time=f'{clock.get_actual_time}', gist=new_gist, weight=chunk.weight, intensity=chunk.intensity, mood=chunk.mood)
                 #     self.dt.broadcast(self.actual_chunk)
                 #     self.om.output(self.actual_chunk)
+                
                 else:
+                    self.om.qa(self.reference[self.counter], chunk.gist)
                     ambient_input = self.im.input_gist.pop(0)
+                    self.counter += 1
                     self.actual_chunk = Chunk(address='STM', time=f'{clock.get_actual_time}', gist=ambient_input, weight=chunk.weight, intensity=chunk.intensity, mood=chunk.mood)
                     self.history.append(self.actual_chunk)
                     self.dt.broadcast(self.actual_chunk)
+                    self.om.output(self.actual_chunk)
+                    
 
     def get_chunk(self):
         return self.actual_chunk
@@ -88,35 +104,40 @@ class STM:
         Returns:
             str: The response from the model indicating whether to develop the idea further (0) or add new information (1).
         """
-        messages = []
-        messages.append(
-            {
-                "role": "system",
-                "content": self.reference[self.contador]
-            }
-        )
-        messages.append(
-            {
-                "role": "system",
-                "content": interaction
-            }
-        )
-        messages.append(
-            {
-                "role": "user",
-                "content": f"Tem certeza da resposta ou gostaría de conferir mais uma vez se está certo mesmo? Se for necessário conferir melhor a ideia retorne 0, caso já esteja suficiente retorne 1. Não retorne nenhum texto adicional."
-            }
-        )
 
-        response = self.client.chat.completions.create(
-                                                        model='llama3-8b-8192',
-                                                        messages=messages,
-                                                        temperature=0.2
-                                                    )
-        self.contador += 1
+        if isinstance(interaction, str):
+            messages = []
+            messages.append(
+                {
+                    "role": "system",
+                    "content": self.reference[self.counter]
+                }
+            )
+            messages.append(
+                {
+                    "role": "system",
+                    "content": interaction
+                }
+            )
+            messages.append(
+                {
+                    "role": "user",
+                    "content": f"Tem certeza da resposta ou gostaría de conferir mais uma vez se está certo mesmo? Se for necessário conferir melhor a ideia retorne 0, caso já esteja suficiente retorne 1. Não retorne nenhum texto adicional." if self.past_answer is None else f"Sabendo que sua resposta anterior para essa mesma pergunta foi {self.past_answer}, tem certeza da resposta atual ou gostaría de conferir mais uma vez se está certo mesmo? Se for necessário conferir melhor a ideia retorne 0, caso já esteja suficiente retorne 1. Não retorne nenhum texto adicional."
+                }
+            )
+            
+            # print('\nHistórico de Avaliação:')
+            # for message in messages:
+            #     print(f"\t{message}")
+                
+            response = self.client.chat.completions.create(
+                                                            model='llama3-8b-8192',
+                                                            messages=messages,
+                                                            temperature=0.2
+                                                        )
+            
+            return response.choices[0].message.content
         
-        return response.choices[0].message.content
-    
     def summarize_history(self):
         """
         Summarizes the history of interactions.
