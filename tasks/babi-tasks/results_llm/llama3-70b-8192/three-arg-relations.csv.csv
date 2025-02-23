@@ -1,0 +1,6 @@
+question,y,y_hat
+Bill moved to the garden. Mary travelled to the bathroom. Fred moved to the bedroom. Mary took the milk there. Mary passed the milk to Jeff. Jeff passed the milk to Mary. What did Jeff give to Mary?,milk,The milk
+Mary moved to the office. Mary put down the milk. Who received the milk?,Mary,No one
+Mary went to the garden. Jeff went back to the kitchen. What did Jeff give to Mary?,milk,The milk
+Fred moved to the hallway. Jeff moved to the bathroom. Mary journeyed to the office. Bill moved to the bedroom. Mary picked up the apple there. Fred journeyed to the bathroom. Mary travelled to the garden. Bill went to the office. Jeff travelled to the office. Bill moved to the kitchen. Jeff grabbed the milk there. Fred went to the bedroom. Mary discarded the apple. Mary took the apple there. Jeff went back to the garden. Jeff dropped the milk. Mary got the milk there. Jeff journeyed to the office. Mary moved to the office. Bill went to the bedroom. Bill took the football there. Mary handed the apple to Jeff. Who did Mary give the apple to?,Jeff,Jeff
+Jeff passed the apple to Mary. Bill discarded the football. Who gave the apple?,Jeff,Mary

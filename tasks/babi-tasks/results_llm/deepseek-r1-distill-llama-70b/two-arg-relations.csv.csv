@@ -1,0 +1,14 @@
+question,y,y_hat
+The garden is west of the bedroom. The bathroom is east of the bedroom. What is the bedroom west of?,bathroom,"<think>
+Okay, so I've got this problem here about the layout of some rooms. Let me try to visualize it step by step. The problem says, ""The garden is west of the bedroom. The bathroom is east of the bedroom. What is the bedroom west of?"" Hmm, I need to figure out what room or area is to the west of the bedroom based on the given information.
+
+First, I'll break down the information. The garden is west of the bedroom. That means if I imagine the bedroom in the center, the garden is to the left (west) of it. Then, the bathroom is east of the bedroom, so that would be to the right (east) of the bedroom. So far, I have Bedroom in the middle, Garden to the west, and Bathroom to the east.
+
+Now, the question is asking what the bedroom is west of. So, I need to find out what is located to the east of the bedroom because if the bedroom is west of something, that something must be east of the bedroom. From the given information, the bathroom is east of the bedroom. Therefore, the bedroom is west of the bathroom.
+
+Wait, let me make sure I'm not mixing up the directions. If the garden is west of the bedroom, then the bedroom is east of the garden. Similarly, the bathroom is east of the bedroom, so the bedroom is west of the bathroom. That makes sense because each statement is giving the position relative to the bedroom. So, the bedroom is west of the bathroom. That should be the answer.
+</think>
+
+The bedroom is west of the bathroom. 
+
+Answer: Bathroom"

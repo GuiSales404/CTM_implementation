@@ -6,8 +6,6 @@ from InputMap import InputMap
 from OutputMap import OutputMap
 from DiscreteClock import DiscreteClock
 from Links import Link
-
-
 class CTM:
     
     def initialize_system(num_processors, im):

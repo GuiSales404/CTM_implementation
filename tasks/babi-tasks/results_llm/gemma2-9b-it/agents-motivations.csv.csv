@@ -1,0 +1,14 @@
+question,y,y_hat
+Sumit is bored. Where will sumit go?,garden,"This is an open ended question. Sumit could go anywhere. 
+"
+Jason is thirsty. Where will jason go?,kitchen,"The kitchen 
+"
+Antoine is bored. Where will antoine go?,garden,
+Yann is bored. Where will yann go?,garden,
+Sumit went to the garden. Why did sumit go to the garden?,bored,"He was bored.  
+"
+Yann moved to the garden. Why did yann go to the garden?,bored,
+Antoine went to the garden. Why did antoine go to the garden?,bored,
+Antoine took the football there. Why did antoine get the football?,bored,
+Jason went back to the kitchen. Why did jason go to the kitchen?,thirsty,
+Jason picked up the milk there. Why did jason get the milk?,thirsty,

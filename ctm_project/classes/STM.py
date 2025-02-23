@@ -40,12 +40,6 @@ class STM:
         self.reference = self.im.partitioned
 
     def set_chunk(self, chunk, first=False):
-        print()
-        print('+'*50)
-        print('Contador:', self.counter)
-        print('Tamanho da Referência:', len(self.reference))
-        print('+'*50)
-        print()
         if first:
             self.actual_chunk = chunk
             self.history.append(chunk)
@@ -122,7 +116,7 @@ class STM:
             messages.append(
                 {
                     "role": "user",
-                    "content": f"Tem certeza da resposta ou gostaría de conferir mais uma vez se está certo mesmo? Se for necessário conferir melhor a ideia retorne 0, caso já esteja suficiente retorne 1. Não retorne nenhum texto adicional." if self.past_answer is None else f"Sabendo que sua resposta anterior para essa mesma pergunta foi {self.past_answer}, tem certeza da resposta atual ou gostaría de conferir mais uma vez se está certo mesmo? Se for necessário conferir melhor a ideia retorne 0, caso já esteja suficiente retorne 1. Não retorne nenhum texto adicional."
+                    "content": f"is the answer correct? if not return 0; if it is correct return 1. Do not return any additional text." if self.past_answer is None else f"Knowing that your previous answer to this same question was {self.past_answer}, is the  current answer right? if is not right return 0; if it is already right, return 1. Do not return any additional text."
                 }
             )
             
@@ -131,7 +125,7 @@ class STM:
             #     print(f"\t{message}")
                 
             response = self.client.chat.completions.create(
-                                                            model='llama3-8b-8192',
+                                                            model='llama3-70b-8192',
                                                             messages=messages,
                                                             temperature=0.2
                                                         )
@@ -155,7 +149,7 @@ class STM:
             }
         ]
         response = self.client.chat.completions.create(
-                                                        model='llama3-8b-8192',
+                                                        model='llama3-70b-8192',
                                                         messages=message,
                                                         temperature=0.1
                                                     )

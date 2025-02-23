@@ -1,0 +1,7 @@
+question,y,y_hat
+The bathroom is north of the garden. The hallway is east of the garden. The bathroom is east of the office. The garden is east of the bedroom. The office is south of the kitchen. How do you go from the garden to the office?,"n,w","To go from the garden to the office, you need to follow these steps:
+
+1. Since the hallway is east of the garden, you can go east to the hallway.
+2. The bathroom is east of the office, but since the hallway is east of the garden, you can't go directly to the bathroom from the garden. 
+3. However, since the bathroom is east of the office, and the bathroom is north of the garden, you can go north from the garden to the bathroom. 
+4. Now that you are at the bathroom, you can go west to the office since the bathroom is east of the office."

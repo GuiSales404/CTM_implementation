@@ -1,0 +1,6 @@
+question,y,y_hat
+Bill journeyed to the cinema this morning. Bill moved to the office yesterday. Where was Bill before the cinema?,office,Office
+Fred went back to the bedroom yesterday. Bill travelled to the park this afternoon. Where was Bill before the park?,cinema,office
+This morning Fred journeyed to the school. Bill went to the cinema this evening. Where was Fred before the school?,bedroom,home
+This morning Mary moved to the office. Yesterday Mary moved to the bedroom. Where was Bill before the cinema?,park,There is no Bill mentioned in the context. The question is about Mary's movements.
+This afternoon Fred travelled to the bedroom. Mary journeyed to the school this afternoon. Where was Fred before the school?,bedroom,There is no mention of Fred going to the school. The question states that Mary journeyed to the school this afternoon.

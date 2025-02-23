@@ -1,0 +1,6 @@
+question,y,y_hat
+John went back to the bedroom. Afterwards he went to the office. Where is John?,office,Office
+Daniel went back to the office. After that he went to the bathroom. Where is Daniel?,bathroom,The office
+Daniel travelled to the kitchen. Afterwards he went to the office. Where is Daniel?,office,The office
+Mary journeyed to the kitchen. Following that she moved to the office. Where is Daniel?,office,"There is no mention of Daniel in the last question, it is about Mary."
+Mary travelled to the bedroom. Following that she went to the office. Where is Daniel?,office,"There is no mention of Daniel in the last question, it is about Mary."

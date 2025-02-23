@@ -1,0 +1,11 @@
+question,y,y_hat
+The box fits inside the container. The box of chocolates fits inside the box. The chest fits inside the suitcase. The chest is bigger than the box of chocolates. The chest is bigger than the chocolate. Is the box of chocolates bigger than the suitcase?,no,"no 
+"
+Is the chocolate bigger than the suitcase?,no,"no 
+"
+Does the suitcase fit in the box of chocolates?,no,"no 
+"
+Is the chocolate bigger than the suitcase?,no,"no 
+"
+Does the box of chocolates fit in the suitcase?,yes,"no 
+"

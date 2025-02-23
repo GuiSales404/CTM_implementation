@@ -1,0 +1,6 @@
+question,y,y_hat
+Daniel travelled to the kitchen. John journeyed to the kitchen. Where is John?,kitchen,John is in the kitchen.
+Sandra moved to the kitchen. Sandra went to the garden. Where is Sandra?,garden,In the garden.
+John travelled to the office. Daniel went to the bathroom. Where is Sandra?,garden,"In the garden. The text states that Sandra moved to the kitchen and then went to the garden. It does not mention any further movements, so we can assume that Sandra is still in the garden."
+Mary went back to the kitchen. Daniel moved to the kitchen. Where is Sandra?,garden,Sandra is in the garden.
+Mary journeyed to the bathroom. Daniel moved to the garden. Where is Daniel?,garden,Daniel is in the garden.

@@ -1,0 +1,8 @@
+question,y,y_hat
+John went back to the bedroom. Afterwards he went to the office. Where is John?,office,In the office.
+Daniel went back to the office. After that he went to the bathroom. Where is Daniel?,bathroom,"In the bathroom.
+
+(Daniel first went to the office, then went back to the office, and finally went to the bathroom. Therefore, he is currently in the bathroom.)"
+Daniel travelled to the kitchen. Afterwards he went to the office. Where is Daniel?,office,Daniel is in the office.
+Mary journeyed to the kitchen. Following that she moved to the office. Where is Daniel?,office,The problem does not provide information about Daniel's current location.
+Mary travelled to the bedroom. Following that she went to the office. Where is Daniel?,office,The text does not provide information about Daniel's current location.

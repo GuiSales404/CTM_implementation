@@ -1,0 +1,6 @@
+question,y,y_hat
+Daniel travelled to the kitchen. John journeyed to the kitchen. Where is John?,kitchen,The kitchen.
+Sandra moved to the kitchen. Sandra went to the garden. Where is Sandra?,garden,The garden.
+John travelled to the office. Daniel went to the bathroom. Where is Sandra?,garden,the garden
+Mary went back to the kitchen. Daniel moved to the kitchen. Where is Sandra?,garden,the garden
+Mary journeyed to the bathroom. Daniel moved to the garden. Where is Daniel?,garden,the garden

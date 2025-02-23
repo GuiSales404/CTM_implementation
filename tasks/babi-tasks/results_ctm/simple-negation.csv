@@ -1,0 +1,7 @@
+question,y,y_hat,task_number
+Daniel travelled to the garden. Sandra is in the bathroom. Is Sandra in the kitchen?,no,"Answer: No 
+",103
+John journeyed to the bedroom. Sandra is not in the bathroom. Is Sandra in the bathroom?,no,Answer: No,103
+John went to the bathroom. Mary travelled to the kitchen. Is Sandra in the bathroom?,no,Answer: No,103
+Mary travelled to the bathroom. Sandra journeyed to the bedroom. Is Mary in the bathroom?,yes,Answer: No,103
+Daniel journeyed to the bedroom. Sandra went back to the hallway. Is Daniel in the bedroom?,yes,Answer: False,103

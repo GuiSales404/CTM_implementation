@@ -1,0 +1,6 @@
+question,y,y_hat
+John went back to the bedroom. Afterwards he went to the office. Where is John?,office,office
+Daniel went back to the office. After that he went to the bathroom. Where is Daniel?,bathroom,bathroom
+Daniel travelled to the kitchen. Afterwards he went to the office. Where is Daniel?,office,office
+Mary journeyed to the kitchen. Following that she moved to the office. Where is Daniel?,office,No information about Daniel.
+Mary travelled to the bedroom. Following that she went to the office. Where is Daniel?,office,No information about Daniel.

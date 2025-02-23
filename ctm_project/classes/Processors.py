@@ -13,11 +13,41 @@ from transformers import T5Tokenizer, T5ForConditionalGeneration
 
 class sentiment_analysis:
     def __init__(self):
-        self.sentiment_analysis = pipeline("sentiment-analysis", model="nlptown/bert-base-multilingual-uncased-sentiment", device=0)
+        self.sentiment_analysis = pipeline(
+            "sentiment-analysis", 
+            model="nlptown/bert-base-multilingual-uncased-sentiment", 
+            device=0
+        )
+        self.tokenizer = AutoTokenizer.from_pretrained("nlptown/bert-base-multilingual-uncased-sentiment")
 
     def process(self, text):
-        return self.sentiment_analysis(text)
-    
+        # Tokeniza o texto sem truncar para verificar o tamanho real
+        tokens = self.tokenizer(text, add_special_tokens=True)["input_ids"]
+
+        # Se o texto for maior que 512 tokens, dividir em chunks
+        if len(tokens) > 512:
+            chunks = []
+            for i in range(0, len(tokens), 510):  # 510 para deixar espaço para tokens especiais
+                chunk = tokens[i:i + 510]
+                chunk = [self.tokenizer.cls_token_id] + chunk + [self.tokenizer.sep_token_id]  # Garantir tokens especiais
+                chunks.append(self.tokenizer.decode(chunk, skip_special_tokens=True))
+
+            # Aplicar análise de sentimento em cada chunk
+            results = self.sentiment_analysis(chunks)
+
+            # Média dos scores e o rótulo predominante
+            avg_score = sum([r["score"] for r in results]) / len(results)
+            label_counts = {}
+            for r in results:
+                label_counts[r["label"]] = label_counts.get(r["label"], 0) + 1
+
+            # Pegar o rótulo mais frequente
+            most_frequent_label = max(label_counts, key=label_counts.get)
+
+            return [{"label": most_frequent_label, "score": avg_score}]
+        else:
+            # Se o texto for pequeno, processar normalmente
+            return self.sentiment_analysis(text)
     
 class ner:
     def __init__(self):
@@ -64,9 +94,9 @@ class llm_processor:
         self.model_path = model_path
 
         if model_path == "lm-studio":
-            self.messages = messages if messages is not None else [{'role': 'system', 'content': 'You will receive a text that provides context for a logical problem. You must solve the problem and return the answer. You don’t need to give extensive explanations about the reasoning, just what is necessary. I would like the final answer to have a clear marker. For example: \nExplanation:<>  \nAnswer: <>. The answer need to be most straight as possible and do not ad dtext after o before the answer.'}]
+            self.messages = messages if messages is not None else [{'role': 'system', 'content': 'You will be provided with a sequence of story fragments that together form a coherent narrative. At certain point, you will be presented with a question offering two possible endings to the story. Your task is to analyze both options and determine which ending best aligns with the logical flow, thematic consistency, and causal coherence of the preceding story. Return only the number of the correct ending.'}] 
             self.temperature = temperature if temperature is not None else round(random.uniform(0.1, 1), 1)
-            self.model_type = model_type if model_type is not None else random.choice(['gemma2-9b-it', 'llama3-8b-8192', 'mixtral-8x7b-32768', 'llama-3.1-8b-instant', 'deepseek-r1-distill-llama-70b', 'llama3-70b-8192'])
+            self.model_type = model_type if model_type is not None else random.choice(['gemma2-9b-it', 'llama3-8b-8192', 'mixtral-8x7b-32768', 'llama-3.1-8b-instant', 'deepseek-r1-distill-llama-70b', 'llama3-70b-8192']) 
 
         else:
             self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")

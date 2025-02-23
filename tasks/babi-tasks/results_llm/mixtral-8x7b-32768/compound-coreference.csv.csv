@@ -1,0 +1,8 @@
+question,y,y_hat
+John and Sandra travelled to the garden. Then they moved to the bedroom. Where is John?,bedroom,"The text does not provide information about John's location after they moved to the bedroom. Therefore, it is not possible to determine where John is."
+Mary and John travelled to the bathroom. After that they journeyed to the hallway. Where is Mary?,hallway,We cannot determine Mary's location after they moved to the hallway. The text does not provide information about Mary's location after they travelled to the bathroom and moved to the hallway.
+Sandra and Daniel travelled to the office. Following that they went back to the hallway. Where is Sandra?,hallway,"Sandra is in the hallway.
+
+The text states that Sandra and Daniel travelled to the office, and then they went back to the hallway. Therefore, Sandra is currently in the hallway."
+Sandra and John travelled to the bedroom. Afterwards they travelled to the hallway. Where is Daniel?,hallway,"The text does not provide information about Daniel's location after they moved to the office and went back to the hallway. Therefore, it is not possible to determine where Daniel is."
+Mary and Sandra travelled to the office. Afterwards they went to the garden. Where is Sandra?,garden,

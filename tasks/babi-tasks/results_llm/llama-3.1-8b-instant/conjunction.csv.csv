@@ -1,0 +1,6 @@
+question,y,y_hat
+Sandra and Daniel travelled to the office. Sandra and Daniel went back to the kitchen. Where is Sandra?,kitchen,We can't determine where Sandra is because the problem doesn't provide any new information after the first statement.
+Mary and Sandra went to the hallway. Mary and Sandra went to the bathroom. Where is Mary?,bathroom,We can't determine where Mary is because the problem doesn't provide any new information after the first statement.
+Sandra and Mary moved to the kitchen. John and Sandra travelled to the bathroom. Where is Sandra?,bathroom,Sandra is in the bathroom
+Sandra and Mary went to the garden. Mary and Sandra went to the bedroom. Where is Mary?,bedroom,The bathroom
+Daniel and John went back to the hallway. Daniel and Mary journeyed to the office. Where is Mary?,office,The office

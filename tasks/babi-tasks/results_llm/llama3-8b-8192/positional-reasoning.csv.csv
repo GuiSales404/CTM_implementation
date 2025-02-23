@@ -1,0 +1,9 @@
+question,y,y_hat
+The red square is to the right of the triangle. The pink rectangle is below the red square. Is the triangle to the left of the pink rectangle?,yes,Yes
+Is the triangle to the right of the pink rectangle?,no,Yes
+Is the triangle below the pink rectangle?,no,Yes
+Is the triangle above the pink rectangle?,yes,Yes
+Is the pink rectangle to the right of the triangle?,yes,Yes
+Is the pink rectangle below the triangle?,yes,True
+Is the triangle to the right of the pink rectangle?,no,Yes
+Is the pink rectangle to the right of the triangle?,yes,Yes

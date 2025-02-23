@@ -1,0 +1,11 @@
+question,y,y_hat
+Sumit is bored. Where will sumit go?,garden,Park
+Jason is thirsty. Where will jason go?,kitchen,Park
+Antoine is bored. Where will antoine go?,garden,Park
+Yann is bored. Where will yann go?,garden,Park
+Sumit went to the garden. Why did sumit go to the garden?,bored,Park
+Yann moved to the garden. Why did yann go to the garden?,bored,Park
+Antoine went to the garden. Why did antoine go to the garden?,bored,Park
+Antoine took the football there. Why did antoine get the football?,bored,Park
+Jason went back to the kitchen. Why did jason go to the kitchen?,thirsty,
+Jason picked up the milk there. Why did jason get the milk?,thirsty,Jason is thirsty.

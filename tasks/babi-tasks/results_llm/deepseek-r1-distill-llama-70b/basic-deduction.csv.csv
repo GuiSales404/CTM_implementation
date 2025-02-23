@@ -1,0 +1,48 @@
+question,y,y_hat
+Cats are afraid of mice. Wolves are afraid of sheep. Sheep are afraid of mice. Jessica is a sheep. Gertrude is a cat. Mice are afraid of wolves. Winona is a sheep. Emily is a wolf. What is gertrude afraid of?,mouse,"<think>
+Alright, let's try to figure out what Gertrude is afraid of. So, the problem gives us a bunch of statements about who's afraid of whom, and then some information about Jessica, Gertrude, Winona, and Emily. I need to untangle all this.
+
+First, let's list out the given relationships:
+
+1. Cats are afraid of mice.
+2. Wolves are afraid of sheep.
+3. Sheep are afraid of mice.
+4. Jessica is a sheep.
+5. Gertrude is a cat.
+6. Mice are afraid of wolves.
+7. Winona is a sheep.
+8. Emily is a wolf.
+
+Okay, so the question is asking what Gertrude is afraid of. Since Gertrude is a cat, I should look at the first statement which says cats are afraid of mice. So, that seems straightforward—Gertrude, being a cat, should be afraid of mice.
+
+Wait, but let me make sure I'm not missing anything. Sometimes these logic problems have twists, so I should check all the connections. Let's see:
+
+- Gertrude is a cat. Cats fear mice.
+- Mice are afraid of wolves, which are afraid of sheep. But that's a different chain.
+- Jessica and Winona are sheep, so they're afraid of mice.
+- Emily is a wolf, so she's afraid of sheep.
+
+So, the chain is: Cats → Mice (cats fear mice), Wolves → Sheep (wolves fear sheep), Sheep → Mice (sheep fear mice), and Mice → Wolves (mice fear wolves). So, it's a cycle: Cats fear mice, mice fear wolves, wolves fear sheep, sheep fear mice again.
+
+But for Gertrude, since she's a cat, the direct fear is mice. There's no indication that cats fear anything else, so the answer should be mice.
+
+I don't think the other characters affect Gertrude's fear directly. It's just about her being a cat and the given rule that cats fear mice.
+</think>
+
+Gertrude is afraid of mice."
+What is jessica afraid of?,mouse,"<think>
+Alright, let's figure out what Jessica is afraid of. From the given information:
+
+1. Sheep are afraid of mice.
+2. Jessica is a sheep.
+
+Since Jessica is a sheep, and sheep are afraid of mice, it follows that Jessica is afraid of mice.
+
+I don't think there's any conflicting information here. The other points about cats, wolves, and wolves being afraid of sheep don't interfere with this conclusion. So, Jessica's fear is straightforward based on her being a sheep.
+</think>
+
+Jessica is afraid of mice."
+What is jessica afraid of?,mouse,"
+
+Jessica is afraid of mice."
+What is winona afraid of?,mouse,What is winona afraid of?

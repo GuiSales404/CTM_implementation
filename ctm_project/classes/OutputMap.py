@@ -23,11 +23,11 @@ class OutputMap:
             
     def output(self, Chunk):
         self.outputs.append(Chunk)
-        print(f"\n💭Pensamento Gerado no tempo {self.clock.get_actual_time()}:", Chunk.gist)
+        # print(f"\n💭Pensamento Gerado no tempo {self.clock.get_actual_time()}:", Chunk.gist)
 
     def conscious_content(self, Chunk):
         self.conscious_contents.append(Chunk)
-        print(f"\n💭Conteúdo Consciente no tempo {self.clock.get_actual_time()}:", Chunk.gist)
+        # print(f"\n💭Conteúdo Consciente no tempo {self.clock.get_actual_time()}:", Chunk.gist)
         
     def competition(run, competitors, winners, file_name="uptree_competition.txt"):
         """
@@ -86,20 +86,25 @@ class OutputMap:
             file.write("-" * 40 + "\n")
             file.write("\n📜 Perguntas e Respostas:\n")
             file.write("-" * 40 + "\n")
+            answers =[]
             for i, qa in enumerate(self.qa_list):
                 file.write(f"Pergunta {i+1}:\n")
                 for key, value in enumerate(qa[0].split('.')):
                     file.write(f"\t{key+1}: {value}\n")
                 file.write(f"Resposta: {qa[1]}\n")
+                answers.append(qa[1])
                 file.write("-" * 10 + "\n")
             file.write("-" * 40 + "\n")
+            file.write(f"### Respostas Completas: {answers[-1]}\n")
             
-        print(f"\n✅ Relatório salvo em: {file_name}")
+        # print(f"\n✅ Relatório salvo em: {file_name}")
 
     def print_question(self, question):
-        print(f"\n🤔 Pergunta:")
-        for key, value in enumerate(question.split('.')):
-            print(f"\t{key+1}: {value}")
+        # print(f"\n🤔 Pergunta:")
+        # for key, value in enumerate(question.split('.')):
+        #     print(f"\t{key+1}: {value}")
+        pass
+
             
     def qa(self, question, answer):
         self.qa_list.append((question, answer))

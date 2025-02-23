@@ -1,0 +1,20 @@
+question,y,y_hat
+Bill moved to the garden. Mary travelled to the bathroom. Fred moved to the bedroom. Mary took the milk there. Mary passed the milk to Jeff. Jeff passed the milk to Mary. What did Jeff give to Mary?,milk,The answer is: the milk.
+Mary moved to the office. Mary put down the milk. Who received the milk?,Mary,Nobody received the milk. Mary put it down in the office.
+Mary went to the garden. Jeff went back to the kitchen. What did Jeff give to Mary?,milk,"The milk.
+
+Confidence: 90%.
+
+Explanation:
+
+1. Mary went to the garden, but she did not have the milk with her because she passed it to Jeff before leaving.
+2. Jeff went back to the kitchen, but he did not pick up any other object because the text specifies that he gave something to Mary.
+3. Therefore, the only possible object that Jeff could have given to Mary is the milk.
+
+However, the text does not explicitly say that Jeff gave the milk back to Mary. It is possible that Jeff kept the milk and did not return it to Mary. Without further information, we cannot be 100% sure."
+Fred moved to the hallway. Jeff moved to the bathroom. Mary journeyed to the office. Bill moved to the bedroom. Mary picked up the apple there. Fred journeyed to the bathroom. Mary travelled to the garden. Bill went to the office. Jeff travelled to the office. Bill moved to the kitchen. Jeff grabbed the milk there. Fred went to the bedroom. Mary discarded the apple. Mary took the apple there. Jeff went back to the garden. Jeff dropped the milk. Mary got the milk there. Jeff journeyed to the office. Mary moved to the office. Bill went to the bedroom. Bill took the football there. Mary handed the apple to Jeff. Who did Mary give the apple to?,Jeff,Mary gave the apple to Jeff.
+Jeff passed the apple to Mary. Bill discarded the football. Who gave the apple?,Jeff,"The text does not specify who gave the apple. It only mentions that Jeff passed the apple to Mary and Bill discarded the football. Therefore, the answer is:
+
+The text does not specify who gave the apple.
+
+Confidence: 100%."

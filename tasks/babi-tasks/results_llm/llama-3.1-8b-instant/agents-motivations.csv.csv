@@ -1,0 +1,13 @@
+question,y,y_hat
+Sumit is bored. Where will sumit go?,garden,"Since the text does not provide any additional information, there are multiple possible answers. 
+
+However, if I had to make an educated guess, I would say that Sumit might go to the park."
+Jason is thirsty. Where will jason go?,kitchen,The kitchen
+Antoine is bored. Where will antoine go?,garden,The kitchen
+Yann is bored. Where will yann go?,garden,The kitchen
+Sumit went to the garden. Why did sumit go to the garden?,bored,"The text does not provide any additional information, but based on the initial context that Sumit is bored, it is likely that Sumit went to the garden because he is bored."
+Yann moved to the garden. Why did yann go to the garden?,bored,He is bored.
+Antoine went to the garden. Why did antoine go to the garden?,bored,He is bored.
+Antoine took the football there. Why did antoine get the football?,bored,He is bored.
+Jason went back to the kitchen. Why did jason go to the kitchen?,thirsty,He is thirsty.
+Jason picked up the milk there. Why did jason get the milk?,thirsty,He is thirsty.

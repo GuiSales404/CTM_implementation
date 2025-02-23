@@ -31,7 +31,7 @@ class InputMap:
         
         if test_content == True:
             self.partitioned = content
-        
+            
         self.input_gist = []
         self.generate_input_content()
 

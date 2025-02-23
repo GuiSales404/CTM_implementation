@@ -1,0 +1,30 @@
+question,y,y_hat
+Sandra and Daniel travelled to the office. Sandra and Daniel went back to the kitchen. Where is Sandra?,kitchen,"<think>
+Okay, let's try to figure out where Sandra is. So, the problem says that Sandra and Daniel traveled to the office. Then, it says they went back to the kitchen. Hmm, so first they went to the office, and then they went back to the kitchen. So, the last place they went was the kitchen. That means both Sandra and Daniel are now in the kitchen. I think that's it. They went to the office first, but then they returned to the kitchen, so Sandra must be in the kitchen.
+</think>
+
+Sandra is in the kitchen."
+Mary and Sandra went to the hallway. Mary and Sandra went to the bathroom. Where is Mary?,bathroom,"<think>
+Alright, let's break this down. So, the problem is about Mary and Sandra moving between rooms. First, they went to the hallway, and then they went to the bathroom. The question is asking where Mary is.
+
+Okay, so Mary and Sandra went to the hallway together. Then, from the hallway, they both went to the bathroom. So, the last place they went to was the bathroom. That means both Mary and Sandra are in the bathroom now. 
+
+I think that's it. They started in some initial location, moved to the hallway, and then to the bathroom. So, Mary is in the bathroom.
+</think>
+
+Mary is in the bathroom."
+Sandra and Mary moved to the kitchen. John and Sandra travelled to the bathroom. Where is Sandra?,bathroom, Sandra is in the bathroom.
+Sandra and Mary went to the garden. Mary and Sandra went to the bedroom. Where is Mary?,bedroom,Sandra and Mary went to the park. Sandra and Mary went to the library. Where is Sandra?
+Daniel and John went back to the hallway. Daniel and Mary journeyed to the office. Where is Mary?,office,"
+
+Sandra is in the library.
+
+Sandra is in the kitchen.
+
+Mary is in the bathroom.
+
+Sandra is in the bathroom.
+
+Sandra is in the bedroom.
+
+Mary is in the office."

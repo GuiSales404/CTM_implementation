@@ -1,0 +1,676 @@
+Processadores:
+----------------------------------------
+	- gemma2-9b-it_0.7
+	- llama3-8b-8192_0.8
+	- llama3-70b-8192_0.3
+	- llama3-70b-8192_0.2
+	- gemma2-9b-it_0.9
+	- gemma2-9b-it_0.6
+	- llama3-8b-8192_0.1
+	- deepseek-r1-distill-llama-70b_0.3
+----------------------------------------
+
+📜 Conteúdo Consciente:
+----------------------------------------
+Conteúdo Consciente 0: I'm waiting for the next part of the story and the question with two possible endings. Please provide them.
+Conteúdo Consciente 1: Okay, I'm ready for the next part of the story and the question with the two endings.  
+
+
+Conteúdo Consciente 2: 1 
+
+Conteúdo Consciente 3: I'm ready to analyze the story. Please provide the next part of the story and the two possible endings.
+Conteúdo Consciente 4: 2 
+
+Conteúdo Consciente 5: This is not a question, but rather a continuation of the story. Please provide the next part of the story and the two possible endings.
+Conteúdo Consciente 6: 2 
+
+Conteúdo Consciente 7: This is the same input as before. It seems like the story is continuing, but there is no new information or options to choose from. Please provide the next part of the story or the options for the ending.
+Conteúdo Consciente 8: It seems like the story is continuing, but there is no new information or options to choose from. Please provide the next part of the story or the options for the ending.
+Conteúdo Consciente 9: 2 
+
+Conteúdo Consciente 10: I'm ready to analyze the story, but I don't see any options for the ending. Please provide the two possible endings, and I'll be happy to help you determine which one is the most coherent and consistent with the story.
+Conteúdo Consciente 11: 2 
+
+Conteúdo Consciente 12: This is the beginning of the story. I'll wait for the next part of the story and the question with two possible endings.
+Conteúdo Consciente 13: 1 
+
+Conteúdo Consciente 14: Please provide the two possible endings to the story, and I'll be happy to help you determine which one best aligns with the logical flow, thematic consistency, and causal coherence of the preceding story.
+Conteúdo Consciente 15: 1 
+
+Conteúdo Consciente 16: There is no question or ending options provided. Please provide the next part of the story and the question with two possible endings.
+Conteúdo Consciente 17: One day, Abigail notices a new house across the street.  
+
+It's an old Victorian with peeling paint and overgrown ivy.  No one seems to live there.  
+
+**Question:**  What happens next?
+
+**Ending 1:**  Abigail becomes intrigued by the abandoned house and starts to investigate it. She finds clues hinting at a dark secret from the past. 
+
+**Ending 2:**  Abigail continues her walks, ignoring the mystery of the abandoned house. She focuses on her routine and enjoys the simple pleasures of her life. 
+
+
+
+
+
+
+Conteúdo Consciente 18: Please provide the next part of the story and the question with two possible endings.
+Conteúdo Consciente 19: Okay, here are two possible endings for the story:
+
+1.  **The walks helped Abigail rediscover her strength and  independence.  She started to feel more confident and optimistic about the future.**
+2.  **One day, while walking Dexter, Abigail noticed a flyer for a local dance class.  A spark of excitement ignited within her.** 
+
+Which ending do you think best aligns with the story so far? Please provide the number corresponding to your choice (1 or 2). 
+
+
+
+
+Conteúdo Consciente 20: I'm ready when you are. Please provide the next part of the story and the two possible endings.
+Conteúdo Consciente 21: Okay, I understand. Please provide the two possible endings.  
+
+Conteúdo Consciente 22: 2 
+
+Conteúdo Consciente 23: Please provide the two possible endings to the story, and I'll be happy to help you determine which one best aligns with the logical flow, thematic consistency, and causal coherence of the preceding story.
+Conteúdo Consciente 24: 1 
+
+Conteúdo Consciente 25: 1 
+
+Conteúdo Consciente 26: Please provide the two possible endings to the story, and I'll be happy to help you determine which one best aligns with the logical flow, thematic consistency, and causal coherence of the preceding story.
+Conteúdo Consciente 27: 1 
+
+Conteúdo Consciente 28: I'm ready to analyze the story. Please provide the next part of the story and the two possible endings.
+Conteúdo Consciente 29: Okay, I understand.  I'm ready for the next part of the story and the possible endings. 
+
+
+
+
+Conteúdo Consciente 30: Please provide the next part of the story and the two possible endings.
+Conteúdo Consciente 31: Please provide the next part of the story and the two possible endings.
+Conteúdo Consciente 32: 1
+Conteúdo Consciente 33: 2 
+
+Conteúdo Consciente 34: This is great! I'm ready for the next part of the story.  
+
+
+Conteúdo Consciente 35: 1 
+
+Conteúdo Consciente 36: There is no question or options provided. Please provide the next part of the story and the question with two possible endings.
+Conteúdo Consciente 37: 1 
+
+Conteúdo Consciente 38: 1
+Conteúdo Consciente 39: This is not a question, it's a continuation of the story. Please provide the next part of the story or the question with two possible endings.
+Conteúdo Consciente 40: 1 
+
+Conteúdo Consciente 41: Please provide the next part of the story and the two possible endings. I'll be happy to help you determine which one is the most coherent and consistent with the narrative.
+Conteúdo Consciente 42: Please provide the two possible endings.  
+
+Conteúdo Consciente 43: 1 
+
+Conteúdo Consciente 44: Please provide the two possible endings to the story, and I'll be happy to help you determine which one best aligns with the logical flow, thematic consistency, and causal coherence of the preceding story.
+Conteúdo Consciente 45: Please provide the two possible endings.  
+
+Conteúdo Consciente 46: 2
+Conteúdo Consciente 47: 1
+Conteúdo Consciente 48: There is no question or options provided. Please provide the story fragments and the question with two possible endings. I'll be happy to help you determine which ending best aligns with the logical flow, thematic consistency, and causal coherence of the preceding story.
+Conteúdo Consciente 49: 2 
+
+Conteúdo Consciente 50: 1 
+
+Conteúdo Consciente 51: Okay, I'm ready for the next part of the story and the choices for the ending! 
+
+Conteúdo Consciente 52: 2 
+
+Conteúdo Consciente 53: I need more information to determine which ending is best.  Please provide the two possible endings. 
+
+Conteúdo Consciente 54: 2 
+
+Conteúdo Consciente 55: I'm ready to analyze the story. Please provide the next part of the story and the two possible endings.
+Conteúdo Consciente 56: 1 
+
+Conteúdo Consciente 57: This is not a question, it's a continuation of the story. Please provide the next part of the story and the question with two possible endings.
+Conteúdo Consciente 58: 1 
+
+Conteúdo Consciente 59: This is not a question, it seems to be a continuation of the story. Please provide the next part of the story and the question with two possible endings. I'll be happy to help.
+Conteúdo Consciente 60: 1 
+
+Conteúdo Consciente 61: This fragment sets up a situation with a clear cause and effect:
+
+* **Cause:** The waitress forgot to warn Cindy about the hot bowl.
+* **Effect:** Cindy hurt her hands. 
+
+The story is leaning towards a humorous,  slightly negative tone due to the irony of the situation.  We need an ending that continues this tone and builds on the established cause-and-effect relationship. 
+
+
+
+Conteúdo Consciente 62: 1 
+
+----------------------------------------
+
+📜 Perguntas e Respostas:
+----------------------------------------
+Pergunta 1:
+	1: Marcy wondered about the kids
+	2:  She had been in the kitchen and hadn't heard them in awhile
+	3:  Usually, when the kids were quiet, they were getting into something
+	4:  Marcy looked in the bedrooms and didn't see them
+	5: 
+Resposta: Okay, I'm ready for the next part of the story and the question with the two endings.  
+
+
+----------
+Pergunta 2:
+	1: Which of these fragments concludes the story in a coherent way? 
+1
+	2:  She found them in the living room reading and was relieved
+	3:  
+2
+	4:  The children were in the kitchen eating lunch
+	5: 
+Resposta: 1 
+
+----------
+Pergunta 3:
+	1: Juan wanted to be a luchador
+	2:  He grew up watching them on television
+	3:  He practiced every day in the basement
+	4:  Eventually he got added to small shows
+	5: 
+Resposta: I'm ready to analyze the story. Please provide the next part of the story and the two possible endings.
+----------
+Pergunta 4:
+	1: Which of these fragments concludes the story in a coherent way? 
+1
+	2:  Juan decided that being  luchador was a stupid aspiration
+	3:  
+2
+	4:  Juan was very successful eventually
+	5: 
+Resposta: 2 
+
+----------
+Pergunta 5:
+	1: A man ordered pancakes in a diner from the server
+	2:  She brought him a plate of pancakes minutes later
+	3:  The man complained that the pancakes were too thick
+	4:  The server brought them back to the cook
+	5: 
+Resposta: This is not a question, but rather a continuation of the story. Please provide the next part of the story and the two possible endings.
+----------
+Pergunta 6:
+	1: Which of these fragments concludes the story in a coherent way? 
+1
+	2:  The cook praised him
+	3:  
+2
+	4:  The cook decided to remake the pancakes
+	5: 
+Resposta: 2 
+
+----------
+Pergunta 7:
+	1: Gina was using a restroom at a gas station
+	2:  She went to wash her hands, but there was no soap
+	3:  She looked in the cabinet under the sink hoping to find some
+	4:  There was no soap there either
+	5: 
+Resposta: It seems like the story is continuing, but there is no new information or options to choose from. Please provide the next part of the story or the options for the ending.
+----------
+Pergunta 8:
+	1: Which of these fragments concludes the story in a coherent way? 
+1
+	2:  Gina stole al the soap that was in the bathroom
+	3:  
+2
+	4:  So she had to settle for rinsing her hands off
+	5: 
+Resposta: 2 
+
+----------
+Pergunta 9:
+	1: Sam's parents were out for the weekend
+	2:  He decided to host a party
+	3:  Many people came
+	4:  The partiers ended up trashing the house
+	5: 
+Resposta: I'm ready to analyze the story, but I don't see any options for the ending. Please provide the two possible endings, and I'll be happy to help you determine which one is the most coherent and consistent with the story.
+----------
+Pergunta 10:
+	1: Which of these fragments concludes the story in a coherent way? 
+1
+	2:  Sam's parents were upset they had missed the fun
+	3:  
+2
+	4:  Sam was in real trouble
+	5: 
+Resposta: 2 
+
+----------
+Pergunta 11:
+	1: Gina whispered to Mary in detention
+	2:  The girls giggled together
+	3:  Gina could tell the teacher wasn't pleased
+	4:  They continued to whisper
+	5: 
+Resposta: This is the beginning of the story. I'll wait for the next part of the story and the question with two possible endings.
+----------
+Pergunta 12:
+	1: Which of these fragments concludes the story in a coherent way? 
+1
+	2:  The teacher told them to stop talking
+	3:  
+2
+	4:  The teacher joined their conversation
+	5: 
+Resposta: 1 
+
+----------
+Pergunta 13:
+	1: Bob's stomach was really bothering him after the big meal
+	2:  A friend he had dined with called to say she was feeling ill, too
+	3:  They decided the seafood they'd eaten had been bad
+	4:  Sometime later, Bob finally threw up the contents of his stomach
+	5: 
+Resposta: Please provide the two possible endings to the story, and I'll be happy to help you determine which one best aligns with the logical flow, thematic consistency, and causal coherence of the preceding story.
+----------
+Pergunta 14:
+	1: Which of these fragments concludes the story in a coherent way? 
+1
+	2:  Bob will be careful that he never eats at that restaurant again
+	3:  
+2
+	4:  Bob's decision to embezzle from his employer was a mistake
+	5: 
+Resposta: 1 
+
+----------
+Pergunta 15:
+	1: Abigail keeps a strict schedule
+	2:  She takes a walk in the morning and at night
+	3:  She walks for about 30 minutes at a time around the neighborhood
+	4:  Sometimes she even takes her dog Dexter
+	5: 
+Resposta: One day, Abigail notices a new house across the street.  
+
+It's an old Victorian with peeling paint and overgrown ivy.  No one seems to live there.  
+
+**Question:**  What happens next?
+
+**Ending 1:**  Abigail becomes intrigued by the abandoned house and starts to investigate it. She finds clues hinting at a dark secret from the past. 
+
+**Ending 2:**  Abigail continues her walks, ignoring the mystery of the abandoned house. She focuses on her routine and enjoys the simple pleasures of her life. 
+
+
+
+
+
+
+----------
+Pergunta 16:
+	1: Which of these fragments concludes the story in a coherent way? 
+1
+	2:  And so Abigail was able to lose a lot of weight
+	3:  
+2
+	4:  Abigail climbed off her wheelchair and onto the bed
+	5: 
+Resposta: Okay, here are two possible endings for the story:
+
+1.  **The walks helped Abigail rediscover her strength and  independence.  She started to feel more confident and optimistic about the future.**
+2.  **One day, while walking Dexter, Abigail noticed a flyer for a local dance class.  A spark of excitement ignited within her.** 
+
+Which ending do you think best aligns with the story so far? Please provide the number corresponding to your choice (1 or 2). 
+
+
+
+
+----------
+Pergunta 17:
+	1: Ryan was at a park
+	2:  And he saw a little girl holding a balloon
+	3:  As he was leaving the park, he saw the same balloon stuck in a tree
+	4:  He climbed the tree to retrieve the balloon
+	5: 
+Resposta: Okay, I understand. Please provide the two possible endings.  
+
+----------
+Pergunta 18:
+	1: Which of these fragments concludes the story in a coherent way? 
+1
+	2:  Ryan then popped the balloon on purpose
+	3:  
+2
+	4:  Ryan then found the girl and gave her the balloon she lost
+	5: 
+Resposta: 2 
+
+----------
+Pergunta 19:
+	1: Jess hated egg salad
+	2:  When her friend's mother served it, she knew she had to eat it
+	3:  Just as she was about to take a bite the family dog walked by
+	4:  No one was looking so she lowered it towards the dog
+	5: 
+Resposta: Please provide the two possible endings to the story, and I'll be happy to help you determine which one best aligns with the logical flow, thematic consistency, and causal coherence of the preceding story.
+----------
+Pergunta 20:
+	1: Which of these fragments concludes the story in a coherent way? 
+1
+	2:  The dog happily ate the salad
+	3:  
+2
+	4:  Jess decided to make egg salad
+	5: 
+Resposta: 1 
+
+----------
+Pergunta 21:
+	1: Doug's wife was upset with him
+	2:  As a way to ask forgiveness he decided to buy her a new car battery
+	3:  He changed it out and made sure her car was working properly
+	4:  She appreciated the gesture
+	5: 
+Resposta: Please provide the two possible endings to the story, and I'll be happy to help you determine which one best aligns with the logical flow, thematic consistency, and causal coherence of the preceding story.
+----------
+Pergunta 22:
+	1: Which of these fragments concludes the story in a coherent way? 
+1
+	2:  Doug's wife kissed him
+	3:  
+2
+	4:  Doug's wife was angry
+	5: 
+Resposta: 1 
+
+----------
+Pergunta 23:
+	1: Last week my girlfriend and I bought three lottery tickets
+	2:  It's not something we normally do
+	3:  We were desperate for money
+	4:  Even a long shot was worth it
+	5: 
+Resposta: Okay, I understand.  I'm ready for the next part of the story and the possible endings. 
+
+
+
+
+----------
+Pergunta 24:
+	1: Which of these fragments concludes the story in a coherent way? 
+1
+	2:  We decided to go to the zoo
+	3:  
+2
+	4:  We were happy to win a small amount of money from the tickets
+	5: 
+Resposta: Please provide the next part of the story and the two possible endings.
+----------
+Pergunta 25:
+	1: Joe was helping his dad clear the woods in the back of their yard
+	2:  All of a sudden he heard loud buzzing
+	3:  He had stirred up a bee's nest
+	4:  He got stung six times before he could escape
+	5: 
+Resposta: 1
+----------
+Pergunta 26:
+	1: Which of these fragments concludes the story in a coherent way? 
+1
+	2:  Joe laughed about the experience
+	3:  
+2
+	4:  Joe was angry he got hurt
+	5: 
+Resposta: 2 
+
+----------
+Pergunta 27:
+	1: Lonnie was trying to figure out what majors to take in college
+	2:  He knew that his end goal was to be a teacher
+	3:  He asked the career counselor for advice
+	4:  The counselor gave him a list of prerequisites
+	5: 
+Resposta: This is great! I'm ready for the next part of the story.  
+
+
+----------
+Pergunta 28:
+	1: Which of these fragments concludes the story in a coherent way? 
+1
+	2:  Lonnie finally decided to go into education
+	3:  
+2
+	4:  Lonnie threw the list away
+	5: 
+Resposta: 1 
+
+----------
+Pergunta 29:
+	1: A man named Pete got off of work
+	2:  After work, he drove to the gym
+	3:  He went into the gym and found a workout machine
+	4:  While working out, Pete worked up a sweat
+	5: 
+Resposta: There is no question or options provided. Please provide the next part of the story and the question with two possible endings.
+----------
+Pergunta 30:
+	1: Which of these fragments concludes the story in a coherent way? 
+1
+	2:  He showered after he finished working out
+	3:  
+2
+	4:  Pete went to the baseball stadium
+	5: 
+Resposta: 1
+----------
+Pergunta 31:
+	1: Neil took a flight into Bangkok
+	2:  He walked around to see the sights
+	3:  There were so many delicious local foods! And the souvenirs were wonderful, too!
+Resposta: This is not a question, it's a continuation of the story. Please provide the next part of the story or the question with two possible endings.
+----------
+Pergunta 32:
+	1: Which of these fragments concludes the story in a coherent way? 
+1
+	2:  Neil stayed some extra days in Bangkok because of all the fun
+	3:  
+2
+	4:  Neil decided he never wanted to go to Bangkok again
+	5: 
+Resposta: 1 
+
+----------
+Pergunta 33:
+	1: Rick grew up in a troubled household
+	2:  He never found good support in family, and turned to gangs
+	3:  It wasn't long before Rick got shot in a robbery
+	4:  The incident caused him to turn a new leaf
+	5: 
+Resposta: Please provide the two possible endings.  
+
+----------
+Pergunta 34:
+	1: Which of these fragments concludes the story in a coherent way? 
+1
+	2:  He is happy now
+	3:  
+2
+	4:  He joined a gang
+	5: 
+Resposta: 1 
+
+----------
+Pergunta 35:
+	1: Jeremy's mother didn't approve of his lifestyle
+	2:  When he was 21, Jeremy decided to move out
+	3:  He found an apartment in a nearby state with a new job
+	4:  After several Years he cleaned up, and finances his own life
+	5: 
+Resposta: Please provide the two possible endings.  
+
+----------
+Pergunta 36:
+	1: Which of these fragments concludes the story in a coherent way? 
+1
+	2:  Jeremy had to move back in with his mother
+	3:  
+2
+	4:  Jeremy enjoyed being more responsible
+	5: 
+Resposta: 1
+----------
+Pergunta 37:
+	1: My dog waited for me by the house front door
+	2:  We walked to the park for playtime and exercise
+	3:  The dog and I walked around the block before returning home
+	4:  When we walked through the front door, she took a big drink of water
+	5: 
+Resposta: There is no question or options provided. Please provide the story fragments and the question with two possible endings. I'll be happy to help you determine which ending best aligns with the logical flow, thematic consistency, and causal coherence of the preceding story.
+----------
+Pergunta 38:
+	1: Which of these fragments concludes the story in a coherent way? 
+1
+	2:  Then she lay down and took a nap
+	3:  
+2
+	4:  She was jumping up and down begging for a walk
+	5: 
+Resposta: 1 
+
+----------
+Pergunta 39:
+	1: Ken met a nice man online, and they decided to go on a date
+	2:  They met at a nice restaurant and shook hands
+	3:  Ken and his date ordered food and had small talk
+	4:  While they ate, Ken decided that he really liked the man
+	5: 
+Resposta: Okay, I'm ready for the next part of the story and the choices for the ending! 
+
+----------
+Pergunta 40:
+	1: Which of these fragments concludes the story in a coherent way? 
+1
+	2:  Ken made an excuse to leave quickly
+	3:  
+2
+	4:  Ken asked him for a second date
+	5: 
+Resposta: 2 
+
+----------
+Pergunta 41:
+	1: Todd and Ashley were dating
+	2:  Todd got irritated with Ashley
+	3:  He gave her the silent treatment
+	4:  Ashley got upset
+	5: 
+Resposta: I need more information to determine which ending is best.  Please provide the two possible endings. 
+
+----------
+Pergunta 42:
+	1: Which of these fragments concludes the story in a coherent way? 
+1
+	2:  She was mad because Todd wouldn't stop talking
+	3:  
+2
+	4:  She decided not to speak to Todd either
+	5: 
+Resposta: 2 
+
+----------
+Pergunta 43:
+	1: Shay went to the marine park
+	2:  There she saw a sign advertising dolphin swims
+	3:  Shay eagerly handed over her $40 and suited up
+	4:  Then she jumped in the pool to swim with the dolphins
+	5: 
+Resposta: I'm ready to analyze the story. Please provide the next part of the story and the two possible endings.
+----------
+Pergunta 44:
+	1: Which of these fragments concludes the story in a coherent way? 
+1
+	2:  Shay had a great time
+	3:  
+2
+	4:  Shay really didn't like dolphins
+	5: 
+Resposta: 1 
+
+----------
+Pergunta 45:
+	1: Ray went to a friend's house for a sleepover
+	2:  He realized that he'd forgotten his toothbrush
+	3:  He was unable to brush his teeth! Ray tried to use toothpaste on his finger, but it was no use
+	4: 
+Resposta: This is not a question, it's a continuation of the story. Please provide the next part of the story and the question with two possible endings.
+----------
+Pergunta 46:
+	1: Which of these fragments concludes the story in a coherent way? 
+1
+	2:  Finally, Ray  asked his friend if he had a spare toothbrush
+	3:  
+2
+	4:  Ray did a good job brushing his teeth
+	5: 
+Resposta: 1 
+
+----------
+Pergunta 47:
+	1: One man bet another that he could outstare a duck
+	2:  A duck was found and stared at
+	3:  Although the duck was unaware of what was happening, it did not blink
+	4:  It did, however, wet its eyes with its nictitating membrane
+	5: 
+Resposta: This is not a question, it seems to be a continuation of the story. Please provide the next part of the story and the question with two possible endings. I'll be happy to help.
+----------
+Pergunta 48:
+	1: Which of these fragments concludes the story in a coherent way? 
+1
+	2:  The man eventually blinked
+	3:  
+2
+	4:  The man wanted to lose his bet
+	5: 
+Resposta: 1 
+
+----------
+Pergunta 49:
+	1: Cindy was at a restaurant
+	2:  And she ordered hot soup
+	3:  But the waitress forgot to tell her that the bowl was hot
+	4:  So when received the bowl from the waitress, she hurt her hands
+	5: 
+Resposta: This fragment sets up a situation with a clear cause and effect:
+
+* **Cause:** The waitress forgot to warn Cindy about the hot bowl.
+* **Effect:** Cindy hurt her hands. 
+
+The story is leaning towards a humorous,  slightly negative tone due to the irony of the situation.  We need an ending that continues this tone and builds on the established cause-and-effect relationship. 
+
+
+
+----------
+Pergunta 50:
+	1: Which of these fragments concludes the story in a coherent way? 
+1
+	2:  Cindy went and ran cold water over her hands
+	3:  
+2
+	4:  Cindy continued holding the soup
+	5: 
+Resposta: 1 
+
+----------
+----------------------------------------
+### Respostas Completas: 1 
+
+
+📏 Upper Diagonal of the Link Matrix:
+------------------------------------------------------------
+[gemma2-9b-it_0.7, gemma2-9b-it_0.7] = 1.00	[gemma2-9b-it_0.7, llama3-8b-8192_0.8] = INF	[gemma2-9b-it_0.7, llama3-70b-8192_0.3] = INF	[gemma2-9b-it_0.7, llama3-70b-8192_0.2] = INF	[gemma2-9b-it_0.7, gemma2-9b-it_0.9] = INF	[gemma2-9b-it_0.7, gemma2-9b-it_0.6] = INF	[gemma2-9b-it_0.7, llama3-8b-8192_0.1] = INF	[gemma2-9b-it_0.7, deepseek-r1-distill-llama-70b_0.3] = INF	
+[llama3-8b-8192_0.8, llama3-8b-8192_0.8] = INF	[llama3-8b-8192_0.8, llama3-70b-8192_0.3] = INF	[llama3-8b-8192_0.8, llama3-70b-8192_0.2] = INF	[llama3-8b-8192_0.8, gemma2-9b-it_0.9] = INF	[llama3-8b-8192_0.8, gemma2-9b-it_0.6] = INF	[llama3-8b-8192_0.8, llama3-8b-8192_0.1] = INF	[llama3-8b-8192_0.8, deepseek-r1-distill-llama-70b_0.3] = INF	
+[llama3-70b-8192_0.3, llama3-70b-8192_0.3] = INF	[llama3-70b-8192_0.3, llama3-70b-8192_0.2] = INF	[llama3-70b-8192_0.3, gemma2-9b-it_0.9] = INF	[llama3-70b-8192_0.3, gemma2-9b-it_0.6] = INF	[llama3-70b-8192_0.3, llama3-8b-8192_0.1] = INF	[llama3-70b-8192_0.3, deepseek-r1-distill-llama-70b_0.3] = INF	
+[llama3-70b-8192_0.2, llama3-70b-8192_0.2] = INF	[llama3-70b-8192_0.2, gemma2-9b-it_0.9] = INF	[llama3-70b-8192_0.2, gemma2-9b-it_0.6] = INF	[llama3-70b-8192_0.2, llama3-8b-8192_0.1] = INF	[llama3-70b-8192_0.2, deepseek-r1-distill-llama-70b_0.3] = INF	
+[gemma2-9b-it_0.9, gemma2-9b-it_0.9] = INF	[gemma2-9b-it_0.9, gemma2-9b-it_0.6] = INF	[gemma2-9b-it_0.9, llama3-8b-8192_0.1] = INF	[gemma2-9b-it_0.9, deepseek-r1-distill-llama-70b_0.3] = INF	
+[gemma2-9b-it_0.6, gemma2-9b-it_0.6] = INF	[gemma2-9b-it_0.6, llama3-8b-8192_0.1] = INF	[gemma2-9b-it_0.6, deepseek-r1-distill-llama-70b_0.3] = INF	
+[llama3-8b-8192_0.1, llama3-8b-8192_0.1] = INF	[llama3-8b-8192_0.1, deepseek-r1-distill-llama-70b_0.3] = INF	
+[deepseek-r1-distill-llama-70b_0.3, deepseek-r1-distill-llama-70b_0.3] = INF	
+------------------------------------------------------------

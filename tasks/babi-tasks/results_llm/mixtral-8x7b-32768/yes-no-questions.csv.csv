@@ -1,0 +1,14 @@
+question,y,y_hat
+Daniel went to the bathroom. Sandra travelled to the garden. Is Sandra in the bedroom?,no,"No.
+
+The text states that Sandra traveled to the garden, not the bedroom. Therefore, it is not possible for Sandra to be in the bedroom based on the given information."
+Sandra moved to the office. Mary travelled to the office. Is Sandra in the office?,yes,"No.
+
+The information provided states that Sandra moved to the office and Mary also traveled to the office. However, it does not specify whether Sandra is still in the office or not. Therefore, based on the given information, it is not possible to conclude that Sandra is in the office."
+John grabbed the football there. John put down the football. Is Mary in the hallway?,no,"No.
+
+The information provided states that John grabbed and put down the football, but it does not specify his location before or after putting down the football. It also does not mention Mary's location or movements. Therefore, based on the given information, it is not possible to conclude that Mary is in the hallway."
+Sandra went to the bedroom. Sandra journeyed to the bathroom. Is Sandra in the bathroom?,yes,No.
+John grabbed the football there. Mary travelled to the bathroom. Is Sandra in the office?,no,"No.
+
+The information provided states that John grabbed the football and put it down, but it does not specify his location before or after putting down the football. It also does not mention Sandra's location or movements. Therefore, based on the given information, it is not possible to conclude that Sandra is in the office."

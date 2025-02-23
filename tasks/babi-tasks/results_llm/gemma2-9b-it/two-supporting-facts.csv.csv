@@ -1,0 +1,6 @@
+question,y,y_hat
+Mary grabbed the milk there. John travelled to the bedroom. Mary went back to the bathroom. John travelled to the garden. Where is the milk?,bathroom,In the bathroom
+Daniel journeyed to the hallway. John journeyed to the bedroom. Mary went back to the bedroom. Sandra travelled to the office. Mary moved to the garden. Sandra took the football there. Mary moved to the kitchen. Mary moved to the hallway. John went back to the kitchen. Mary discarded the milk there. Where is the milk?,hallway,Kitchen
+Daniel took the milk there. Daniel left the milk. Where is the milk?,hallway,there
+Mary went to the kitchen. Daniel journeyed to the garden. Where is the milk?,hallway,
+Sandra journeyed to the kitchen. Mary went back to the office. Where is the milk?,hallway,

@@ -1,0 +1,2 @@
+question,y,y_hat
+Bernhard is a swan. Brian is a rhino. Bernhard is white. Lily is a swan. Julius is a frog. Lily is white. Brian is white. Greg is a frog. Greg is white. What color is Julius?,white,"Julius is not white. The only characters that are described as white are Bernhard the swan, Brian the rhino, and Lily the swan. Julius is a frog, and frogs are not described as being white."

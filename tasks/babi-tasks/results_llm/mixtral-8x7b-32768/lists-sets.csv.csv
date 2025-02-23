@@ -1,0 +1,6 @@
+question,y,y_hat
+John went to the bathroom. Daniel travelled to the garden. Mary moved to the hallway. Sandra moved to the bedroom. Daniel journeyed to the hallway. Mary picked up the apple there. What is Mary carrying?,apple,Mary is carrying the apple.
+Sandra travelled to the bathroom. Mary dropped the apple. What is Mary carrying?,nothing,Nothing.
+Daniel moved to the office. Daniel grabbed the football there. What is Mary carrying?,nothing,Nothing.
+Daniel moved to the bedroom. Mary got the apple there. What is Daniel carrying?,football,
+Daniel dropped the football. Daniel journeyed to the bathroom. What is Daniel carrying?,nothing,

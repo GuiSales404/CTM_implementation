@@ -1,0 +1,8 @@
+question,y,y_hat
+John and Sandra travelled to the garden. Then they moved to the bedroom. Where is John?,bedroom,"Bedroom 
+"
+Mary and John travelled to the bathroom. After that they journeyed to the hallway. Where is Mary?,hallway,"Hallway 
+"
+Sandra and Daniel travelled to the office. Following that they went back to the hallway. Where is Sandra?,hallway,Hallway
+Sandra and John travelled to the bedroom. Afterwards they travelled to the hallway. Where is Daniel?,hallway,
+Mary and Sandra travelled to the office. Afterwards they went to the garden. Where is Sandra?,garden,Garden

@@ -1,0 +1,6 @@
+question,y,y_hat
+Mary picked up the football there. Sandra grabbed the apple there. How many objects is Sandra carrying?,one,1
+Mary left the football. Mary grabbed the football there. How many objects is Mary carrying?,one,1
+Sandra passed the apple to Daniel. John moved to the bedroom. How many objects is Sandra carrying?,none,1
+Daniel gave the apple to Sandra. John moved to the garden. How many objects is Mary carrying?,one,1
+Sandra went to the bathroom. Mary left the football. How many objects is Mary carrying?,none,1
